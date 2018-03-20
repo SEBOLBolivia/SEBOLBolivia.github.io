@@ -1,0 +1,127 @@
+-
+  id: 0
+  name: "Carlos"
+  surname: "Végh"
+  company: "The World Bank"
+  title: "BCDE 2017"
+  thumbnailUrl: CarlosVegh.jpg
+
+-
+  id: 1
+  name: "Sara"
+  surname: "Farley"
+  company: "Global Knowledge Initiative"
+  title: "BCDE 2017"
+  thumbnailUrl: SaraFarley.jpg
+
+-
+  id: 2
+  name: "David"
+  surname: "Bishai"
+  company: "John Hopkins Univerity"
+  title: "BCDE 2016"
+  thumbnailUrl: DavidBishai.jpg
+
+-
+  id: 3
+  name: "Franciso H."
+  surname: "Ferreira"
+  company: "The World Bank"
+  title: "BCDE 2016"
+  thumbnailUrl: FrancisoHFerreira.jpg
+
+-
+  id: 8
+  name: "Tyler"
+  surname: "Cowen"
+  company: "George Mason University"
+  title: "BCDE 2014"
+  thumbnailUrl: TylerCowen.jpg
+
+-
+  id: 9
+  name: "Hans"
+  surname: "Rosling"
+  company: "Gap Minder Foundation"
+  title: "BCDE 2014"
+  thumbnailUrl: HansRosling.jpg
+
+-
+  id: 5
+  name: "Roberto"
+  surname: "Rigobon"
+  company: "MIT-Sloan Business School"
+  title: "BCDE 2013"
+  thumbnailUrl: RobertoRigobon.jpg
+
+-
+  id: 6
+  name: "Eduardo"
+  surname: "Engel"
+  company: "Yale University"
+  title: "BCDE 2013"
+  thumbnailUrl: EduardoEngel.jpg
+
+
+-
+  id: 9
+  name: "Rodrigo"
+  surname: "Soares"
+  company: "Columbia University"
+  title: "BCDE 2012"
+  thumbnailUrl: RodrigoSoares.jpg
+
+-
+  id: 9
+  name: "Eduardo"
+  surname: "Lora"
+  company: "The World Bank"
+  title: "BCDE 2012"
+  thumbnailUrl: EduardoLora.jpg
+
+-
+  id: 7
+  name: "James"
+  surname: "Robinson"
+  company: "University of Chicago"
+  title: "BCDE 2011"
+  thumbnailUrl: JamesRobinson.jpg
+
+-
+  id: 10
+  name: "Santiago"
+  surname: "Levy"
+  company: "Inter-American Development Bank"
+  title: "BCDE 2011"
+  thumbnailUrl: SantiagoLevy.jpg
+
+-
+  id: 10
+  name: "Beatriz"
+  surname: "Armendariz"
+  company: "University College London"
+  title: "BCDE 2010"
+  thumbnailUrl: BeatrizArmendariz.jpg
+
+-
+  id: 11
+  name: "Máximo"
+  surname: "Torero"
+  company: "IFPRI"
+  title: "BCDE 2010"
+  thumbnailUrl: MaximoTorero.jpg
+
+-
+  id: 9
+  name: "Miguel"
+  surname: "Urquiola"
+  company: "Columbia University"
+  title: "BCDE 2009"
+  thumbnailUrl: MiguelUrquiola.jpg
+-
+  id: 12
+  name: "Norman"
+  surname: "Loayza"
+  company: "The World Bank"
+  title: "BCDE 2009"
+  thumbnailUrl: NormanLoayza.jpg
