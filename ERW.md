@@ -2,6 +2,7 @@
 layout: post
 title: Economic Research Workshop
 permalink: /ERW/
+image: hero_cover_sebol.jpg
 isStaticPost: true
 ---
 

@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-twitter-plugin
 
@@ -68,9 +68,9 @@ navigationLinks:
 #  - {link: "/blog/registration", text: "Register"}
 
 # Hero Block
-# heroImage: "hero_cover_15.jpg"
-heroTitle: "SEBOL  <typeout>"
-eventDate: "Sociedad de Economistas de Bolivia"
+heroImage: "hero_cover_sebol.jpg"
+# heroTitle: "SEBOL  <typeout>"
+# eventDate: "Sociedad de Economistas de Bolivia"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
 # typeoutFallback: "Universidad Privada Boliviana"
 # heroButtons:
@@ -126,7 +126,7 @@ venueFeatures:
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "BCDE8"
-twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php"
+# twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php"
 
 # twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 

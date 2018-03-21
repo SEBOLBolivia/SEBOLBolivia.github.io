@@ -2,6 +2,7 @@
 layout: post
 title: Nosotros
 permalink: /organizers/
+image: section_image_test.jpg
 isStaticPost: true
 ---
 
