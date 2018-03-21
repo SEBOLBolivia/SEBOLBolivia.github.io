@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Economic Research Workshop
 permalink: /ERW/
 image: hero_cover_sebol.jpg
-isStaticPost: true
+title: ERW
+isStaticPost: false
 ---
-
+### Economic Research Workshop
 Los **Talleres de Investigación Económica (Econonomic Research Workshop)** son seminarios académicos mensuales co-organizados por la **Sociedad de Economistas de Bolivia**,la **Universidad Privada Boliviana**, la fundación **INESAD**, y la **Academia Boliviana de Ciencias Económicas** con el fin de difundir y promover el análisis económico en diferentes áreas de investigación en Bolivia y en el mundo.  
 
 Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el auditorio de Postgrado de la UPB - La Paz. Tambien se difunden en streaming en el campus de Cochabamba de la UPB y pueden ser seguidos por internet por público interesado en la temática.

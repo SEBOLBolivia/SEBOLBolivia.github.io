@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/noticias/hello-world</loc>
+<loc>http://localhost:4000/2017/05/09/hello-world/</loc>
 <lastmod>2017-05-09T04:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/noticias/call-for-papers</loc>
+<loc>http://localhost:4000/2017/05/09/call-for-papers/</loc>
 <lastmod>2017-05-09T05:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/noticias/call-for-papers-es</loc>
+<loc>http://localhost:4000/2017/06/23/call-for-papers-es/</loc>
 <lastmod>2017-06-23T05:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/noticias/invited-speakers</loc>
+<loc>http://localhost:4000/2017/06/23/invited-speakers/</loc>
 <lastmod>2017-06-23T05:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/noticias/registration</loc>
+<loc>http://localhost:4000/2017/10/15/registration/</loc>
 <lastmod>2017-10-15T05:00:00-04:00</lastmod>
 </url>
 <url>
