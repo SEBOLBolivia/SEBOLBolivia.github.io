@@ -51,7 +51,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/organizers/", text: "Nosotros"}
  # - {permalink: "/speakers/", text: "Directorio"}
- - {permalink: "/erw/", text: "ERW Workshop"}
+ - {permalink: "/ERW/", text: "ERW Workshop"}
  - {permalink: "/noticias/", text: "Noticias"}
  # - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/logistics/", text: "Logistics"}
