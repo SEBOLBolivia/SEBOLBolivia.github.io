@@ -68,7 +68,7 @@ navigationLinks:
 #  - {link: "/blog/registration", text: "Register"}
 
 # Hero Block
-heroImage: "hero_sebol2.jpg"
+heroImage: "hero_sebol3.jpg"
 # heroTitle: "SEBOL  <typeout>"
 # eventDate: "Sociedad de Economistas de Bolivia"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
@@ -137,7 +137,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Suscríbete a nuestro boletín mensual"
+subscribeTitle: "Suscríbete a nuestro boletín"
 subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b"
 # subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
@@ -199,7 +199,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:contact@sebol.org", text: "contact@sebol.org"}
+   - {link: "mailto:admin@sebol.org", text: "admin@sebol.org"}
  # -
  #  title: "FAQ"
  #  links:
