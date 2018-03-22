@@ -3,6 +3,10 @@
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
+            <!-- <h5>
+                This is a test of random text
+            </h5> -->
+            <br>
             {% for row in site.hackathonRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-4">

@@ -141,7 +141,7 @@ nav {
 .right-nav-button {
     margin: 11px 11px 0 0;
     transition: $base-transition;
-    opacity: 1;
+    opacity: 0;
     display: block;
     &:nth-of-type(1) {
         margin-right: 65px;
@@ -157,9 +157,9 @@ nav {
 .icon-menu {
     width: 20px;
     height: 20px;
-    fill: #e6e6e6;
+    fill: #263c7f;
     .top-header.after-scroll & {
-        fill: #464646;
+        fill: #263c7f;
     }
 }
 .menu-trigger {

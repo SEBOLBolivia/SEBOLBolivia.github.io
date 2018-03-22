@@ -51,12 +51,12 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/organizers/", text: "Nosotros"}
  # - {permalink: "/speakers/", text: "Directorio"}
- - {permalink: "/ERW/", text: "ERW Workshop"}
+ - {permalink: "/ERW/", text: "Talleres"}
  - {permalink: "/noticias/", text: "Noticias"}
  # - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/buses.pdf", text: "Buses"}
- - {permalink: "/bcde/", text: "BCDE"}
+ - {permalink: "/bcde/", text: "Conferencias"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
@@ -68,7 +68,7 @@ navigationLinks:
 #  - {link: "/blog/registration", text: "Register"}
 
 # Hero Block
-heroImage: "hero_cover_sebol.jpg"
+heroImage: "hero_sebol2.jpg"
 # heroTitle: "SEBOL  <typeout>"
 # eventDate: "Sociedad de Economistas de Bolivia"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'
