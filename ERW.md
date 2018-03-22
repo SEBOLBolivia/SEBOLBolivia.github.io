@@ -2,10 +2,10 @@
 layout: post
 permalink: /ERW/
 image: test5.jpg
-title: Nuestros Talleres
+title: Talleres
 isStaticPost: true
 ---
-#### Tallers de Investigación Económica (ERW)
+#### Talleres de Investigación Económica (ERW)
 Los **Talleres de Investigación Económica (Econonomic Research Workshop)** son seminarios académicos mensuales co-organizados por la **Sociedad de Economistas de Bolivia**,la **Universidad Privada Boliviana**, la fundación **INESAD**, y la **Academia Boliviana de Ciencias Económicas** con el fin de difundir y promover el análisis económico en diferentes áreas de investigación en Bolivia y en el mundo.  
 
 Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el auditorio de Postgrado de la UPB - La Paz. Tambien se difunden en streaming en el campus de Cochabamba de la UPB y pueden ser seguidos por internet por público interesado en la temática.
@@ -29,7 +29,7 @@ Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el 
 
 * **Lykke E. Andersem (INESAD)**: “Bolivia’s Green National Accounts through a Commodity Super Cycle”
 
-* **Luis Catsro (UPB)**: “Can licencing Induce productivity? Exploring the IPR effect”
+* **Luis Castro (UPB)**: “Can licencing Induce productivity? Exploring the IPR effect”
 
 * **Carlos Gustavo Machicado (INESAD)**: “Causas Próximas y profundas del crecimiento en Bolivia: un enfoque institucional”
 
