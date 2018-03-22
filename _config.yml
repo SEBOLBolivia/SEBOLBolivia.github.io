@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "BCDE8"
-email: "admin@bcde8.org"
-description: "Bolivian Conference on Development Economics"
+title: "SEBOL"
+email: "admin@sebol.org"
+description: "Sociedad de Economistas de Bolivia"
 baseurl: ""
 # url: "https://sebolbolivia.github.io"
 # alias: "https://sebolbolivia.github.io"
@@ -30,7 +30,7 @@ google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
 organizerName: "SEBOL"
 organizerAlternateName: "Sociedad de Economistas de Bolivia"
 organizerDescription: ""
-organizerEmail: "admin@bcde8.org"
+organizerEmail: "admin@sebol.org"
 organizerLogo: "/img/seo/logo-upb-small.png"
 organizerLink: "http://www.sebol.org"
 
@@ -137,7 +137,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Suscríbete a nuestra boletín mensual"
+subscribeTitle: "Suscríbete a nuestro boletín mensual"
 subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b"
 # subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
@@ -200,10 +200,10 @@ footerBlocks:
   title: "Contacts"
   links:
    - {link: "mailto:contact@sebol.org", text: "contact@sebol.org"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Ultimas noticias"

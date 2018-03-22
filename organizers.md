@@ -1,11 +1,10 @@
 ---
 layout: post
 permalink: /organizers/
-image: hero_cover_sebol.jpg
-isStaticPost: false
+image: test5.jpg
+title: Nosotros
+isStaticPost: true
 ---
-
-### Nosotros
 #### Sobre la SEBOL
 La Sociedad de Economistas de Bolivia (SEBOL) es una sociedad científica sin fines de lucro, legalmente establecida en el Estado Plurinacional de Bolivia.
 
