@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Nueva Página de SEBOL"
+date:  2018-03-15 09:00:00
+image: test6.jpg
+visible: 1
+isStaticPost: false
+---
+
+#### Bienvenidos
+Hemos rediseñado nuestra página web para ofrecer un contenido más dinámico y actualizado a nuestros usuarios.
+
+Gracias por visitarnos y ayudanos a compartir esta información a través de:
+ [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/) y [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia).

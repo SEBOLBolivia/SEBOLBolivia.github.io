@@ -2,7 +2,7 @@
 layout: post
 title:  "Convocatoria para documentos de trabajo"
 date:   2017-06-23 09:00:00
-image: view_call_1.jpg
+image: test6.jpg
 visible: 0
 isStaticPost: false
 ---

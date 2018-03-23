@@ -3,7 +3,7 @@ layout: post
 title:  "Call for Papers"
 date:   2017-05-09 09:00:00
 image: view_call_1.jpg
-visible: 1
+visible: 0
 isStaticPost: false
 ---
 We are delighted to announce that the 8th Bolivian Conference on Development Economics (BCDE8) will take place in Cochabamba, Bolivia, on Thursday October 26 and Friday October 27, 2017. The conference this year is jointly organized by the Institute for Advanced Development Studies (INESAD), the Society of Bolivian Economists (SEBOL), Universidad Privada Boliviana (UPB), and the Bolivian Academy of Economic Science (ABCE).

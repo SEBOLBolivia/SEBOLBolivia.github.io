@@ -24,7 +24,7 @@ baseurl: ""
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Maps
-google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
+# google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
 
 # Organizer Info
 organizerName: "SEBOL"
@@ -49,14 +49,14 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/organizers/", text: "Nosotros"}
+ - {permalink: "/nosotros/", text: "Nosotros"}
  # - {permalink: "/speakers/", text: "Directorio"}
- - {permalink: "/ERW/", text: "Talleres"}
+ - {permalink: "/erw/", text: "Talleres"}
  - {permalink: "/noticias/", text: "Noticias"}
  # - {permalink: "/schedule/", text: "Program"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/buses.pdf", text: "Buses"}
- - {permalink: "/bcde/", text: "Conferencias"}
+ - {permalink: "/conferencias/", text: "Conferencias"}
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
@@ -80,8 +80,8 @@ heroImage: "hero_sebol3.jpg"
 # About Block
 aboutTitle: "Nuestras actividades"
 aboutBlock:
- - {title: "BCDE", image: "bcde7.jpg", text: "La Conferencia Boliviana en Desarrollo Economico (Bolivian Conference on Development Economics) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia." }
- - {title: "ERW", image: "erw.jpg", text: "El Taller de Investigación Económica (Economic Research Workshop) es un seminario mensual organizado por SEBOL y la Universidad Privada Boliviana en el que se presentan y discuntes recientes trabajos de investigación académica en todos los campos de la económia." }
+ - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/conferencias/">Detalles.</a>' }
+ - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
  # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
 # Statistic Block
@@ -266,15 +266,15 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Conferencias Pasadas"
 hackathonRows:
- - {title: "8va BCDE", image: "bcde2017.png", details: "Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017. Link al programa"}
- - {title: "7ma BCDE", image: "bcde2016.png", details: "Realizada en la UPB. La Paz, 8 y 9 de diciembre de 2016. Link al programa"}
- - {title: "LACEA XX", image: "lacea.png", details: "Realizada en la UPSA. Santa Cruz, 15 - 17 de octubre de 2015. Link al programa"}
- - {title: "6ta BCDE", image: "bcde2014.png", details: "Realizada en la UPB. Cochabamba, 28 y 29 de agosto de 2014. Link al programa"}
- - {title: "5ta BCDE", image: "bcde2013.png", details: "Realizada en la UPSA. Santa Cruz, 14 y 15 de noviembre de 2013. Link al programa"}
- - {title: "4ta BCDE", image: "bcde2012.png", details: "Realizada en la EMI. La Paz, 6 y 7 de noviembre de 2012. Link al programa"}
- - {title: "3ra BCDE", image: "bcde2011.png", details: "Realizada en la UCB. La Paz, 14 y 15 de noviembre de 2011. Link al programa"}
- - {title: "2da BCDE", image: "bcde2010.png", details: "Realizada en la UPB, La Paz, 18 y 19 de noviembre de 2010. Link al programa"}
- - {title: "1ra BCDE", image: "bcde2009.png", details: "Realizada en la UPB, La Paz, 8 y 9 de octubre de 2009. Link al programa"}
+ - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://www.bcde8.org" target="_blank"> Link.</a>'}
+ - {title: "7ma BCDE", image: "bcde2016.png", details: 'Realizada en la UPB. La Paz, 8 y 9 de diciembre de 2016.<a href="http://www.inesad.edu.bo/web/en/bcde2016/" target="_blank"> Link.</a>'}
+ - {title: "LACEA XX", image: "lacea.png", details: 'Realizada en la UPSA. Santa Cruz, 15 - 17 de octubre de 2015.<a href="http://laceameeting.com" target="_blank"> Link.</a>'}
+ - {title: "6ta BCDE", image: "bcde2014.png", details: 'Realizada en la UPB. Cochabamba, 28 y 29 de agosto de 2014.<a href="http://www.inesad.edu.bo/bcde2014/" target="_blank"> Link.</a>'}
+ - {title: "5ta BCDE", image: "bcde2013.png", details: 'Realizada en la UPSA. Santa Cruz, 14 y 15 de noviembre de 2013.<a href="http://www.inesad.edu.bo/bcde2013/" target="_blank"> Link.</a>'}
+ - {title: "4ta BCDE", image: "bcde2012.png", details: 'Realizada en la EMI. La Paz, 6 y 7 de noviembre de 2012.<a href="http://www.inesad.edu.bo/bcde2012/" target="_blank"> Link.</a>'}
+ - {title: "3ra BCDE", image: "bcde2011.png", details: 'Realizada en la UCB. La Paz, 14 y 15 de noviembre de 2011.<a href="http://www.inesad.edu.bo/bcde2011/" target="_blank"> Link.</a>'}
+ - {title: "2da BCDE", image: "bcde2010.png", details: 'Realizada en la UPB, La Paz, 18 y 19 de noviembre de 2010.<a href="http://www.inesad.edu.bo/bcde2010/" target="_blank"> Link.</a>'}
+ - {title: "1ra BCDE", image: "bcde2009.png", details: 'Realizada en la UPB, La Paz, 8 y 9 de octubre de 2009.<a href="http://www.inesad.edu.bo/web/en/bcde2009/" target="_blank"> Link.</a>'}
  # - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
 
 # Hackathon Judges Block

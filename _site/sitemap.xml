@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2017/05/09/hello-world/</loc>
-<lastmod>2017-05-09T04:00:00-04:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2017/05/09/call-for-papers/</loc>
 <lastmod>2017-05-09T05:00:00-04:00</lastmod>
 </url>
@@ -13,21 +9,21 @@
 <lastmod>2017-06-23T05:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017/06/23/invited-speakers/</loc>
-<lastmod>2017-06-23T05:00:00-04:00</lastmod>
+<loc>http://localhost:4000/2018/03/15/hello/</loc>
+<lastmod>2018-03-15T05:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017/10/15/registration/</loc>
-<lastmod>2017-10-15T05:00:00-04:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/bcde/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/ERW/</loc>
+<loc>http://localhost:4000/2018/03/16/bcde9-announcement/</loc>
+<lastmod>2018-03-16T05:00:00-04:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/cod/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/conferencias/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/erw/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -36,10 +32,10 @@
 <loc>http://localhost:4000/logistics/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/noticias/</loc>
+<loc>http://localhost:4000/nosotros/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/organizers/</loc>
+<loc>http://localhost:4000/noticias/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/schedule/</loc>
