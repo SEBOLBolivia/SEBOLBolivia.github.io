@@ -1,11 +1,11 @@
 ---
 layout: post
-permalink: /nosotros/
+permalink: /miembros/
 image: test6.jpg
-title: Nosotros
+title: Miembros
 isStaticPost: false
 ---
-#### Sobre la SEBOL
+#### Como Formar Parte de
 La __Sociedad de Economistas de Bolivia (SEBOL)__ es una sociedad científica sin fines de lucro, legalmente establecida en el Estado Plurinacional de Bolivia.
 
 #### Misión
@@ -25,19 +25,12 @@ Fomentar los estudios e investigaciones, tanto de carácter teórico como empír
 
 #### Directorio 2018-2020
 
-Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los estatutos y el reglamento de SEBOL:
-
 * **Presidente:** Pablo Cuba Borda (Federal Reserve Board)
 * **Vice-presidente:** Oscar Molina (UPB,ABCE,INESAD)
 * **Secretario General:** Luis Gonzales Carrasco (University of Chicago)
-* **Tesorero:** Joaquin Morales (UPB)
-* **Past-President:** Boris Branisa (INESAD, UPB)
+* **Director y Tesorero:** Joaquin Morales (UPB)
+* **Director y Past-President:** Boris Branisa (INESAD, UPB)
 * **Director:** Ricardo Nogales (UPB)
 * **Director:** José Peres Cajías (UCB-EPC)
 * **Director:** Walter Valdivia (George Mason University)
 * **Director:** Natalia Zegarra (SEBOL)
-
-#### Estatutos y Reglamento
-
-* <a href="/assets/SEBOL_Estatutos.pdf" target="_blank">Estatutos de SEBOL</a>
-* <a href="/assets/SEBOL_Reglamento Interno.pdf" target="_blank">Reglamento Interno</a>

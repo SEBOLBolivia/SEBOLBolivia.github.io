@@ -23,6 +23,9 @@
 <loc>http://localhost:4000/conferencias/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/erw/</loc>
 </url>
 <url>
@@ -30,6 +33,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/logistics/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/miembros/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/nosotros/</loc>
@@ -51,5 +57,13 @@
 </url>
 <url>
 <loc>http://localhost:4000/bcde9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/SEBOL_Estatutos.pdf</loc>
+<lastmod>2018-04-05T03:09:05-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/SEBOL_Reglamento%20Interno.pdf</loc>
+<lastmod>2018-04-05T00:18:15-04:00</lastmod>
 </url>
 </urlset>

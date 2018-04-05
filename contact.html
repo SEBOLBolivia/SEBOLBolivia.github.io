@@ -1,0 +1,58 @@
+---
+layout: default
+title:
+permalink: /contact/
+image: test6.jpg
+title: Contactanos
+---
+
+ {% include top-section.html %}
+
+ <!-- Begin Blog-->
+ <section id="blog" class="blog">
+     <div class="content-wrapper text-left">
+         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+             <!-- <h3>{{ site.blogTitle }}</h3> -->
+
+             <form class="wj-contact" action="https://formspree.io/sebol.bolivia+contactform@gmail.com" method="POST">
+                 <input type="text" name="firstname" placeholder="Nombre">
+                 <input type="text" name="lastname" placeholder="Apellido">
+                <input type="text" name="email" placeholder="Correo Electronico">
+                <textarea type="text" name="content" rows="10" placeholder="Mensaje"></textarea>
+                <input type="hidden" name="_next" value="/">
+                <input type="hidden" name="_subject" value="New Contact Form Submission">
+                <input type="text" name="_gotcha" style="display:none">
+                <input type="submit" value="Enviar">
+            </form>
+
+            <style>
+            form.wj-contact input[type="text"], form.wj-contact textarea[type="text"] {
+                width: 60%;
+                vertical-align: middle;
+                margin-top: 0.25em;
+                margin-bottom: 0.5em;
+                padding: 0.80em;
+                font-family: monospace, sans-serif;
+                font-weight: lighter;
+                border-style: solid;
+                border-color: #444;
+                outline-color: #2e83e6;
+                border-width: 1px;
+                border-radius: 3px;
+                transition: box-shadow .2s ease;
+            }
+            form.wj-contact input[type="submit"] {
+                outline: none;
+                color: white;
+                background-color: #2e83e6;
+                border-radius: 3px;
+                padding: 0.5em;
+                margin: 1.25em 0 0 0;
+                border: 1px solid transparent;
+                height: auto;
+            }
+            </style>
+         </div>
+     </div>
+ </section>
+ <!-- End Blog -->

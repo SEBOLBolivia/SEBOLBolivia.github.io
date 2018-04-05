@@ -50,13 +50,14 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/nosotros/", text: "Nosotros"}
+ - {permalink: "/conferencias/", text: "Conferencias"}
  # - {permalink: "/speakers/", text: "Directorio"}
  - {permalink: "/erw/", text: "Talleres"}
  - {permalink: "/noticias/", text: "Noticias"}
- # - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/contact/", text: "Contacto"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/buses.pdf", text: "Buses"}
- - {permalink: "/conferencias/", text: "Conferencias"}
+
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
