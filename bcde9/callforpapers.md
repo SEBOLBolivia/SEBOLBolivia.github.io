@@ -8,7 +8,7 @@ isStaticPost: true
 #### 9th Bolivian Conference on Development Economics.
 ##### November 29-30, 2018. Santa Cruz, Bolivia.
 <br>
-We are delighted to announce that the __9th Bolivian Conference on Development Economics (BCDE9)__ will take place in Santa Cruz, Bolivia, on __Thursday November 29 and Friday November 30, 2018__. The conference this year is jointly organized by the the Society of Bolivian Economists __(SEBOL)__, Institute for Advanced Development Studies __(INESAD)__, the Bolivian Academy of Economic Science __(ABCE)__ and Universidad Privada de Santa Cruz __(UPSA)__.
+We are delighted to announce that the __9th Bolivian Conference on Development Economics (BCDE9)__ will take place in Santa Cruz, Bolivia, on __Thursday November 29 and Friday November 30, 2018__. The conference this year is jointly organized by the Society of Bolivian Economists __(SEBOL)__, Institute for Advanced Development Studies __(INESAD)__, the Bolivian Academy of Economic Science __(ABCE)__ and Universidad Privada de Santa Cruz __(UPSA)__.
 
 #### Keynote Speakers
 __Ariel Kalil__ (Ph.D. University of Michigan) is a professor at the __University of Chicago-Harris School of Public Policy__. At Harris, she directs the Center for Human Potential and Public Policy and co-directs the Behavioral Insights and Parenting Lab. Ariel is a developmental psychologist who studies economic conditions, parenting, and child development. Her current research examines the historical evolution of income-based gaps in parenting behavior and children’s cognitive and non-cognitive skills. She is leading a variety of field experiments designed to strengthen parental engagement and child development in low-income families using tools drawn from behavioral economics and neuroscience.
