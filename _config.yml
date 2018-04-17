@@ -51,13 +51,13 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/nosotros/", text: "Nosotros"}
  - {permalink: "/conferencias/", text: "Conferencias"}
- # - {permalink: "/speakers/", text: "Directorio"}
  - {permalink: "/erw/", text: "Talleres"}
  - {permalink: "/noticias/", text: "Noticias"}
+ - {permalink: "/bcde9/", text: "BCDE9"}
  - {permalink: "/contact/", text: "Contacto"}
+ # - {permalink: "/speakers/", text: "Directorio"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/buses.pdf", text: "Buses"}
-
  # - {permalink: "/team/", text: "Team"}
  # - {permalink: "/blog/call-for-papers", text: "Call for papers"}
  # - {link: "http://www.sebol.org.bo", text: "About SEBOL"}
@@ -65,8 +65,12 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  # - {permalink: "/team/", text: "Organizers"}
  # - {permalink: "/sponsors/", text: "Sponsors"}
-# rightNavigationButtons:
-#  - {link: "/blog/registration", text: "Register"}
+rightNavigationButtons:
+  - {link: "/bcde9/callforpapers", text: "Call For Papers"}
+BCDEnavigationLinks:
+ - {permalink: "/bcde9/", text: "Home"}
+ - {permalink: "/bcde9/callforpapers", text: "Call for papers"}
+ - {permalink: "/", text: "Sebol"}
 
 # Hero Block
 heroImage: "hero_sebol3.jpg"
@@ -85,8 +89,16 @@ aboutBlock:
  - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
  # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
+# About BCDE
+aboutBCDETitle: "Welcome to BCDE9"
+aboutBCDEBlock:
+ - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Read our call for papers for the 9th Bolivian Conference on Development Economics. <a href="/bcde9/callforpapers/">Link.</a>' }
+ # - {title: "Convocatoria Documentos de Trabajo", image: "erw.jpg", text: 'Lee la convocatoria para documentos de investigación. <a href="/erw/">Detalles.</a>' }
+ # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
+
+
 # Statistic Block
-statisticBlockImage: "hero_abstract_4.jpg"
+# statisticBlockImage: "hero_abstract_4.jpg"
 statisticBlock:
  - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
@@ -99,7 +111,8 @@ latestNewsTitle: "Noticias recientes"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersTitle: "Keynote speaker"
+rockstarSpeakersSubTitle: "Special Guests"
 rockstarSpeakersButtonText: "Learn more about our speakers"
 
 # Location Block
@@ -119,9 +132,18 @@ mapCenterCoordinates: "-17.396416, -66.218217"
 mapMobileCenterCoordinates: "-17.396416, -66.218217"
 
 # Venue Block
-venueBlockTitle: "Conference Venue"
-venueFeatures:
- - {title: "UPB Campus Cochabamba", image: "venue_1.jpg", text: "Av. Victor Ustariz Km 6.5, Cochabamba-Bolivia <br> Phone number: (+591-4) 426-8287."}
+# venueBlockTitle: "Conference Venue"
+# venueFeatures:
+#  - {title: "UPB Campus Cochabamba", image: "venue_1.jpg", text: "Av. Victor Ustariz Km 6.5, Cochabamba-Bolivia <br> Phone number: (+591-4) 426-8287."}
+venueBlockTitle: "Location </br> Universidad Privada de Santa Cruz"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Campus Universitario"
+venueFeatures: ["Av. Paraguá y 4to. Anillo", "Tel.: +591 (3) 346 4000", '<a href="https://goo.gl/maps/yP9frJKCD3F2">Google Maps Directions</a>']
+
+
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -143,47 +165,46 @@ subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a59
 # subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
 # Tickets Block
-# ticketsTitle: "Registration schedule"
-# ticketsInfo: "Registration grant access to all conference sections and coffee brakes. Accommodation is NOT included in the registration fee."
-showTickets: false
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "360"
-#   priceCurrency: "BOP"
-#   # ticketsNumber: "150"
-#   ribbon: "-20%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "pre-registration"
-#   ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
-#   validFrom: "2017-06-25T10:00"
-#   validThrough: "2017-09-25T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "BOP"
-#   # ticketsNumber: "100"
-#   # ribbon: "'"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Full access to all sessions", "Invitation to conference lunch and dinner", "Free refreshments during the conference"]
-#   validFrom: "2017-09-26T00:00"
-#   validThrough: "2017-10-26T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "250"
-#   priceCurrency: "BOP"
-#   # ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "pre-regristration"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Full access to all sessions", "-25% for pre-conference workshops", "Free refreshments during the conference"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   # soldOut: true
-#   # soldOutText: "pre-registration open"
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

@@ -1,14 +1,56 @@
 <!-- Begin Rockstar Speakers Section -->
 <section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/{{ site.rockstarSpeakersImage }});">
-	<div class="overlay solid-overlay"></div>
-	<div class="content-wrapper">
-		<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
-			<h3 id="rockstar-speaker-title">{{ site.rockstarSpeakersTitle }}</h3>
-			<div class="clearfix"></div> 
+<div class="overlay solid-overlay"></div>
+<div class="content-wrapper">
+	<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+		<h3 id="rockstar-speaker-title">{{ site.rockstarSpeakersTitle }}</h3>
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for judge in site.data.speakers %}
+							{% if judge.rockstar %}
+							{% assign colWidth = 12 | divided_by: 12 %}
+							<div class="judge col-md-{{ 12 }} col-xs-12 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
+											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
+											<span class="company">{{ judge.company }}</span>
+											<span class="company">{{ judge.title }}</span>
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
+			<!-- <h4 id="rockstar-speaker-subtitle">{{ site.rockstarSpeakersSubTitle }}</h4>
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for judge in site.data.speakers %}
+							{% if judge.invited %}
+							{% assign colWidth = 12 | divided_by: 6 %}
+							<div class="judge col-md-{{ 6 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
+											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
+											<span class="company">{{ judge.company }}</span>
+											<span class="company">{{ judge.title }}</span>
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
 			<span class="bordered">
-				<a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a>
-			</span>
-		</div>
+			<a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a>
+		</span>
 	</div>
+</div> -->
+
+
 </section>
 <!-- End Rockstar Speakers Section -->

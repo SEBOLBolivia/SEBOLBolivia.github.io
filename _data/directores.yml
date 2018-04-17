@@ -1,0 +1,98 @@
+-
+  id: 3
+  name: "Pablo"
+  surname: "Cuba-Borda"
+  company: "Presidente <br /> World Bank <br /> Chief Economist for Latin America"
+  title: ""
+  bio: "<p>is the World Bank Chief Economist for Latin America and the Caribbean. He was the Fred H. Sanderson Professor of International Economics at the Johns Hopkins School of Advanced International Studies (SAIS) and a Research Associate at the National Bureau of Economic Research (NBER). He also served as Professor of Economics at UCLA and at the University of Maryland.</p>"
+  thumbnailUrl: PabloCuba.jpg
+  rockstar: true
+  # social:
+    # - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 4
+  name: "Oscar"
+  surname: "Molina"
+  company: "Universidad Privada de Bolivia"
+  title: "Vice-presidente"
+  bio: '<p>Es Doctor por el Departamento de Economía y Ciencias Sociales de la Universidad Politécnica de Valencia y una licenciatura en economía es de la Universidad Católica Boliviana San Pablo. Su trabajo de investigación se centra en el análisis de las desigualdades, el comercio internacional, los mercados imperfectos y su relación entre ellas. Sus intereses incluyen Econometría, Microeconomía y Organización Industrial. Oscar es académico de Número de la Academia Boliviana de Ciencias Económicas; miembro del comité editor de varias revistas científicas en el país, así como en Perú y Colombia; Presidente de la Junta de Instituyentes de la Fundación INESAD, Vicepresidente del Directorio de la Fundación INESAD</p>'
+  thumbnailUrl: OscarMolina.jpg
+  rockstar: true
+  # social:
+  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 5
+  name: "Luis"
+  surname: "Gonzales"
+  company: "Universidad de Chicago<br /> Reserach Economist <br/>Inter-American Development Bank"
+  title: "Secretario general"
+  bio: "Andrés Fernández is a research economist in the Research Department at the Inter-American Development Bank. He holds a Ph.D. in Economics from Rutgers University. His main research agenda focuses on building, calibrating and estimating dynamic stochastic general equilibrium models for emerging economies to study the sources of business cycles in Latin American economies."
+  thumbnailUrl: LuisGonzales.jpg
+  rockstar: true
+-
+  id: 6
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+-
+  id: 7
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+-
+  id: 8
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+-
+  id: 9
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+-
+  id: 10
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+-
+  id: 11
+  name: "Walter"
+  surname: "Valdivia"
+  company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: WalterValdivia.jpg
+  rockstar: true
+
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}

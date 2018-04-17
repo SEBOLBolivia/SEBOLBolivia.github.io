@@ -27,13 +27,14 @@ Fomentar los estudios e investigaciones, tanto de carácter teórico como empír
 
 Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los estatutos y el reglamento de SEBOL:
 
-* **Presidente:** Pablo Cuba Borda (Federal Reserve Board)
+* **Presidente:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Federal Reserve Board)
 * **Vice-presidente:** Oscar Molina (UPB,ABCE,INESAD)
 * **Secretario General:** Luis Gonzales Carrasco (University of Chicago)
-* **Tesorero:** Joaquin Morales (UPB)
-* **Past-President:** Boris Branisa (INESAD, UPB)
-* **Director:** Ricardo Nogales (UPB)
-* **Director:** José Peres Cajías (UCB-EPC)
+* **Tesorero:** <a href="http://jsmoralesb.wixsite.com/personal" target="_blank"> Joaquín  Morales  Belpaire
+</a> (UPB)
+* **Past-President:** <a href="http://www.boris-branisa.net" target="_blank">Boris Branisa</a> (INESAD, UPB)
+* **Director:** Ricardo Nogales (UPB, Oxford University)
+* **Director:** <a href="https://joseperescajias.com" target="_blank">José Peres Cajías</a> (Universitat de Barcelona)
 * **Director:** Walter Valdivia (George Mason University)
 * **Director:** Natalia Zegarra (SEBOL)
 
