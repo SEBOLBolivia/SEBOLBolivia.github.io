@@ -1,7 +1,7 @@
 ---
 layout: post-bcde
 title: Call for papers
-image: test15-01.png
+image: test16-01.png
 isStaticPost: true
 ---
 
