@@ -149,6 +149,7 @@ venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueSmallImage4: "venue_4.jpg"
 venueSmallImage5: "venue_5.jpg"
+venueSmallImage5: "venue_6.jpg"
 venueTitle: "Campus Universitario"
 venueFeatures: ["Av. Paraguá y 4to. Anillo", "Tel.: +591 (3) 346 4000", '<a href="https://goo.gl/maps/yP9frJKCD3F2">Google Maps Directions</a>']
 
