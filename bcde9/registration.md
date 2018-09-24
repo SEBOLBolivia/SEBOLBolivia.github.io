@@ -12,9 +12,11 @@ isStaticPost: true
 
 #### What is included in the registration?
 
-* All registrations include access to the plenary sessions, parallel sessions and farewell cocktail.
+* All registrations include conference material, access to plenary sessions, parallel sessions and farewell cocktail.
 
 * Student Plus and Professional & Presenters have complementary lunch and coffee break service during the conference.
+
+* Participation certificates will be granted to all registered participants.
 
 #### Questions
 
