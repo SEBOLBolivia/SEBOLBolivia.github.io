@@ -13,7 +13,7 @@
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
 											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
 											<span class="company">{{ judge.company }}</span>
-											<span class="company">{{ judge.title }}</span>
+											<!-- <span class="company">{{ judge.title }}</span> -->
 							</div>
 							{% assign animationDelay = animationDelay | plus:200 %}
 							{% assign check = forloop.index | modulo:5 %}
@@ -24,7 +24,7 @@
 							{% endfor %}
 			</div>
 
-			<!-- <h4 id="rockstar-speaker-subtitle">{{ site.rockstarSpeakersSubTitle }}</h4>
+			<h4 id="rockstar-speaker-subtitle">{{ site.rockstarSpeakersSubTitle }}</h4>
 		<div class="clearfix"></div>
 			<div class="row">
 							{% assign animationDelay = 0 %} {% for judge in site.data.speakers %}
@@ -34,7 +34,7 @@
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
 											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
 											<span class="company">{{ judge.company }}</span>
-											<span class="company">{{ judge.title }}</span>
+											<!-- <span class="company">{{ judge.title }}</span> -->
 							</div>
 							{% assign animationDelay = animationDelay | plus:200 %}
 							{% assign check = forloop.index | modulo:5 %}
@@ -46,10 +46,10 @@
 			</div>
 
 			<span class="bordered">
-			<a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a>
+			<!-- <a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a> -->
 		</span>
 	</div>
-</div> -->
+</div>
 
 
 </section>

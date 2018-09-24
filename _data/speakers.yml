@@ -10,28 +10,29 @@
   social:
      - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
      - {name: "site", link: "http://olostan.name/"}
-# -
-#   id: 11
-#   name: "Guillermo"
-#   surname: "Vuletin"
-#   company: Senior Economist, Latin America and Caribbean<br />World Bank
-#   title: "Special Guest"
-#   bio: "Guillermo Vuletin is a Senior Economist at the Office of the Chief Economist for Latin America and the Caribbean of the World Bank. He is also a Non-resident Fellow in the Global Economy and Development Program at the Brookings Institution, a Visiting Professor at the Johns Hopkins School of Advanced International Studies (SAIS). He received a PhD in Economics from the University of Maryland in 2007 and an undergraduate degree and a MA in Economics from the Universidad Nacional de La Plata, Argentina. Prior to joining the World Bank, he was a Lead Economist in the Research Department at the Inter-American Development Bank."
-#   thumbnailUrl: GuillermoVuletin.jpg
-#   invited: false
-#
-#   # ribbon:
-#   #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-#   # social:
-#   #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#   #   - {name: "site", link: "http://olostan.name/"}
-#
-# -
-#   id: 12
-#   name: "Oscar"
-#   surname: "Molina"
-#   company: "George Mason University <br /> Research Economist <br />CAF-Development Bank of Latin America"
-#   title: "Director"
-#   bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
-#   thumbnailUrl: OscarMolina.jpg
-#   invited: false
+
+-
+  id: 12
+  name: "Alejandro"
+  surname: "Izquierdo"
+  company: "Chief Economist and Manager of the Research Department<br />Inter-American Development Bank  "
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: AlejandroIzquierdo.jpg
+  invited: true
+
+-
+  id: 12
+  name: "Guillermo"
+  surname: "Vuletin"
+  company: Senior Economist, Latin America and Caribbean<br />World Bank
+  title: "Special Guest"
+  bio: "Guillermo Vuletin is a Senior Economist at the Office of the Chief Economist for Latin America and the Caribbean of the World Bank. He is also a Non-resident Fellow in the Global Economy and Development Program at the Brookings Institution, a Visiting Professor at the Johns Hopkins School of Advanced International Studies (SAIS). He received a PhD in Economics from the University of Maryland in 2007 and an undergraduate degree and a MA in Economics from the Universidad Nacional de La Plata, Argentina. Prior to joining the World Bank, he was a Lead Economist in the Research Department at the Inter-American Development Bank."
+  thumbnailUrl: GuillermoVuletin.jpg
+  invited: true
+
+  # ribbon:
+  #   - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  # social:
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}

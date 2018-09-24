@@ -1,0 +1,29 @@
+<!-- Judges Section -->
+<section id="judges" class="judges image-section parallax" style="background-color: powderblue;">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>Keynote Speakers</h3>
+            <h5> We are very honored for the support and help of our past keynote speakers</h5> </br>
+            <div class="row">
+                {% assign animationDelay = 0 %} {% for judge in site.data.judges %}
+                {% assign colWidth = 12 | divided_by: 6 %}
+                <div class="judge col-md-{{ 3 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
+                    <p class="name">{{ judge.name }} {{ judge.surname }}</p>
+                    <span class="company">{{ judge.company }}</span>
+                    <span class="title">{{ judge.title }}</span>
+                </div>
+                {% assign animationDelay = animationDelay | plus:200 %}
+                {% assign check = forloop.index | modulo:5 %}
+                {% if check == 0 %}
+                <div class="clearfix visible-xs"></div>
+                {% endif %}
+                {% endfor %}
+            </div>
+
+
+        </div>
+    </div>
+</section>
+<!-- End Judges Section -->

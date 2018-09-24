@@ -24,7 +24,7 @@ alias: "https://www.sebol.org"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Maps
-# google_maps_javascript_api_key: AIzaSyDy_DAYgfh_AdZJLISWA_RhR518I40DACQ
+google_maps_javascript_api_key: AIzaSyAvfYwqjDBX1luaBy1MtbNypImk7M2olQE
 
 # Organizer Info
 organizerName: "SEBOL"
@@ -66,10 +66,14 @@ navigationLinks:
  # - {permalink: "/team/", text: "Organizers"}
  # - {permalink: "/sponsors/", text: "Sponsors"}
 rightNavigationButtons:
-  - {link: "/bcde9/callforpapers", text: "Call For Papers"}
+  - {link: "/bcde9/registration", text: "Register"}
 BCDEnavigationLinks:
  - {permalink: "/bcde9/", text: "Home"}
  - {permalink: "/bcde9/callforpapers", text: "Call for papers"}
+ - {permalink: "/bcde9/registration/", text: "Registration"}
+ - {permalink: "/bcde9/hotels/", text: "Hotels"}
+ - {permalink: "/bcde9/explore/", text: "Explore"}
+ - {permalink: "/bcde9/past/", text: "Past Conferences"}
  - {permalink: "/", text: "Sebol"}
 
 # Hero Block
@@ -90,19 +94,22 @@ aboutBlock:
  # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
 
 # About BCDE
-aboutBCDETitle: "Welcome to BCDE9"
+aboutBCDETitle: "Welcome"
 aboutBCDEBlock:
- - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Read our call for papers for the 9th Bolivian Conference on Development Economics. <a href="/bcde9/callforpapers/">Link.</a>' }
- # - {title: "Convocatoria Documentos de Trabajo", image: "erw.jpg", text: 'Lee la convocatoria para documentos de investigación. <a href="/erw/">Detalles.</a>' }
- # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
-
+ # - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Read our call for papers for the 9th Bolivian Conference on Development Economics. <a href="/bcde9/callforpapers/">Link.</a>' }
+ - {title: "Registration", image: "registration.jpg", text: 'Learn how to register for BCDE9 <a href="/bcde9/registration/"> here.</a>' }
+ - {title: "Hotels", image: "hotels.jpg", text: 'Lodging information is <a href="/bcde9/hotels/"> here.</a>' }
+ - {title: "Conference Program", image: "program.jpg", text: "Conference program coming soon." }
+ - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/bcde9/past/"> past conferences.</a>' }
+ - {title: "About Santa Cruz", image: "santacruz.jpg", text: 'Prepare for your visit. <a href="/bcde9/explore/"> Explore Santa Cruz.</a>' }
+ - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
- - {count: "50", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere: students, professionals, policy makers"}
+ # - {count: "48", specialCharacter: "+", info: "hours", detail: "of academic and policy discussion"}
+ - {count: "40", specialCharacter: "+", info: "researchers", detail: "from local and international universities and international organizations"}
  - {count: "10", specialCharacter: "+", info: "parallel sessions", detail: "with presentations and full interaction with participants"}
 
 # Latest News Block
@@ -110,7 +117,7 @@ latestNewsTitle: "Noticias recientes"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 2
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Keynote speaker"
 rockstarSpeakersSubTitle: "Special Guests"
 rockstarSpeakersButtonText: "Learn more about our speakers"
@@ -164,6 +171,7 @@ subscribeTitle: "Suscríbete a nuestro boletín"
 subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b"
 # subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
+# Tickets Block
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
@@ -232,7 +240,7 @@ blogTitle: "Ultimas noticias"
 blogCommentsEnabled: false
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About SEBOL"
@@ -251,35 +259,35 @@ findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
 logisticsMapCenterCoordinates: "-17.396416, -66.218217"
 logisticsMapMobileCenterCoordinates: "-17.396416, -66.218217"
-logisticsMapAutoDirections: false
+logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
-directionDetailsImage: "view_cbb_5.jpg"
-directionDetailsTitle: "Get around Cochabamba"
+directionDetailsImage: "view_santacruz.jpg"
+# directionDetailsTitle: "Explore Santa Cruz de la Sierra"
 directionDetailsCards:
- - {title: "Airport", information: 'Jorge Wilstermann International Airport is conveniently located 6 Km. away from downtown Cochabamba. To-From airport information is available at <a href="http://www.sabsa.aero/aeropuerto-jorge-wilsterman/">airport website</a>.', title: "Airport"}
- - {title: "Conference Buses", information: 'Special buses taking participants to the conferences are available. Check here for <a href="/buses.pdf">bus routes</a>'}
+ - {title: "Airport", information: 'Viru-Viru (VVI) is the main international airport in Santa Cruz de la Sierra and is located 25 minutes away from downtown Santa Cruz. Flight arrival and departure information is available at the <a href="http://www.sabsa.aero/viru-viru/">airport website</a>. Transportation options include taxis with an average fare of 12-15 USD or buses to downtown for a fare of under 2USD.'}
+ - {title: "Hotels", information: 'BCDE has negotiated special rates with the following hotesl: <br><br><a href="http://www.hotelcortez.com/en">Hotel Cortez</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelreginabolivia.com">Hamptons Inn Equipetrol</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://http://www.hiltonhotels.com/es_XM/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia/"> <br>Check here for <a href="/bcde9/hotels/">special rates.</a>'}
+ - {title: "Venue Details", information: 'The campus of UPSA is located about 15 minutes from Hotel Cortez <a href="https://goo.gl/maps/1GE3aBRcQGy">(see map)</a>. Special buses will take participants from the hotels to the conferences venue will be available. Routes and schedule will be announced soon.'}
  # - {title: "Hotels", information: 'BCDE has arranged preferential rates with the following hotels: <br><a href="http://granhotelcochabamba.com.bo">Gran Hotel Cochabamba</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733), 45 USD/night breakfast buffet included. <br> <a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733), 35 USD/night breakfast buffet included. <br> <br> For both hotels the reservation code is 8BCDE'}
- - {title: "Hotels", information: 'BCDE recommends the following hotels: <br><br><a href="http://www.tolomahotel.com.com.bo">Hotel Toloma</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://www.hotelreginabolivia.com">'}
 directionDetailsWideCards:
  -
-  title: "Things to do while in Cochabamba"
+  title: "Things to do while in Santa Cruz"
   subCards:
    -
     title: "One day tours"
     links:
-     - {permalink: "/tours/", text: "Ruinas de Incallajta"}
-     - {permalink: "/tours/", text: "Incachaca"}
+     # - {permalink: "/tours/", text: "Ruinas de Incallajta"}
+     # - {permalink: "/tours/", text: "Incachaca"}
    -
     title: "Recommended"
     links:
-     - {link: "https://www.lonelyplanet.com/bolivia/cochabamba/restaurants/a/poi-eat/1316004", text: "Restaurants"}
-     - {link: "https://www.tripadvisor.com/Attractions-g297315-Activities-Cochabamba_Cochabamba_Department.html", text: "Things to do"}
+     # - {link: "https://www.lonelyplanet.com/bolivia/cochabamba/restaurants/a/poi-eat/1316004", text: "Restaurants"}
+     # - {link: "https://www.tripadvisor.com/Attractions-g297315-Activities-Cochabamba_Cochabamba_Department.html", text: "Things to do"}
    -
     title: "Venue Details"
     links:
-     - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
-     - {link: "/assets/UPBCampusMap.jpg", text: "UPB Campus Map"}
+     # - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
+     # - {link: "/assets/UPBCampusMap.jpg", text: "UPB Campus Map"}
 
 # Hackathon
 hackathonTitle: "Pre-conference Workshops"
