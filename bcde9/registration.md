@@ -8,7 +8,7 @@ isStaticPost: true
 
 #### Registration schedule
 
-![image-title-here](/img/posts/Registration2-01.png){:class="img-responsive"}
+![image-title-here](/img/posts/registration2-01.jpg){:class="img-responsive"}
 
 #### What is included in the registration?
 
