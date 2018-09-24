@@ -7,18 +7,15 @@
   bio: "<p>Ariel Kalil is a professor at the University of Chicago Harris School of Public Policy. At Harris, she directs the Center for Human Potential and Public Policy and co-directs the Behavioral Insights and Parenting Lab. She also holds appointments as an adjunct professor in the Norwegian School of Economics in Bergen, Norway and in the School of Business Administration at the University of Stavanger, Norway. She is a developmental psychologist who studies economic conditions, parenting, and child development. Her current research examines the historical evolution of income-based gaps in parenting behavior and children’s cognitive and non-cognitive skills.</p>"
   thumbnailUrl: ArielKalil.jpg
   rockstar: true
-  social:
-     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-     - {name: "site", link: "http://olostan.name/"}
 
 -
-  id: 12
+  id: 11
   name: "Alejandro"
   surname: "Izquierdo"
   company: "Chief Economist and Manager of the Research Department<br />Inter-American Development Bank  "
   title: "Director"
   bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
-  thumbnailUrl: AlejandroIzquierdo.jpg
+  thumbnailUrl: GuillermoVuletin.jpg
   invited: true
 
 -
