@@ -1,6 +1,6 @@
 -
-  date: "2017-10-26"
-  dateReadable: "October 26"
+  date: "2018-11-29"
+  dateReadable: "November 29"
   # tracks:
   timeslots:
 # Registration
@@ -42,7 +42,7 @@
     - {
 #    	startTime: "10:00",
 #    	endTime: "10:30",
-    	sessionIds: [001, 002, 003, 004],
+    	sessionIds: [001, 002, 003, 101],
     }
 # Lunch Break
     - {
@@ -58,7 +58,7 @@
       endTime: "15:30"
     }
     - {
-      sessionIds: [005, 006, 007, 008, 020]
+      sessionIds: [004, 005, 006, 102]
     }
 # Coffee Break
     - {
@@ -66,20 +66,32 @@
       startTime: "15:30",
       endTime: "16:00"
     }
-# Flagship Session
+
+# Parallel Session C
     - {
-    	sessionIds: [402],
+    	sessionIds: [301],
       startTime: "16:00",
       endTime: "17:30"
     }
-    # - {
-    #   startTime: "16:30",
-    #   endTime: "17:30"
-    # }
+    - {
+      sessionIds: [007, 008, 009]
+    }
+
+
+# # Flagship Session
+#     - {
+#     	sessionIds: [402],
+#       startTime: "16:00",
+#       endTime: "17:30"
+#     }
+#     # - {
+#     #   startTime: "16:30",
+#     #   endTime: "17:30"
+#     # }
 # Conference Dinner
     - {
     	sessionIds: [503],
-      startTime: "19:30"
+      startTime: "19:00"
     }
     # - {
     #   startTime: "18:30"
@@ -88,8 +100,8 @@
 # DAY 2
 
 -
-  date: "2017-10-27"
-  dateReadable: "October 27"
+  date: "2018-11-30"
+  dateReadable: "November 30"
   # tracks:
   #   - {title: "B1", color: "#90be4e"}
   timeslots:
@@ -112,7 +124,7 @@
     - {
 #    	startTime: "9:00",
 #    	endTime: "10:30",
-    	sessionIds: [009, 010, 011, 014, 021]
+    	sessionIds: [010, 011, 012]
     }
 # Coffee Break
     - {
@@ -121,9 +133,9 @@
       endTime: "11:00"
     }
 
-# Flagship Session 2
+# Flagship Session 1
     - {
-    	sessionIds: [405],
+    	sessionIds: [402],
       startTime: "11:00",
       endTime: "12:00"
     }
@@ -152,7 +164,7 @@
     - {
 #     startTime: "13:30",
 #     endTime: "15:00",
-        sessionIds: [013, 012, 015, 016,022]
+        sessionIds: [013, 014, 015,103]
     }
 # Coffee Break
     - {
@@ -171,11 +183,11 @@
     - {
 #        startTime: "15:30",
 #        endTime: "17:00",
-        sessionIds: [017, 018, 019,023]
+        sessionIds: [016, 017, 018]
     }
-# Keynote Session
+# Plenary Session
     - {
-    	sessionIds: [403],
+    	sessionIds: [405],
       startTime: "17:00",
       endTime: "18:00"
     }

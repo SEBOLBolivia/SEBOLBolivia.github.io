@@ -1,4 +1,133 @@
 -
+  id: 001
+  title: "A1. Agriculture and Development"
+  description: ""
+  subtype: presentation
+  speakers: [20, 111, 96]
+-
+  id: 002
+  title: "A2. Trade"
+  description: ""
+  subtype: presentation
+  speakers: [118, 50, 120]
+-
+  id: 003
+  title: "A3. Political Economy"
+  description: ""
+  subtype: presentation
+  speakers: [85 , 42, 105]
+-
+  id: 004
+  title: "B1. Health and Development"
+  description: ""
+  subtype: presentation
+  speakers: [64, 11, 59]
+-
+  id: 005
+  title: "B2. Macroeconomics"
+  description: ""
+  subtype: presentation
+  speakers: [30, 102, 44]
+-
+  id: 006
+  title: "B3. Environmental Economics"
+  description: ""
+  subtype: presentation
+  speakers: [ 103, 32, 48]
+-
+  id: 007
+  title: "C1. Education and Development I"
+  description: ""
+  subtype: presentation
+  speakers: [15, 104, 14]
+-
+  id: 008
+  title: "C2. Frictional Labor Markets"
+  description: ""
+  subtype: presentation
+  speakers: [88, 17, 23]
+-
+  id: 009
+  title: "C3. Entrepreneurship and Productivity"
+  description: ""
+  subtype: presentation
+  speakers: [21, 87, 65]
+-
+  id: 010
+  title: "D1. International Macroeconomics"
+  description: ""
+  subtype: presentation
+  speakers: [8, 74, 99]
+-
+  id: 011
+  title: "D2. Labor Economics"
+  description: ""
+  subtype: presentation
+  speakers: [3, 128, 47]
+-
+  id: 012
+  title: "D3. Topics in Development II"
+  description: ""
+  subtype: presentation
+  speakers: [110, 12]
+-
+  id: 013
+  title: "E1. Inequality and Development"
+  description: ""
+  subtype: presentation
+  speakers: [107, 24, 62]
+-
+  id: 014
+  title: "E2. Education and Development II"
+  description: ""
+  subtype: presentation
+  speakers: [45, 92, 63]
+-
+  id: 015
+  title: "E3. Topics in Macroeconomics"
+  description: ""
+  subtype: presentation
+  speakers: [76, 97, 57]
+-
+  id: 016
+  title: "F1. Economic Growth"
+  description: ""
+  subtype: presentation
+  speakers: [35, 82, 7]
+-
+  id: 017
+  title: "F2. Gender and Development"
+  description: ""
+  subtype: presentation
+  speakers: [71, 41, 31]
+-
+  id: 018
+  title: "F3. Redistribution and Welfare"
+  description: ""
+  subtype: presentation
+  speakers: [113, 68, 119]
+# ORGANIZED SESSEIONS
+-
+  id: 101
+  title: "A4. Natural Resources"
+  description: "Organized by SEBOL </br> Project: Sustainable Development, Fiscal Policy and Natural Resources Managment. Bolivia, Chile and Peru in the Nordic countries’ mirror"
+  subtype: Invited
+  speakers: [154, 155, 156]
+-
+  id: 102
+  title: "B4. Topics in Development I"
+  description: "Organized by the Bolivian Academy of Economic Sciences (ABCE)"
+  subtype: Invited
+  speakers: [157, 158, 159,160]
+-
+  id: 103
+  title: "E4. TBD"
+  description: "Organized by INESAD"
+  subtype: Invited
+  # speakers: [154, 155, 156]
+
+# SERVICE SESSIONS
+-
   id: 501
   title: "Coffee Break"
   # place: "Hall"
@@ -7,7 +136,7 @@
 
 -
   id: 504
-  title: "Coffee Break and Poster Session"
+  title: "Coffee Break"
   # place: "Hall"
   service: true
   # description: "The best time to talk with speakers and attendees"
@@ -45,178 +174,15 @@
   service: false
 -
   id: 401
-  title: "Keynote Lecture: Sara Farley (Global Knowledge Initiative)"
+  title: "Keynote Lecture: Ariel Kalil (University of Chicago)"
   service: false
 -
   id: 402
-  title: "Policy Session: Carlos Végh (World Bank), Andrés Fernández (IADB)"
+  title: "Plenary: Guillermo Vuletin (World Bank)"
   service: false
   flaship: true
 -
-  id: 403
-  title: "Keynote Lecture: Carlos Végh (World Bank)"
-  service: false
--
   id: 405
-  title: "Policy Session: Juan Vargas (CAF)"
+  title: "Plenary: Alejandro Izquierdo (IDB)"
   service: false
   # description: "Testing Subtitle"
--
-  id: 001
-  title: "A1. Labor Economics I"
-  description: ""
-  subtype: presentation
-  speakers: [22, 8, 9]
-  # language: en
-  # complexity: "Intermediate"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 002
-  title: "A2. Political Economy"
-  description: ""
-  subtype: presentation
-  speakers: [10, 11, 12]
-  # language: en
-  # complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  #   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "A3. Dynamic Macroeconomics"
-  description: ""
-  subtype: presentation
-  speakers: [13, 14,7]
-  # language: en
-  # complexity: "Intermediate"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "A4. Topics in Development Economics"
-  description: ""
-  subtype: presentation
-  speakers: [17, 18, 23]
-  # language: uk
-  # complexity: "Beginner"
-  # presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "B1. Environmental Economics I"
-  description: ""
-  subtype: presentation
-  speakers: [19, 20, 33]
-  # language: en
-  # complexity: "Expert"
-  # presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-# -
-#   id: 006
-#   title: "B2. Development and Demographics"
-#   description: ""
-#   subtype: presentation
-#   speakers: []
--
-  id: 007
-  title: "B2. Natural Resources and Development"
-  description: ""
-  subtype: presentation
-  speakers: [40, 41, 42]
--
-  id: 008
-  title: "B3. Labor Economics II"
-  description: ""
-  subtype: presentation
-  speakers: [52, 53, 54]
--
-  id: 020
-  title: "B4. UPB Invited Session"
-  description: "<strong>Romulo Chumacero</strong> (Universidad de Chile) will present: <strong>Skills versus Luck: Bolivia and its Recent Bonanza</strong>. This document discusses different approaches to determine the contribution of internal policies and external factors on the good performance of the Bolivian economy in the recent past. <strong>Boris Branisa</strong> (INESAD), <strong>Luis Castro</strong> (UPB) and <strong>Ricardo Nogales</strong> (UPB) will discuss the document."
-  subtype: invited
-  speakers: [64,65,66,73]
--
-  id: 009
-  title: "C1. Environmental Economics II"
-  description: ""
-  subtype: presentation
-  speakers: [31, 32]
--
-  id: 010
-  title: "C2. Health Economics "
-  description: ""
-  subtype: presentation
-  speakers: [34, 24, 36]
--
-  id: 011
-  title: "C3. Trade and International Economics"
-  description: ""
-  subtype: presentation
-  speakers: [37, 38, 39]
--
-  id: 014
-  title: "C4.  Development and Finance"
-  description: ""
-  subtype: presentation
-  speakers: [46, 47, 48]
--
-  id: 021
-  title: "C5. Monetary Policy in Emerging Economies (FSD Invited Session)"
-  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
-  subtype: Invited
-  speakers: [67, 68]
-
--
-  id: 013
-  title: "D1.  Economics of Education I"
-  description: ""
-  subtype: presentation
-  speakers: [43, 44, 45]
--
-  id: 012
-  title: "D2. Economic Growth"
-  description: ""
-  subtype: presentation
-  speakers: [25, 26, 27]
--
-  id: 015
-  title: "D3.  Topics in Development Economics II"
-  description: ""
-  subtype: presentation
-  speakers: [49, 50, 51]
--
-  id: 016
-  title: "D4. Climate and Development"
-  description: ""
-  subtype: presentation
-  speakers: [28, 29, 30]
--
-  id: 022
-  title: "D5. Financial Frictions in Emerging Economies I (FSD Invited Session)"
-  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
-  subtype: Invited
-  speakers: [69, 70]
-
--
-  id: 017
-  title: "E1. Economics of Education II"
-  description: ""
-  subtype: presentation
-  speakers: [55, 56, 57]
--
-  id: 018
-  title: "E2. Topics in Development Economics III"
-  description: ""
-  subtype: presentation
-  speakers: [16,58, 59]
--
-  id: 019
-  title: "E3. Debate Session: Does Income Distribution Matter?"
-  # description: "Moderator: Boris Branisa"
-  description: "This session is organized as an academic debate about the question “Does income distribution matter?” This has always been a tremendously important question. If the answer is yes then the gates are open for a large portfolio of public policies. If the answer is no, then the role of the government is much smaller. The audience will vote yes or no via Twitter before and after hearing the opposing arguments. Fernanda Wanderley and Oscar Molina will present the arguments in favor of answering the question affirmatively and Antonio Saravia the arguments against that. Boris Branisa will be the moderator."
-  subtype: invited
-  speakers: [61,62,63,73]
--
-  id: 023
-  title: "E4. Financial Frictions in Emerging Economies II (FSD Invited Session)"
-  description: "This is an invited session co-organized by the IDB’s Financial Stability and Development (FSD) network of South American Central Banks and and the 8th Bolivian Conference on Development Economics"
-  subtype: Invited
-  speakers: [71, 72]

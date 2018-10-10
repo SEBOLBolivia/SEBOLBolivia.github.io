@@ -1,23 +1,22 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
-      <div class="content-wrapper text-left">
+      <div class="content-wrapper text-center">
           <div class="col-md-8 col-sm-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-1">
-            <article class="row post">
-              <p class="post-body"> We are happy to annouce the program for the 8th Bolivian Conference on Development Economics.
-              </p>
-
+            <h5>{{ "Preliminary program for BCDE9" }}</h5>
+            <!-- <article class="row post">
               <p>
                 The printed version of the conference program is available <a href="/BCDE8-Programa-ES-Final.pdf">HERE</a>
               </p>
-            </article>
+            </article> -->
           </div>
       </div>
     <div class="content-wrapper">
+
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-10 col-md-8 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
+                <!-- <div class="track-header-label">Day {{ forloop.index }}</div> -->
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
@@ -51,19 +50,24 @@
                                     <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                                     <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                                         <h6  align="left" class="slot-title" itemprop="name">{{ session.title }}</h6>
+                                        {% if session.description != null %}
+                                        <p align="center" class="slot-title" itemprop="name">{{ session.description }}</p>
+                                        {% endif %}
                                         {% if session.location != null %}
                                           <h6  align="left" class="slot-title" itemprop="name">{{ slot.location }}</h6>
                                         {% endif %}
                                         <h6 class="name">
                                             {% for speaker in site.data.speakers %}
                                                 {% for session_speaker in session.speakers %}
-                                                    {% if session_speaker == speaker.id %}
+                                                    {% if session_speaker == speaker.paperid %}
                                                     <!-- <p align="left">
                                                       <span>{{ speaker.name }} {{ speaker.surname }} <span>{{ speaker.company }}</span></span>
                                                     </p> -->
-                                                    <p align="left" style="font-size:65%;">{{ speaker.title }} <strong> {{ speaker.name }} {{ speaker.surname }} {{ speaker.company }} </strong> </p>
-                                                        {% if speaker.discussant != null %}
-                                                        <p align="left" style="font-size:65%;"> Discussant: {{ speaker.discussant }} </p>
+
+                                                        {% if speaker.coauthors != null %}
+                                                        <p align="left" style="font-size:65%;">{{ speaker.title }}. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. {{ speaker.coauthors }}.</p>
+                                                        {% else %}
+                                                        <p align="left" style="font-size:65%;">{{ speaker.title }}. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. </p>
                                                         {% endif %}
                                                     {% endif %}
                                                 {% endfor %}

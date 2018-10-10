@@ -71,6 +71,7 @@ BCDEnavigationLinks:
  - {permalink: "/bcde9/", text: "Home"}
  - {permalink: "/bcde9/callforpapers", text: "Call for papers"}
  - {permalink: "/bcde9/registration/", text: "Registration"}
+ - {permalink: "/bcde9/program/", text: "Program"}
  - {permalink: "/bcde9/hotels/", text: "Hotels"}
  - {permalink: "/bcde9/explore/", text: "Explore"}
  - {permalink: "/bcde9/past/", text: "Past Conferences"}
