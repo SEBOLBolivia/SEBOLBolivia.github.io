@@ -1,6 +1,6 @@
 -
   date: "2018-11-29"
-  dateReadable: "November 29"
+  dateReadable: "November 29th"
   # tracks:
   timeslots:
 # Registration
@@ -101,7 +101,7 @@
 
 -
   date: "2018-11-30"
-  dateReadable: "November 30"
+  dateReadable: "November 30th"
   # tracks:
   #   - {title: "B1", color: "#90be4e"}
   timeslots:
