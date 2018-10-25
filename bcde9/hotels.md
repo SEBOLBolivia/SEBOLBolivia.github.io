@@ -24,6 +24,8 @@ If you would like to book a room at  this hotel please contact:
 
 * Website: www.lostajiboshotel.com
 
+* <a href="/assets/brochuretajibos.pdf" target="_blank"> Brochure with more information </a>
+
 
 #### Hotel Cortez
 Hotel Cortez is located in Avenida Cristóbal De Mendoza 280, in a very lively part of the city with plenty of cafes and restaurants, and with an strategic location that makes it easy to access the historic city center.
