@@ -22,7 +22,7 @@ If you would like to book a room at  this hotel please contact:
 
 * Phone: +(591-3)342-1000
 
-* Website: [www.lostajiboshotel.com](https://www.lostajiboshotel.com)
+* Website: [www.lostajiboshotel.com](http://www.lostajiboshotel.com)
 
 * <a href="/assets/brochuretajibos.pdf" target="_blank"> Brochure with more information </a>
 
@@ -42,6 +42,9 @@ If you would like to book a room at  this hotel please contact:
 
 * Phone: +(591-3) 333-1234 - Fax: +(591-3) 335-1186  
 
+* Website: [www.hotelcortez.com/en/](http://www.hotelcortez.com/en/page/index.html)
+
+
 #### Hampton Equipetrol by Hilton
 Hotel Hampton is located in Avenida San Martin y Calle E, inside Barrio Equipetrol, an upscale neighborhood in Santa Cruz.
 
@@ -57,7 +60,7 @@ If you would like to book a room at  this hotel please contact:
 
 * Phone: +(591-3)318-2380 - Cellphone: +(591) 716-20774
 
-* Website: [www.merincosa.com](https://www.merincosa.com)
+* Website: [www.merincosa.com](https://hamptoninn3.hilton.com/en/hotels/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia-SRZEQHX/index.html)
 
 
 #### Hotel Maps and Venue
