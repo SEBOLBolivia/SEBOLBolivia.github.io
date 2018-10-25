@@ -7,7 +7,23 @@ isStaticPost: true
 
 
 #### Preferential Rates
-We have secured preferential rates with Hotel Cortez and Hamptons Inn in Santa Cruz de la Sierra.
+We have secured preferential rates with Hotel Los Tajibos, Hotel Cortez and Hamptons Inn in Santa Cruz de la Sierra.
+
+#### Hotel Los Tajibos
+Hotel Los Tajibos located on Av. San Martin 555, sits on 5-hectares of grounds in the buzzing Equipetrol district. This high-end hotel in a modern, villa-style building offers incredible comfort and ammenities.
+
+Our corporate rates include breakfast buffet, parking, wifi as well as sauna, fitness room and pool access.
+
+The corporate rates per night at Los Tajibos start at 124 USD for Executive rooms, 139 USD for pool view rooms, 148 USD for Club Executive rooms, 161 USD for a Junior Suite and 259 USD for an Executive Suite.
+
+If you would like to book a room at  this hotel please contact:
+
+* Email: [reservas4@lostajiboshotel.com](reservas4@lostajiboshotel.com)
+
+* Phone: +(591-3)342-1000
+
+* Website: www.lostajiboshotel.com
+
 
 #### Hotel Cortez
 Hotel Cortez is located in Avenida Cristóbal De Mendoza 280, in a very lively part of the city with plenty of cafes and restaurants, and with an strategic location that makes it easy to access the historic city center.
@@ -40,6 +56,7 @@ If you would like to book a room at  this hotel please contact:
 * Phone: +(591-3)318-2380 - Cellphone: +(591) 716-20774
 
 * Website: www.merincosa.com
+
 
 #### Hotel Maps and Venue
 
