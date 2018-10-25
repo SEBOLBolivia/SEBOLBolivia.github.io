@@ -22,7 +22,7 @@ If you would like to book a room at  this hotel please contact:
 
 * Phone: +(591-3)342-1000
 
-* Website: www.lostajiboshotel.com
+* Website: [www.lostajiboshotel.com](www.lostajiboshotel.com)
 
 * <a href="/assets/brochuretajibos.pdf" target="_blank"> Brochure with more information </a>
 
@@ -57,7 +57,7 @@ If you would like to book a room at  this hotel please contact:
 
 * Phone: +(591-3)318-2380 - Cellphone: +(591) 716-20774
 
-* Website: www.merincosa.com
+* Website: [www.merincosa.com](www.merincosa.com)
 
 
 #### Hotel Maps and Venue
