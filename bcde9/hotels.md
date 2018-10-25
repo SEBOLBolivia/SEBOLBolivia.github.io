@@ -14,7 +14,7 @@ Hotel Los Tajibos located on Av. San Martin 555, sits on 5-hectares of grounds i
 
 Our corporate rates include breakfast buffet, parking, wifi as well as sauna, fitness room and pool access.
 
-The corporate rates per night at Los Tajibos start at 124 USD for Executive rooms, 139 USD for pool view rooms, 148 USD for Club Executive rooms, 161 USD for a Junior Suite and 259 USD for an Executive Suite.
+The corporate rates per night at Los Tajibos start at 124 USD for Executive rooms, 139 USD for Pool View rooms, 148 USD for Club Executive rooms, 161 USD for a Junior Suite and 259 USD for an Executive Suite.
 
 If you would like to book a room at  this hotel please contact:
 
