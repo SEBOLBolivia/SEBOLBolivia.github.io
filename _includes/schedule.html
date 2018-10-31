@@ -65,9 +65,15 @@
                                                     </p> -->
 
                                                         {% if speaker.coauthors != null %}
-                                                        <p align="left" style="font-size:65%;"> <a href="https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=BCDE9&paper_id={{ speaker.paperid }}"> {{ speaker.title }}</a>. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. {{ speaker.coauthors }}.</p>
+                                                        <p align="left" style="font-size:65%;"> <a href="https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=BCDE9&paper_id={{ speaker.paperid }}"> {{ speaker.title }}</a>. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. {{ speaker.coauthors }}</p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
                                                         {% else %}
                                                         <p align="left" style="font-size:65%;">{{ speaker.title }}. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. </p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
                                                         {% endif %}
                                                     {% endif %}
                                                 {% endfor %}

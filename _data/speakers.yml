@@ -188,6 +188,7 @@ Hernández (Universidad Autónoma del Estado de Hidalgo)"
   coauthors: "Carlos Gustavo Machicado (INESAD)"
   company: "INESAD"
   title: "Ciclos Economicos y Vulnerabilidad Externa en America Latina"
+  discussant: "Juan Antonio Morales (Universidad Católica Boliviana), Carlos Gustavo Machicado (INESAD), Beatriz Muriel (INESAD)"
   bio: ""
   rockstar: false
 -
@@ -636,10 +637,10 @@ Hernández (Universidad Autónoma del Estado de Hidalgo)"
 -
   id: 159
   paperid: 159
-  name: "Juan"
-  surname: "Antonio Morales"
-  coauthors: "Melissa Loza (UPB)"
-  company: "Universidad Católica Boliviana"
+  name: "Melissa"
+  surname: "Loza"
+  coauthors: "Juan Antonio Morales (Universidad Católica Boliviana)"
+  company: "Universidad Privada Boliviana"
   title: "Export Boom and Economic Performance: Bolivia 2004-2015"
   bio: ""
   rockstar: false
@@ -651,5 +652,38 @@ Hernández (Universidad Autónoma del Estado de Hidalgo)"
   coauthors: "Andrés Escobar Espinosa (Universidad de Cartagena) y Alejandra Terán Orsini (INESAD) "
   company: "Universidad de Cartagena y ABCE"
   title: "The Dynamic and non-linear Convergence of the Bolivian Energy-mix during the period 2000-2035"
+  bio: ""
+  rockstar: false
+
+-
+  id: 161
+  paperid: 129
+  name: "Alvaro"
+  surname: "Pedraza Morales"
+  coauthors: ""
+  company: "World Bank"
+  title: "Costly Index Investing in Foreign Markets"
+  bio: ""
+  rockstar: false
+
+-
+  id: 162
+  paperid: 162
+  name: "Luis"
+  surname: "Gonzales"
+  coauthors: ""
+  company: "University of Chicago"
+  title: "Master Programs at the University of Chicago - Harris School of Public Policy"
+  bio: ""
+  rockstar: false
+
+-
+  id: 163
+  paperid: 163
+  name: "Mauricio"
+  surname: "Tejada"
+  coauthors: "Marcela Perticara (Universidad Alberto Hurtado)"
+  company: "Universidad Alberto Hurtado"
+  title: "Master Programs at Universidad Alberto Hurtado"
   bio: ""
   rockstar: false

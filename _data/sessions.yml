@@ -18,34 +18,34 @@
   speakers: [85 , 42, 105]
 -
   id: 004
-  title: "B1. Health and Development"
+  title: "B1. Frictional Labor Markets"
   description: ""
   subtype: presentation
-  speakers: [64, 11, 59]
+  speakers: [88, 17, 23]
 -
   id: 005
-  title: "B2. Macroeconomics"
+  title: "B2. Education and Development I"
   description: ""
   subtype: presentation
-  speakers: [30, 102, 44]
+  speakers: [15, 104, 14]
 -
   id: 006
   title: "B3. Environmental Economics"
   description: ""
   subtype: presentation
-  speakers: [ 103, 32, 48]
+  speakers: [ 103, 32, 160]
 -
   id: 007
-  title: "C1. Education and Development I"
+  title: "C1. Macroeconomics"
   description: ""
   subtype: presentation
-  speakers: [15, 104, 14]
+  speakers: [30, 102, 99]
 -
   id: 008
-  title: "C2. Frictional Labor Markets"
+  title: "C2. Health and Development"
   description: ""
   subtype: presentation
-  speakers: [88, 17, 23]
+  speakers: [64, 11, 59]
 -
   id: 009
   title: "C3. Entrepreneurship and Productivity"
@@ -57,7 +57,7 @@
   title: "D1. International Macroeconomics"
   description: ""
   subtype: presentation
-  speakers: [8, 74, 99]
+  speakers: [8, 74, 129]
 -
   id: 011
   title: "D2. Labor Economics"
@@ -69,7 +69,7 @@
   title: "D3. Topics in Development II"
   description: ""
   subtype: presentation
-  speakers: [110, 12]
+  speakers: [110, 12,48]
 -
   id: 013
   title: "E1. Inequality and Development"
@@ -113,18 +113,26 @@
   description: "Organized by SEBOL/Swedish Research Council (VR) </br> Project: Sustainable Development, Fiscal Policy and Natural Resources Managment. Bolivia, Chile and Peru in the Nordic countries’ mirror"
   subtype: Invited
   speakers: [154, 155, 156]
+
 -
   id: 102
+  title: "C4. Graduate Studies Information Session"
+  description: "Organized by the University of Chicago and Universidad Alberto Hurtado"
+  subtype: Invited
+  speakers: [162,163]
+
+-
+  id: 104
   title: "B4. Topics in Development I"
   description: "Organized by the Bolivian Academy of Economic Sciences (ABCE)"
   subtype: Invited
-  speakers: [157, 158, 159,160]
+  speakers: [157, 158, 159]
 -
   id: 103
-  title: "E4. TBD"
+  title: "E4. Ciclos y Vulnerabilidad en las Economías de América Latina"
   description: "Organized by INESAD"
   subtype: Invited
-  # speakers: [154, 155, 156]
+  speakers: [44]
 
 # SERVICE SESSIONS
 -

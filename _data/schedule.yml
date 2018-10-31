@@ -58,7 +58,7 @@
       endTime: "15:30"
     }
     - {
-      sessionIds: [004, 005, 006, 102]
+      sessionIds: [004, 005, 006, 104]
     }
 # Coffee Break
     - {
@@ -74,7 +74,7 @@
       endTime: "17:30"
     }
     - {
-      sessionIds: [007, 008, 009]
+      sessionIds: [007, 008, 009, 102]
     }
 
 
