@@ -196,10 +196,18 @@
     #   endTime: "18:15"
     # }
 
-# Closing Ceremony
+# ABCE Best Paper Award
     - {
     	sessionIds: [203],
       startTime: "18:00",
+      endTime: "18:30"
+    }
+
+
+# Closing Ceremony
+    - {
+    	sessionIds: [204],
+      startTime: "18:30",
       endTime: "20:00"
     }
     # - {

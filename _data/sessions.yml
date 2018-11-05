@@ -110,7 +110,7 @@
 -
   id: 101
   title: "A4. Natural Resources"
-  description: "Organized by SEBOL/Swedish Research Council (VR) </br> Project: Sustainable Development, Fiscal Policy and Natural Resources Managment. Bolivia, Chile and Peru in the Nordic countries’ mirror"
+  description: "Organized by SEBOL </br> Project: Sustainable Development, Fiscal Policy and Natural Resources Managment. Bolivia, Chile and Peru in the Nordic countries’ mirror"
   subtype: Invited
   speakers: [154, 155, 156]
 
@@ -167,8 +167,14 @@
   id: 202
   title: "Welcome and opening ceremony"
   service: false
+
 -
   id: 203
+  title: "Best Paper Award Ceremony (Organized by ABCE)"
+  service: false
+
+-
+  id: 204
   title: "Closing Ceremony and Farewell Cocktail Party"
   service: false
 
