@@ -152,7 +152,7 @@ venueSmallImage4: "venue_4.jpg"
 venueSmallImage5: "venue_5.jpg"
 venueSmallImage5: "venue_6.jpg"
 venueTitle: "Campus Universitario"
-venueFeatures: ["Av. Paraguá y 4to. Anillo", "Tel.: +591 (3) 346 4000", '<a href="https://goo.gl/maps/yP9frJKCD3F2">Google Maps Directions</a>']
+venueFeatures: ["Av. Paraguá y 4to. Anillo", "Tel.: +591 (3) 346 4000", '<a href="https://goo.gl/maps/yP9frJKCD3F2">Google Maps Directions</a> <br> <a href="/assets/campusMap.pdf" target="_blank"> Venue map </a>']
 
 
 
@@ -273,25 +273,25 @@ directionDetailsCards:
  - {title: "Hotels", information: 'BCDE has negotiated special rates with the following hotesl: <br><br><a href="http://www.lostajiboshotel.com/en">Hotel Los Tajibos</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelcortez.com/en">Hotel Cortez</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="https://hamptoninn3.hilton.com/en/hotels/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia-SRZEQHX/index.html">Hamptons Inn Equipetrol</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://http://www.hiltonhotels.com/es_XM/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia/"> <br>Check here for <a href="/bcde9/hotels/">special rates.</a>'}
  - {title: "Venue Details", information: 'The campus of UPSA is located about 15 minutes from Hotel Cortez <a href="https://goo.gl/maps/1GE3aBRcQGy">(see map)</a>. Special buses will take participants from the hotels to the conferences venue will be available. Routes and schedule will be announced soon.'}
  # - {title: "Hotels", information: 'BCDE has arranged preferential rates with the following hotels: <br><a href="http://granhotelcochabamba.com.bo">Gran Hotel Cochabamba</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733), 45 USD/night breakfast buffet included. <br> <a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733), 35 USD/night breakfast buffet included. <br> <br> For both hotels the reservation code is 8BCDE'}
-directionDetailsWideCards:
- -
-  title: "Things to do while in Santa Cruz"
-  subCards:
-   -
-    title: "One day tours"
-    links:
-     # - {permalink: "/tours/", text: "Ruinas de Incallajta"}
-     # - {permalink: "/tours/", text: "Incachaca"}
-   -
-    title: "Recommended"
-    links:
-     # - {link: "https://www.lonelyplanet.com/bolivia/cochabamba/restaurants/a/poi-eat/1316004", text: "Restaurants"}
-     # - {link: "https://www.tripadvisor.com/Attractions-g297315-Activities-Cochabamba_Cochabamba_Department.html", text: "Things to do"}
-   -
-    title: "Venue Details"
-    links:
-     # - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
-     # - {link: "/assets/UPBCampusMap.jpg", text: "UPB Campus Map"}
+# directionDetailsWideCards:
+#  -
+#   title: "Things to do while in Santa Cruz"
+#   subCards:
+#    -
+#     title: "One day tours"
+#     links:
+#      # - {permalink: "/tours/", text: "Ruinas de Incallajta"}
+#      # - {permalink: "/tours/", text: "Incachaca"}
+#    -
+#     title: "Recommended"
+#     links:
+#      # - {link: "https://www.lonelyplanet.com/bolivia/cochabamba/restaurants/a/poi-eat/1316004", text: "Restaurants"}
+#      # - {link: "https://www.tripadvisor.com/Attractions-g297315-Activities-Cochabamba_Cochabamba_Department.html", text: "Things to do"}
+#    -
+#     title: "Venue Details"
+#     links:
+#      # - {link: "http://www.upb.edu/en/", text: "UPB Facilities"}
+#      # - {link: "/assets/UPBCampusMap.jpg", text: "UPB Campus Map"}
 
 # Hackathon
 hackathonTitle: "Pre-conference Workshops"

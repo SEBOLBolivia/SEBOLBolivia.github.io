@@ -1,12 +1,14 @@
 -
   group: "Premium Sponsors"
   elements:
-      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "bid-logo2.svg"}
-      # - {name: "Hans Siedel Bolivia", description: "Group", link: "https://http://www.iadb.org/en/research-and-data/financial-stability-and-development-group,9834.html", imageUrl: "HS-logo.svg"}
--
-  group: "With support of"
-  elements:
-      - {name: "Fundación Hans Siedel", description: "Al servicio de la Democracia, la Paz y el Desarrollo", link: "https://latinamerica.hss.de/bolivia/", imageUrl: "HS-logo2.svg"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "BID-Logo.png", width: "550px"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "BancoFassil2.png", width: "500px"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "USAEmbassy2.png", width: "250px"}
+
+# -
+#   group: "With support of"
+#   elements:
+#       - {name: "Fundación Hans Siedel", description: "Al servicio de la Democracia, la Paz y el Desarrollo", link: "https://latinamerica.hss.de/bolivia/", imageUrl: "HS-logo.svg"}
     #   - {name: "El Faro", description: "Blog de Economía", link: "https://www.faroeconomics.org", imageUrl: "FARO-logo.svg"}
     # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
     # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}

@@ -1,125 +1,137 @@
 -
   id: 001
-  title: "A1. Agriculture and Development"
+  title: "A1. Trade and Agriculture"
   description: ""
   subtype: presentation
-  speakers: [20, 111, 96]
--
-  id: 002
-  title: "A2. Trade"
-  description: ""
-  subtype: presentation
-  speakers: [118, 50, 120]
+  speakers: [20, 111, 118]
+  place: A-112
 -
   id: 003
-  title: "A3. Political Economy"
+  title: "A2. Political Economy"
   description: ""
   subtype: presentation
   speakers: [85 , 42, 105]
+  place: A-114
 -
   id: 004
   title: "B1. Frictional Labor Markets"
   description: ""
   subtype: presentation
   speakers: [88, 17, 23]
+  place: A-110
 -
   id: 005
   title: "B2. Education and Development I"
   description: ""
   subtype: presentation
   speakers: [15, 104, 14]
+  place: A-112
 -
   id: 006
   title: "B3. Environmental Economics"
   description: ""
   subtype: presentation
   speakers: [ 103, 32, 160]
+  place: A-114
 -
   id: 007
   title: "C1. Macroeconomics"
   description: ""
   subtype: presentation
   speakers: [30, 102, 99]
+  place: A-110
 -
   id: 008
   title: "C2. Health and Development"
   description: ""
   subtype: presentation
-  speakers: [64, 11, 59]
+  speakers: [64, 11, 96]
+  place: A-112
 -
   id: 009
   title: "C3. Entrepreneurship and Productivity"
   description: ""
   subtype: presentation
   speakers: [21, 87, 65]
+  place: A-114
 -
   id: 010
   title: "D1. International Macroeconomics"
   description: ""
   subtype: presentation
   speakers: [8, 74, 129]
+  place: A-112
 -
   id: 011
   title: "D2. Labor Economics"
   description: ""
   subtype: presentation
   speakers: [3, 128, 47]
+  place: A-114
 -
   id: 012
   title: "D3. Topics in Development II"
   description: ""
   subtype: presentation
   speakers: [110, 12,48]
+  place: A-116
 -
   id: 013
   title: "E1. Inequality and Development"
   description: ""
   subtype: presentation
   speakers: [107, 24, 62]
+  place: A-110
 -
   id: 014
   title: "E2. Education and Development II"
   description: ""
   subtype: presentation
   speakers: [45, 92, 63]
+  place: A-112
 -
   id: 015
   title: "E3. Topics in Macroeconomics"
   description: ""
   subtype: presentation
   speakers: [76, 97, 57]
+  place: A-116
 -
   id: 016
   title: "F1. Economic Growth"
   description: ""
   subtype: presentation
   speakers: [35, 82, 7]
+  place: A-112
 -
   id: 017
   title: "F2. Gender and Development"
   description: ""
   subtype: presentation
   speakers: [71, 41, 31]
+  place: A-114
 -
   id: 018
   title: "F3. Redistribution and Welfare"
   description: ""
   subtype: presentation
   speakers: [113, 68, 119]
+  place: A-116
 # ORGANIZED SESSEIONS
 -
   id: 101
-  title: "A4. Natural Resources"
+  title: "A3. Natural Resources"
   description: "Organized by SEBOL </br> Project: Sustainable Development, Fiscal Policy and Natural Resources Managment. Bolivia, Chile and Peru in the Nordic countries’ mirror"
   subtype: Invited
   speakers: [154, 155, 156]
-
+  place: A-116
 -
   id: 102
   title: "C4. Graduate Studies Information Session"
   description: "Organized by the University of Chicago and Universidad Alberto Hurtado"
   subtype: Invited
   speakers: [162,163]
+  place: A-116
 
 -
   id: 104
@@ -127,12 +139,14 @@
   description: "Organized by the Bolivian Academy of Economic Sciences (ABCE)"
   subtype: Invited
   speakers: [157, 158, 159]
+  place: A-116
 -
   id: 103
   title: "E4. Ciclos y Vulnerabilidad en las Economías de América Latina"
   description: "Organized by INESAD"
   subtype: Invited
   speakers: [44]
+  place: A-116
 
 # SERVICE SESSIONS
 -
@@ -152,7 +166,7 @@
 -
   id: 502
   title: "Lunch Break"
-  # place: "Dining room"
+  # place: "Dining place"
   service: true
 -
   id: 503
