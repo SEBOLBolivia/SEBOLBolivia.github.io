@@ -168,6 +168,8 @@
   title: "Lunch Break"
   # place: "Dining place"
   service: true
+  place: "UPSA Convention Center"
+
 -
   id: 503
   title: "Conference Dinner"
@@ -177,20 +179,25 @@
   id: 201
   title: "Registration"
   service: false
+  place: "UPSA Convention Center"
 -
   id: 202
   title: "Welcome and opening ceremony"
   service: false
+  place: "UPSA Convention Center"
 
 -
   id: 203
   title: "Best Paper Award Ceremony (Organized by ABCE)"
   service: false
+  place: "Aula Magna"
 
 -
   id: 204
   title: "Closing Ceremony and Farewell Cocktail Party"
   service: false
+  place: "Lobby UPSA Convention Center"  
+
 
 -
   id: 301
@@ -204,13 +211,19 @@
   id: 401
   title: "Keynote Lecture: Ariel Kalil (Harris School of Public Policy - University of Chicago)"
   service: false
+  place: "UPSA Convention Center"
+
 -
   id: 402
   title: "Plenary: Guillermo Vuletin (World Bank)"
   service: false
   flaship: true
+  place: "Aula Magna"
+
 -
   id: 405
   title: "Plenary: Alejandro Izquierdo (IDB)"
   service: false
+  place: "Aula Magna"
+
   # description: "Testing Subtitle"
