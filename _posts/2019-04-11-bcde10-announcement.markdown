@@ -5,6 +5,7 @@ date:   2019-04-10 09:00:00
 image: testbackground2.jpg
 visible: 1
 isStaticPost: false
+permalink: /noticias/bcde10
 ---
 
 #### The 10th BCDE to be hosted by UPB - La Paz
@@ -35,4 +36,4 @@ We are working on the logistics and contacting outstanding speakers, we hope you
 
 <br>
 
-More details about speakers, BCDE9, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/), follow on [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia), or subcribe to our [mailing list](https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b) and [RSS feed](http://www.bcde8.org/feed.xml) in order not to miss any important updates about the conference.
+More details about speakers, BCDE10, and logistics will appear in the conference website:[www.sebol.org/bcde10/](http://www.sebol.org/bcde10), in the meantime like us on [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/), follow on [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia), or subcribe to our [mailing list](https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b) and [RSS feed](http://www.bcde8.org/feed.xml) in order not to miss any important updates about the conference.

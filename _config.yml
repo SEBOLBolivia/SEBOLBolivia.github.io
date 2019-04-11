@@ -80,12 +80,12 @@ BCDEnavigationLinksOLD:
 
 BCDEnavigationLinks:
  - {permalink: "", text: "Home"}
- - {permalink: "callforpapers/", text: "Call for papers"}
+# - {permalink: "callforpapers/", text: "Call for papers"}
 # - {permalink: "registration/", text: "Registration"}
 # - {permalink: "program/", text: "Program"}
 # - {permalink: "hotels/", text: "Hotels"}
 # - {permalink: "explore/", text: "Explore"}
- - {permalink: "past/", text: "Past Conferences"}
+# - {permalink: "past/", text: "Past Conferences"}
  - {permalink: "/", text: "Sebol"}
 
 # Hero Block
@@ -117,12 +117,12 @@ aboutBCDEBlock:
  - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
 
 aboutBCDE10:
- - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde10/callforpapers/">Link.</a>' }
+ #- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde10/callforpapers/">Link.</a>' }
  #- {title: "Registration", image: "registration.jpg", text: 'Learn how to register for BCDE9 <a href="/bcde9/registration/"> here.</a>' }
  #- {title: "Hotels", image: "hotels.jpg", text: 'Lodging information is <a href="/bcde9/hotels/"> here.</a>' }
 # - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde9/program/"> here.</a>' }
- - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/past/"> past conferences.</a>' }
- - {title: "About La Paz", image: "santacruz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> Explore La Paz.</a>' }
+# - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/past/"> past conferences.</a>' }
+# - {title: "About La Paz", image: "santacruz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> Explore La Paz.</a>' }
 # - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
 
 
