@@ -67,7 +67,7 @@ navigationLinks:
  # - {permalink: "/team/", text: "Organizers"}
  # - {permalink: "/sponsors/", text: "Sponsors"}
 rightNavigationButtons:
-  - {link: "/bcde9/registration", text: "Register"}
+#  - {link: "/bcde9/registration", text: "Register"}
 BCDEnavigationLinksOLD:
  - {permalink: "", text: "Home"}
  - {permalink: "callforpapers/", text: "Call for papers"}
