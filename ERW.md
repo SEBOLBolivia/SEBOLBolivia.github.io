@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /erw/
-image: test6.jpg
-title: Talleres
+image: testbackground2.jpg
+title: Economic Research Workshop
 isStaticPost: false
 ---
 
@@ -11,18 +11,11 @@ Los **Talleres de Investigación Económica (Econonomic Research Workshop)** son
 
 Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el auditorio de Postgrado de la UPB - La Paz. Tambien se difunden en streaming en el campus de Cochabamba de la UPB y pueden ser seguidos por internet por público interesado en la temática.
 
-#### Próximos ERW
-
-###### Miércoles 4 de Abril
-
-* **Filippo Temporín (LSE)**: "How deprivation affects early-age mortality? Patterns of socioeconomic determinants of neonatal and post-neonatal mortality in Bolivia"
-
-###### Miércoles 2 de Mayo
-
-* **Juan Antonio Morales (UCB-EPC)**: "Export Boom and Economic Performance:  Bolivia 2004-2015"
-
 
 #### ERW Pasados
+* **Juan Antonio Morales (UCB-EPC)**: "Export Boom and Economic Performance:  Bolivia 2004-2015"
+
+* **Filippo Temporín (LSE)**: "How deprivation affects early-age mortality? Patterns of socioeconomic determinants of neonatal and post-neonatal mortality in Bolivia"
 
 * **Darwin Ugarte (UPB)**: "Outliers in semiparametric estimation of treatment effects".
 

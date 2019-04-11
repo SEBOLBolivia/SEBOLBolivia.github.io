@@ -1,8 +1,9 @@
 ---
-layout: post-bcde
+layout: post-bcde-old
 title:  "Hotels"
 image: test16-01.png
 isStaticPost: true
+tags: '/bcde9/'
 ---
 
 

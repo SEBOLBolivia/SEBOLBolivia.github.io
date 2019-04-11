@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "BCDE9 is coming soon"
+title:  " BCDE9 Announcement"
 date:   2018-03-16 09:00:00
-image: test6.jpg
+image: testbackground.jpg
 visible: 1
 isStaticPost: false
 ---

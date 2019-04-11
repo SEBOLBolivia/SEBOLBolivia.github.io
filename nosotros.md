@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /nosotros/
-image: test6.jpg
+image: testbackground2.jpg
 title: Nosotros
 isStaticPost: false
 ---

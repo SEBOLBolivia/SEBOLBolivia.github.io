@@ -48,12 +48,13 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Inicio"}
  - {permalink: "/nosotros/", text: "Nosotros"}
- - {permalink: "/conferencias/", text: "Conferencias"}
- - {permalink: "/erw/", text: "Talleres"}
+ - {permalink: "/conferencias/", text: "BCDE"}
+ - {permalink: "/erw/", text: "ERW"}
+ - {permalink: "/dsw/", text: "DSW"}
  - {permalink: "/noticias/", text: "Noticias"}
- - {permalink: "/bcde9/", text: "BCDE9"}
+# - {permalink: "/bcde9/", text: "BCDE9"}
  - {permalink: "/contact/", text: "Contacto"}
  # - {permalink: "/speakers/", text: "Directorio"}
  # - {permalink: "/logistics/", text: "Logistics"}
@@ -67,14 +68,24 @@ navigationLinks:
  # - {permalink: "/sponsors/", text: "Sponsors"}
 rightNavigationButtons:
   - {link: "/bcde9/registration", text: "Register"}
+BCDEnavigationLinksOLD:
+ - {permalink: "", text: "Home"}
+ - {permalink: "callforpapers/", text: "Call for papers"}
+ - {permalink: "registration/", text: "Registration"}
+ - {permalink: "program/", text: "Program"}
+ - {permalink: "hotels/", text: "Hotels"}
+ - {permalink: "explore/", text: "Explore"}
+ # - {permalink: "past/", text: "Past Conferences"}
+ - {permalink: "/", text: "Sebol"}
+
 BCDEnavigationLinks:
- - {permalink: "/bcde9/", text: "Home"}
- - {permalink: "/bcde9/callforpapers", text: "Call for papers"}
- - {permalink: "/bcde9/registration/", text: "Registration"}
- - {permalink: "/bcde9/program/", text: "Program"}
- - {permalink: "/bcde9/hotels/", text: "Hotels"}
- - {permalink: "/bcde9/explore/", text: "Explore"}
- - {permalink: "/bcde9/past/", text: "Past Conferences"}
+ - {permalink: "", text: "Home"}
+ - {permalink: "callforpapers/", text: "Call for papers"}
+# - {permalink: "registration/", text: "Registration"}
+# - {permalink: "program/", text: "Program"}
+# - {permalink: "hotels/", text: "Hotels"}
+# - {permalink: "explore/", text: "Explore"}
+ - {permalink: "past/", text: "Past Conferences"}
  - {permalink: "/", text: "Sebol"}
 
 # Hero Block
@@ -90,9 +101,9 @@ heroImage: "hero_sebol3.jpg"
 # About Block
 aboutTitle: "Nuestras actividades"
 aboutBlock:
- - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/conferencias/">Detalles.</a>' }
- - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
- # - {title: "News Letter", image: "speakers.jpg", text: "Learn and discuss from a large array of topics and presenters from top universities and international organizations." }
+ - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico - Bolivian Conference on Development Economics (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/conferencias/">Detalles.</a>' }
+ - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica - Economic Research Workshop (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
+ - {title: "DSW", image: "talk.jpg", text: 'El Taller de Estudios en Desarrollo - Development Studies Workshop (DSW) es un taller academico internacional organizado como parte de la reunión de mitad de año de SEBOL en Washington, DC.<a href="/dsw/">Detalles.</a>'}
 
 # About BCDE
 aboutBCDETitle: "Welcome"
@@ -104,6 +115,16 @@ aboutBCDEBlock:
  - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/bcde9/past/"> past conferences.</a>' }
  - {title: "About Santa Cruz", image: "santacruz.jpg", text: 'Prepare for your visit. <a href="/bcde9/explore/"> Explore Santa Cruz.</a>' }
  - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
+
+aboutBCDE10:
+ - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde10/callforpapers/">Link.</a>' }
+ #- {title: "Registration", image: "registration.jpg", text: 'Learn how to register for BCDE9 <a href="/bcde9/registration/"> here.</a>' }
+ #- {title: "Hotels", image: "hotels.jpg", text: 'Lodging information is <a href="/bcde9/hotels/"> here.</a>' }
+# - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde9/program/"> here.</a>' }
+ - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/past/"> past conferences.</a>' }
+ - {title: "About La Paz", image: "santacruz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> Explore La Paz.</a>' }
+# - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
+
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
@@ -298,8 +319,9 @@ hackathonTitle: "Pre-conference Workshops"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Conferencias Pasadas"
+aboutHackathonTitle: "BCDE Pasadas"
 hackathonRows:
+ - {title: "9na BCDE", image: "bcde2018.png", details: 'Realizada en la UPSA. Santa Cruz, 29 y 30 de noviembre de 2018.<a href="http://www.sebol.org/bcde9" target="_blank"> Link.</a>'}
  - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://www.bcde8.org" target="_blank"> Link.</a>'}
  - {title: "7ma BCDE", image: "bcde2016.png", details: 'Realizada en la UPB. La Paz, 8 y 9 de diciembre de 2016.<a href="http://www.inesad.edu.bo/web/en/bcde2016/" target="_blank"> Link.</a>'}
  - {title: "LACEA XX", image: "lacea.png", details: 'Realizada en la UPSA. Santa Cruz, 15 - 17 de octubre de 2015.<a href="http://laceameeting.com" target="_blank"> Link.</a>'}

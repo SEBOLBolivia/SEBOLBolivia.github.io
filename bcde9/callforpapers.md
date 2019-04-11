@@ -1,8 +1,9 @@
 ---
-layout: post-bcde
+layout: post-bcde-old
 title: Call for papers
 image: test16-01.png
 isStaticPost: true
+tags: '/bcde9/'
 ---
 
 #### 9th Bolivian Conference on Development Economics.

@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Reunion de mitad de año"
+date:   2019-04-01 09:00:00
+image: testbackground2.jpg
+visible: 1
+isStaticPost: false
+---
+
+#### Reunión de mitad de año 2019
+
+Nos complace anunciar que a partir de 2019 vamos a tener una reunión de mitad de año en Washington D.C. Esta reunión tiene dos objetivos:
+
+* Crear un espacio adicional para investigadores jóvenes, incluyendo los miembros de SEBOL, donde podamos discutir ideas nuevas en temas relacionados al desarrollo.
+
+* Esperamos que esta reunión se convierta en una incubadora de talento que ayude al desarrollo profesional de investigadores jóvenes ofreciéndoles la oportunidad de interactuar de cerca con académicos establecidos.
+
+
+Esta reunión complementa el esfuerzo que realizamos todos los años con nuestro congreso anual—conocido como BCDE por su sigla en inglés. Por una parte, esta reunión dará una oportunidad a investigadores que desearían participar del BCDE pero que encuentran difícil viajar a Bolivia todos los años. Por otra parte, aquellos investigadores que pueden asistir a ambas reuniones, tienen libertad de presentar en el BCDE de noviembre una versión corregida del proyecto presentado en el taller de julio.
+
+#### Formato ####
+La reunión tendrá el formato de un taller académico de un día a realizarse el **26 de julio de 2019**. Esperamos discutir de 6 a 8 documentos de investigación. Después de la presentación, cada documento será discutido primero por un comentarista y luego en plenaria.
+
+
+#### Invitados
+
+Ya tenemos confirmada la participación de investigadores con reconocimiento internacional. En particular, nos da mucho gusto anunciar que **Miguel Urquiola, de Columbia University**, ofrecerá la **charla principal** de esta reunión inaugural. Los comentaristas confirmados incluyen Pamela Jakiela (Center for Global Development), Miguel Zarzosa (Purdue University), Owen Ozier (World Bank).
+
+#### Presentación de propuestas
+
+Los interesados en participar pueden enviar resumenes extendidos (extended abstracts) o borradores de documentos hasta el **13 de mayo de 2019** via correo electrónico al organizador principal, **Walter Valdivia** [wvaldivi@gmu.edu](mailto:wvaldivi@gmu.edu).
+
+Las propuestas serán evaluadas por un comité formado por miembros de SEBOL y en consulta con los comentaristas.
+
+#### Más información
+
+Mayor información está disponible en el sitio web del taller: <a href="/dsw/"> www.sebol.org/dsw/</a>
+
+La versión electrónica (pdf) de la invitación está disponible <a href="/assets/DSW_CallforPapers_Final.pdf" target="_blank">acá.</a>
+
+
+<br>
+
+<!-- More details about speakers, BCDE9, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/), follow on [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia), or subcribe to our [mailing list](https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b) and [RSS feed](http://www.bcde8.org/feed.xml) in order not to miss any important updates about the conference. -->

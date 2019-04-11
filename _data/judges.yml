@@ -1,5 +1,13 @@
 -
   id: 0
+  name: "Ariel"
+  surname: "Kalil"
+  company: "The University of Chicago"
+  title: "BCDE 2018"
+  thumbnailUrl: ArielKalil.jpg
+
+-
+  id: 0
   name: "Carlos"
   surname: "Végh"
   company: "The World Bank"
