@@ -7,6 +7,43 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title> Research highlight</title>
+        <description>&lt;h4 id=&quot;promoting-renewable-energy-and-the-risk-of-energy-poverty-in-chile&quot;&gt;Promoting renewable energy and the risk of energy poverty in Chile&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Luis Gonzales (SEBOL, University of Chicago)&lt;/strong&gt; contributed the following investigation: &lt;strong&gt;Promoting renewable energy and the risk of energy poverty in Chile&lt;/strong&gt; as a chapter to the book: &lt;em&gt;“Narratives of Low-Carbon Transitions: Understanding Risks and Uncertainties. Edited by: Susanne Hanger-Kopp and Jenny Lieu, Alexandros Nikas. Routledge, London. 2019”&lt;/em&gt;. The chapter is co-authored with Rodrigo Cerda (CLAPES-UC). Congratulations  Luis!&lt;/p&gt;
+
+&lt;p&gt;The book is part of the &lt;strong&gt;Transitions Pathways and Risk Analysis for Climate Change Mitigation and Adaptation Strategies - TransRisk&lt;/strong&gt;, started in September 2015 under the umbrella of EU Horizon 2020 programme.The volume provides an interdisciplinary, conceptual framework to assess risks and uncertainties associated with low-carbon policies and applies this consistently across 11 country cases from around the world, illustrating alternative transition pathways in various contexts.&lt;/p&gt;
+
+&lt;h4 id=&quot;paper-summary&quot;&gt;Paper summary&lt;/h4&gt;
+
+&lt;p&gt;Over the past decade Chile has successfully followed a low-carbon pathway based largely on solar power and has received international praise for this positive development. However, on closer analysis this trajectory may have a negative impact by amplifying energy poverty. The Chilean narrative discusses the country’s low-carbon pathway in the context of other objectives. It focuses particularly on the carbon tax established in 2017 as a manifestation of the country’s commitment to this pathway, and the potential risk of increasing energy poverty under four scenarios. This risk could be mitigated by creating a mechanism for monetary compensation for the most vulnerable population. The engagement process designed for this analysis revealed additional risks and uncertainties associated with Chile’s low-carbon futures that cannot (yet) be quantified.&lt;/p&gt;
+
+&lt;p&gt;You can download the book for free here: &lt;a href=&quot;https://doi.org/10.4324/9780429458781&quot;&gt;https://doi.org/10.4324/9780429458781&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ![image-title-here](/img/posts/johanna.png){:class=&quot;img-responsive&quot;} --&gt;
+&lt;h4 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+@incollection{GonzalesCerda2019,
+  author       = {Gonzales, Luis, and Cerda, Ricardo},
+  title        = {Promoting renewable energy and the risk of energy poverty in Chile},
+  booktitle    = {Narratives of Low-Carbon Transitions: Understanding Risks and Uncertainties},
+  chapter      = 6,
+  publisher    = {Routledge},
+  year         = 2019,
+  address      = {London},
+  editor       = {Hanger-Kopp, Susanne and Lieu, Jenny},
+  edition      = 1,
+  month        = 2,
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 12 Apr 2019 05:00:00 -0400</pubDate>
+        <link>http://localhost:4000/noticias/bcde10</link>
+        <guid isPermaLink="true">http://localhost:4000/noticias/bcde10</guid>
+      </item>
+    
+      <item>
         <title> BCDE10 Announcement</title>
         <description>&lt;h4 id=&quot;the-10th-bcde-to-be-hosted-by-upb---la-paz&quot;&gt;The 10th BCDE to be hosted by UPB - La Paz&lt;/h4&gt;
 
