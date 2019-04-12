@@ -5,7 +5,6 @@ date:   2019-04-12 09:00:00
 image: testbackground2.jpg
 visible: 1
 isStaticPost: false
-permalink: /noticias/bcde10
 ---
 
 #### Promoting renewable energy and the risk of energy poverty in Chile
