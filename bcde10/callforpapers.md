@@ -1,32 +1,40 @@
 ---
 layout: post-bcde
 title: Call for papers
-image: test16-01.png
+image: bannerBCDE10.png
 isStaticPost: true
 tags: '/bcde10/'
 ---
 
-#### 10th Bolivian Conference on Development Economics.
-##### November 29-30, 2018. Santa Cruz, Bolivia.
+#### Call for papers: BCDE10
 <br>
-We are delighted to announce that the __9th Bolivian Conference on Development Economics (BCDE9)__ will take place in Santa Cruz, Bolivia, on __Thursday November 29 and Friday November 30, 2018__. The conference this year is jointly organized by the Society of Bolivian Economists __(SEBOL)__, Institute for Advanced Development Studies __(INESAD)__, the Bolivian Academy of Economic Science __(ABCE)__ and Universidad Privada de Santa Cruz __(UPSA)__.
-
-#### Keynote Speakers
-__Ariel Kalil__ (Ph.D. University of Michigan) is a professor at the __University of Chicago-Harris School of Public Policy__. At Harris, she directs the Center for Human Potential and Public Policy and co-directs the Behavioral Insights and Parenting Lab. Ariel is a developmental psychologist who studies economic conditions, parenting, and child development. Her current research examines the historical evolution of income-based gaps in parenting behavior and children’s cognitive and non-cognitive skills. She is leading a variety of field experiments designed to strengthen parental engagement and child development in low-income families using tools drawn from behavioral economics and neuroscience.
+We are delighted to announce that the call for papers for the __10th Bolivian Conference on Development Economics (BCDE10)__ is now open. __BCDE10__ will take place in  __La Paz, Bolivia__ , on  Thursday November 14 and  Friday November 15, 2019 and will be hosted by __Universidad Privada Boliviana (UPB)__. The conference is organized by the __Bolivian Society of Economists (SEBOL)__, the __Institute for Advanced Development Studies (INESAD)__, and the __Bolivian Academy of Economic Sciences (ABCE)__
 
 #### About the conference
 The conference brings together local and international scholars for the exchange of ideas and discussion of recent results within theoretical and applied development economics research. We particularly encourage female researchers and Bolivian researchers to submit papers on all topics within the field of development economics.
 
-BCDE9 follows up on the success of previous conferences held in La Paz, Cochabamba, and Santa Cruz, that attracted prestigious researchers and policymakers, and included keynote lectures by Norman Loayza (World Bank), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (IADB), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), Francisco H. G. Ferreira (World Bank), Sara Farley (GKI), and Carlos Végh (World Bank).
 
-#### Call for papers
-BCDE9 invites all researchers to submit working papers to be presented in parallel contributed sessions during the conference. Submissions must be of original and unpublished work addressing theoretical and applied issues related to development economics.  We seek original and unpublished academic work with a theoretical or applied focus on all topics related to development economics. We also encourage works that combine economics with novel insights from other fields such as behavioral economics, environmental economics, social psychology, neuroscience, economic history, machine learning and data sciences.
+#### Keynote Speaker
+__Johanna Rickne__ is Professor of Economics at the Swedish Institute for Social Research, __Stockholm University__. She is an affiliated researcher with the Uppsala Center for Labor Studies at Uppsala University, the Stockholm China Economic Research Center at the Stockholm School of Economics, and since 2018 a Wallenberg Academy Fellow. During the 2018/2019 academic year she is a Guest Professor of Economics at the Cowles Foundation at Yale University. Her research is focused on labor economics, political economics, and gender economics.
 
-#### Deadline
-The submission deadline is __Monday July 23, 2018__. Please submit your completed papers through this link: [http://editorialexpress.com/conference/BCDE9](http://editorialexpress.com/conference/BCDE9).
+#### Invited Speaker
+__Marcelo Olarreaga__ is Professor of Economics at the __University of Geneva__, and Research Fellow at the Centre for Economic Policy Research (CEPR) in London. His research is focused on trade,
+economic growth and political economy.
 
-#### Review process and timeline
-All submitted papers for contributed sessions will be reviewed prior to acceptance for presentation. The review process will finish by __Friday August 17, 2018__, and the organizers will notify applicants of the outcome by email.  A program with details of all scheduled presentations will be posted at the Conference’s website: [www.sebol.org/bcde9](http://www.sebol.org/bcde9). For questions related to the call for papers feel free to contact the organizers by e-mail at: [luisgc@uchicago.edu](mailto:luisgc@uchicago.edu).
+#### Flagship Reports
+The conference will feature special and flaship report presentations by representatives of the __Inter-American Development Bank (BID)__, __Development Bank of Latin America (CAF)__ and the __Economic Commission for Latin America and the Caribbean (CEPAL)__.
 
-#### Logistics, travel and lodging.
-Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. Details will be announced in the conference website. For questions about logistics, visa and travel, please contact the chair of the local organizing committee: [sergiodaga@upsa.edu.bo](mailto:sergiodaga@upsa.edu.bo).
+#### Paper submission
+BCDE10 invites all researchers to submit individual papers to be presented in  __parallel contributed sessions__ during the conference. Submissions in all research areas related to development economics are welcome. We also encourage submissions at the intersection of multiple fields, in particular those that use novel tools to provide new insights related to development economics. Please submit your papers through our conference maker link: [http://editorialexpress.com/conference/BCDE10](http://editorialexpress.com/conference/BCDE10). All submitted papers will be reviewed prior to acceptance for presentation, and all applicants will be notified of the outcome by email.
+
+Submissions for  __thematic contributed sessions__ are also welcome. For  thematic contributed sessions sharing a common subject, please submit three (3) papers individually through this call for papers and __email the conference organizers to alert them about your proposed session__. Please note that all papers submitted as part of a  thematic contributed session will be reviewed individually. A session will be formed if all papers are accepted. Otherwise, only accepted papers will be allocated to  parallel contributed sessions.
+
+For any question, please contact the Conference Program Co-chairs: Alejandro Herrera ([aherrera@inesad.edu.bo](mailto:aherrera@inesad.edu.bo))  and Ricardo Nogales ( [ricardo.nogales@qeh.ox.ac.uk](mailto:ricardo.nogales@qeh.ox.ac.uk)).
+
+#### Important Dates
+The deadline for submissions is:   __Wednesday July 31, 2019__.
+The review process will finish by:  __August 30th, 2019__.
+The registration deadline for accepted papers is:  __September 20th,2019__ .
+
+#### Logistics, travel and lodging
+Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. All details will be announced in the conference website.  For questions about logistics, visa and travel, please contact the local organizer:Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)) .For additional information visitus at: [www.sebol.org/bcde10](http://www.sebol.org/bcde10).

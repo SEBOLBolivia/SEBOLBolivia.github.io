@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 10th Bolivian Conference on Development Economics
-image: testbackground2.jpg
+title: BCDE10
+image: bannerBCDE10.png
 ---
 
 {% include top-section-bcde.html %}
@@ -14,13 +14,11 @@ image: testbackground2.jpg
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 <p>
-                  We’re very excited you are visiting the 10th Bolivian Conference on Development Economics (BCDE10) website.
-                  <br /> We are building the site. Please check back soon for the call for papers and more announcements.
-                  <br /> Check the conference annoucement <a href="/noticias/bcde10"> here</a>.
+                    We’re very excited you are visiting the website of 10th Bolivian Conference on Development Economics (BCDE10). We look forward to great plenary sessions and a fantastic academic program. Please visit the following links to learn more details about the conference.
                 </p>
 
                 {% for about in site.aboutBCDE10 %}
-                {% assign colWidth = 12 | divided_by: 3 %}
+                {% assign colWidth = 12 | divided_by: 1 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
