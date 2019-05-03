@@ -27,7 +27,7 @@ image: bannerBCDE10.png
                     </div>
                 </div>
                 {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:2 %}
+                {% assign check = forloop.index | modulo:1 %}
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
             </div>
