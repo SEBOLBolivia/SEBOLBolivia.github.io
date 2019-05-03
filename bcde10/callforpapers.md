@@ -1,12 +1,12 @@
 ---
 layout: post-bcde
-title: Call for papers
+title: Call for papers - BCDE10
 image: bannerBCDE10-1.png
 isStaticPost: true
 tags: '/bcde10/'
 ---
 
-#### Call for papers: BCDE10
+#### Call for papers - BCDE10
 <br>
 We are delighted to announce that the call for papers for the __10th Bolivian Conference on Development Economics (BCDE10)__ is now open. __BCDE10__ will take place in  La Paz, Bolivia, on  Thursday November 14 and  Friday November 15, 2019 and will be hosted by Universidad Privada Boliviana (UPB). The conference is organized by the Bolivian Society of Economists (SEBOL), the Institute for Advanced Development Studies (INESAD), and the Bolivian Academy of Economic Sciences (ABCE)
 
