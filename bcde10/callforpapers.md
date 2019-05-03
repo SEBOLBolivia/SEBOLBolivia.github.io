@@ -29,7 +29,7 @@ BCDE10 invites all researchers to submit individual papers to be presented in  _
 
 Submissions for  __thematic contributed sessions__ are also welcome. For  thematic contributed sessions sharing a common subject, please submit three (3) papers individually through this call for papers and __email the conference organizers to alert them about your proposed session__. Please note that all papers submitted as part of a  thematic contributed session will be reviewed individually. A session will be formed if all papers are accepted. Otherwise, only accepted papers will be allocated to  parallel contributed sessions.
 
-For any question, please contact the Conference Program Co-chairs: Alejandro Herrera ([aherrera@inesad.edu.bo](mailto:aherrera@inesad.edu.bo))  and Ricardo Nogales ( [ricardo.nogales@qeh.ox.ac.uk](mailto:ricardo.nogales@qeh.ox.ac.uk)).
+For any question, please contact the conference program co-chairs: Alejandro Herrera ([aherrera@inesad.edu.bo](mailto:aherrera@inesad.edu.bo))  and Ricardo Nogales ( [ricardo.nogales@qeh.ox.ac.uk](mailto:ricardo.nogales@qeh.ox.ac.uk)).
 
 #### Important Dates
 The deadline for submissions is:   __Wednesday July 31, 2019__.
@@ -37,4 +37,4 @@ The review process will finish by:  __August 30th, 2019__.
 The registration deadline for accepted papers is:  __September 20th,2019__ .
 
 #### Logistics, travel and lodging
-Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. All details will be announced in the conference website.  For questions about logistics, visa and travel, please contact the local organizer:Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)) .For additional information visitus at: [www.sebol.org/bcde10](http://www.sebol.org/bcde10).
+Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. All details will be announced in the conference website.  For questions about logistics, visa and travel, please contact the local organizer: Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)) .For additional information visitus at: [www.sebol.org/bcde10](http://www.sebol.org/bcde10).
