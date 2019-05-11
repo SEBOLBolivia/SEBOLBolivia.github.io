@@ -34,7 +34,7 @@ For any question, please contact the conference program co-chairs: Alejandro Her
 #### Important Dates
 The deadline for submissions is:   __Wednesday July 31, 2019__.
 The review process will finish by:  __August 30th, 2019__.
-The registration deadline for accepted papers is:  __September 20th,2019__ .
+The registration deadline for accepted papers is:  __September 20th,2019__.
 
 #### Logistics, travel and lodging
-Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. All details will be announced in the conference website.  For questions about logistics, visa and travel, please contact the local organizer: Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)) .For additional information visitus at: [www.sebol.org/bcde10](http://www.sebol.org/bcde10).
+Accepted presenters are responsible for their travel and lodging expenses. However, organizers will negotiate discounted rates for hotel accommodation. All details will be announced in the conference website.  For questions about logistics, visa and travel, please contact the local organizer: Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)). For additional information visit us at: [www.sebol.org/bcde10](http://www.sebol.org/bcde10).
