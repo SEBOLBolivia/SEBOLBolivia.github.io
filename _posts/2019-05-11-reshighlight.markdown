@@ -25,7 +25,7 @@ You can access the published version here (gated):
 
 <div align="left">
 <p>
-A working paper version of the paper is available freely avaliable here:
+A working paper version of the paper is available here:
 </p>
 </div>
 [https://repository.eafit.edu.co/handle/10784/11748](https://repository.eafit.edu.co/handle/10784/11748)

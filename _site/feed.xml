@@ -8,6 +8,39 @@
     
       <item>
         <title> Research highlight</title>
+        <description>&lt;h5 id=&quot;labor-market-search-informality-and-on-the-job-human-capital-accumulation&quot;&gt;Labor Market Search, Informality, and On-The-Job Human Capital Accumulation&lt;/h5&gt;
+
+&lt;p&gt;The paper by our colleague &lt;strong&gt;Mauricio Tejada (SEBOL, UAH)&lt;/strong&gt; was recently accepted for publication at the &lt;em&gt;“Journal of Econometrics’&lt;/em&gt;. This paper, co-authored with Matteo Bobba, Luca Flabbi and Santiago Levy, uses  individual data from Mexico’s official labor force survey to estimate a structural model the labor market in which search and matching frictions, informality status, and human capital accumulation interact with each other.&lt;/p&gt;
+
+&lt;p&gt;We develop and estimate a search and matching model where formality status and job search decisions are updated optimally every time the human capital levels change either as a result of upgrading on the job or of downgrading while searching for a new job. We model in detail the structure of social security costs and benefits, allowing for the presence of a “dual” system where formal jobs enjoy benefits financed by payroll contributions while informal workers and labor market searchers receive benefits financed by resources collected outside the labor market. Firms face monetary penalties for hiring informally.&lt;/p&gt;
+
+&lt;p&gt;Congratulations Mauricio!&lt;/p&gt;
+
+&lt;h5 id=&quot;paper-summary&quot;&gt;Paper summary&lt;/h5&gt;
+
+&lt;p&gt;We develop a search and matching model where firms and workers produce output that depends both on match-specific productivity and on worker-specific human capital. The human capital is accumulated while working but depreciates while searching for a job. Jobs can be formal or informal and firms post the formality status. The equilibrium is characterized by an endogenous steady state distribution of human capital and by an endogenous formality rate. The model is estimated on longitudinal labor market data for Mexico. Human capital accumulation on-the-job is responsible for more than half of the overall value of production and upgrades more quickly while working formally than informally. Policy experiments reveal that the dynamics of human capital accumulation magnifies the negative impact on productivity of the labor market institutions that give raise to informality.&lt;/p&gt;
+
+&lt;p&gt;A working paper version of the paper is avaliable here: &lt;a href=&quot;http://ftp.iza.org/dp12091.pdf&quot;&gt;http://ftp.iza.org/dp12091.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ![image-title-here](/img/posts/johanna.png){:class=&quot;img-responsive&quot;} --&gt;
+&lt;h4 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+@article{BFLT2019,
+  author = {Matteo Bobba and Luca Flabbi and Mauricio Tejada and Santiago Levy},
+  title = {Labor Market Search, Informality, and On-The-Job Human Capital Accumulation},
+  journal = {Journal of Econometrics (forthcoming)},
+  year  = {2019},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 12 Jun 2019 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/06/12/reshighlight/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/06/12/reshighlight/</guid>
+      </item>
+    
+      <item>
+        <title> Research highlight</title>
         <description>&lt;h4 id=&quot;the-role-of-intelectual-property-rights-on-entry-decisions&quot;&gt;The role of intelectual property rights on entry decisions&lt;/h4&gt;
 
 &lt;p&gt;&lt;strong&gt;Gustavo Canavire (SEBOL, IDB)&lt;/strong&gt; and &lt;strong&gt;Luis Castro (SEBOL, UPB)&lt;/strong&gt; published the paper : &lt;strong&gt;Can Intellectual Property Rights Affect Multinational Enterprises’ Entry Modes? The Chilean Case&lt;/strong&gt; in the  &lt;em&gt;“International Journal of the Economics of Business”&lt;/em&gt;. Congratulations to both!&lt;/p&gt;
@@ -25,7 +58,7 @@ You can access the published version here (gated):
 
 &lt;div align=&quot;left&quot;&gt;
 &lt;p&gt;
-A working paper version of the paper is available freely avaliable here:
+A working paper version of the paper is available here:
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;a href=&quot;https://repository.eafit.edu.co/handle/10784/11748&quot;&gt;https://repository.eafit.edu.co/handle/10784/11748&lt;/a&gt;&lt;/p&gt;
