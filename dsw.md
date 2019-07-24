@@ -17,36 +17,69 @@ The **Society of Bolivian Economists (SEBOL)** is organizing a mid-year meeting 
 of members of SEBOL with international scholars. We are aiming to build a network of collaborators to
 foster novel ideas and break new ground in development studies.
 
-The meeting will be a **one-day workshop** to showcase 6 to 8 research papers. Each paper will be first
+The meeting will be a **one-day workshop** to showcase 10 research papers. Each paper will be first
 presented by its author, then discussed by an invited scholar, and last discussed in plenary session. All
 presentations will be delivered in English.
 
-#### Keynote Speaker ####
-<center><h5 style="color:blue;">Miguel Urquiola, Columbia University & NBER</h5></center>
+
+<center><h4 style="color:blue;">Program</h4></center>
+
+###### 8:00 – 8:30. Arrival and registration.
+###### 8:30 – 8:40. Welcome and opening remarks.
+<h5 style="color:blue;">Session 1. The political economy of development.</h5>
+###### 8:40 – 9:20. All is Water: Historical Causes and Consequences of Agrarian Development in 20th Century India.
+__Presenter:__  Aaditya Dar, Indian School of Business, Hyderabad <br>
+__Discussant:__ Walter Valdivia, George Mason University
+
+###### 9:20 – 10:00. Political Alignment and Access to Subnational Credit: Evidence from Local Governments in Mexico.
+__Presenter:__ Bruno Lopez-Videla, UC San Diego <br>
+__Discussant:__ Miguel Sarzosa, Purdue University
+###### 10:00 – 10:10 Coffee break
+<h5 style="color:blue;"> Session 2. Population control and education.</h5>
 
 
-#### Accepted Papers
+###### 10:10 – 10:50. Broken trust: The consequences of the forced sterilizations in Peru.
+__Presenter:__ Kattya Quiroga Velasco, University of Maryland <br>
+	__Discussant:__ Fernando Saltiel, University of Maryland
 
-* **Kattya Quiroga Velasco (University of Maryland)**, Broken Trust: The consequences of the forced sterilizations in Peru. **Discussant:** *TBD.*
+###### 10:50 – 11:30. Effects of a Reduction in Credit Constraints on Educational Attainment: Evidence from Chile.
+__Presenter:__ Andres Garcia, Universidad Los Andes Chile <br>
+__Discussant:__ Patricia Yañez, BID Invest
 
-* **Aaditya Dar (George Washington University)**, All is Water: Historical Causes and Consequences of Agrarian Development in 20th century India. **Discussant:** *TBD.*
+###### 11:30 – 12:10. Newly Graduates in the Labor Market: The Efficiency Frontier of Higher Education Institutions.
+__Presenter:__ Fabiola Saavedra, Université Catholique de Louvain <br>
+__Discussant:__ Miguel Urquiola, Columbia University
 
-* **Bruno Lopez-Videla (University of California San Diego)**, Political Alignment and Access to Subnational Credit: Evidence from Local Governments in Mexico. **Discussant:** *TBD.*
+###### 12:10 – 13:00. Lunch break
+###### 13:00 – 14:00. __Keynote address: Miguel Urquiola, Columbia University.__
+<h6 style="color:blue;"><em>Is Education Consumption or Investment? Implications for School Competition.</em></h6>
+<h5 style="color:blue;"> Session 3. Violence, displacement, and shocks.</h5>
 
-* **Diego Vera-Cossio (IADB)**, The limits of Informal Insurance and the Propagation of Idiosyncratic Shocks Through Economic Networks. **Discussant:** *TBD.*
+###### 14:00 – 14:40. Violent Crime and Intrahousehold Bargaining: The Mexican Drug War.
+__Presenter:__ Maria Hernandez de Benito, Georgetown University <br>
+__Discussant:__ Owen Ozier, World Bank
 
-* **Lissandra Ellyne (University of Nebraska)**, Haggling for a Smoke: an Experimental Study of Price Discrimination in Mexico City’s Informal Cigarette Markets. **Discussant:** *TBD.*
+###### 14:40 – 15:20. Productivity and displacement: evidence from Colombia’s illegal drug production.
+__Presenter:__ Alejandro Herrera, INESAD <br>
+__Discussant:__ Maria del Pilar Lopez-Uribe, Universidad de Los Andes
 
-* **Fabiola Saavedra (Université Catholique de Louvain)**, Newly Graduates in the Labor Market: The Efficiency Frontier of Higher Education Institutions. **Discussant:** *TBD.*
+###### 15:20 – 16:00. The limits of informal insurance and the propagation of idiosyncratic shocks through economic networks.
+__Presenter:__ Diego Vera-Cossio, IADB <br>
+__Discussant:__ Pamela Jakiela, Center for Global Development
 
-* **Andres Garcia (Universidad Los Andes Chile)**, Effects of a Reduction in Credit Constraints on
-Educational Attainment: Evidence from Chile. **Discussant:** *TBD.*
+###### 16:00 – 16:10. Coffee break
 
-* **Alejandro Herrera (INESAD)**, Productivity and Displacement: Evidence from Colombia’s Illegal Drug Production. **Discussant:** *TBD.*
+<h5 style="color:blue;"> Session 4. The impact of cultural norms.</h5>
 
-* **Maria Hernandez de Benito (Georgetown University)**, Violent Crime and Intra-Household Bargaining: The Mexican Drug War. **Discussant:** *TBD.*
-
-* **Soraya Roman (CIEE-UPB)**, Culture and Breastfeeding Duration in Peru and Bolivia. **Discussant:** *TBD.*
+###### 16:10 – 16:50. Does Electoral Pressure Lead to Better Government Performance?
+__Presenter:__ Abigail Peralta, Louisiana State University <br>
+__Discussant:__ Pablo Cuba-Borda, Federal Reserve Board
+###### 16:50 – 17:30. Haggling for a smoke: an experimental study of price discrimination in Mexico City’s informal cigarette markets.
+__Presenter:__ Lissandra Ellyne, University of Nebraska <br>
+__Discussant:__ Gustavo Canavire, IADB
+###### 17:30. Adjourn
+<br>
+Continue the conversation in an informal gathering for happy hour.
 
 
 
