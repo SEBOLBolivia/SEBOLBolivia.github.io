@@ -56,7 +56,7 @@ __Discussant:__ Miguel Urquiola, Columbia University
 <h5 style="color:blue;"> Session 3. Violence, displacement, and shocks.</h5>
 
 ###### 14:00 – 14:40. Violent Crime and Intrahousehold Bargaining: The Mexican Drug War.
-__Presenter:__ Maria Hernandez de Benito, Georgetown University <br>
+__Presenter:__ Maria Hernandez-de-Benito, Georgetown University <br>
 __Discussant:__ Owen Ozier, World Bank
 
 ###### 14:40 – 15:20. Productivity and displacement: evidence from Colombia’s illegal drug production.

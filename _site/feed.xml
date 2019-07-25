@@ -8,6 +8,39 @@
     
       <item>
         <title> Research highlight</title>
+        <description>&lt;h5 id=&quot;likelihood-evaluation-of-models-with-occasionally-binding-constraints&quot;&gt;Likelihood evaluation of models with occasionally binding constraints&lt;/h5&gt;
+
+&lt;p&gt;The paper by our colleague  by our colleague &lt;strong&gt;Pablo Cuba Borda&lt;/strong&gt; on “Likelihood evaluation of models with occasionally binding constraints”, co-authored with Luca Guerrieri, Matteo Iacoviello and Molin Zhong, documents how solution approximation errors and likelihood misspecification, related to the treatment of measurement errors, can interact and compound each other.&lt;/p&gt;
+
+&lt;h5 id=&quot;paper-summary&quot;&gt;Paper summary&lt;/h5&gt;
+
+&lt;p&gt;Applied researchers interested in estimating key parameters of DSGE models face an array of choices regarding numerical solution and estimation methods. We focus on the likelihood evaluation of models with occasionally binding constraints. We document how solution approximation errors and likelihood misspecification, related to the treatment of measurement errors, can interact and compound each other.&lt;/p&gt;
+
+&lt;p&gt;A working paper version of the paper is avaliable here: &lt;a href=&quot;http://www.pcubaborda.net/documents/cuba-borda-guerrieri.pdf&quot;&gt;http://www.pcubaborda.net/documents/cuba-borda-guerrieri.pdf&lt;/a&gt;. The published version is accesible here (gated): &lt;a href=&quot;https://doi.org/10.1002/jae.2729&quot;&gt;https://doi.org/10.1002/jae.2729&lt;/a&gt;&lt;/p&gt;
+
+&lt;!-- ![image-title-here](/img/posts/johanna.png){:class=&quot;img-responsive&quot;} --&gt;
+&lt;h4 id=&quot;bibtex&quot;&gt;BibTeX&lt;/h4&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+@article{doi:10.1002/jae.2729,
+author = {Cuba-Borda, Pablo and Guerrieri, Luca and Iacoviello, Matteo and Zhong, Molin},
+title = {Likelihood evaluation of models with occasionally binding constraints},
+journal = {Journal of Applied Econometrics},
+volume = {0},
+number = {ja},
+pages = {},
+doi = {10.1002/jae.2729},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2729},
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Tue, 23 Jul 2019 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2019/07/23/reshighlight/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/23/reshighlight/</guid>
+      </item>
+    
+      <item>
+        <title> Research highlight</title>
         <description>&lt;h5 id=&quot;labor-market-search-informality-and-on-the-job-human-capital-accumulation&quot;&gt;Labor Market Search, Informality, and On-The-Job Human Capital Accumulation&lt;/h5&gt;
 
 &lt;p&gt;The paper by our colleague &lt;strong&gt;Mauricio Tejada (SEBOL, UAH)&lt;/strong&gt; was recently accepted for publication at the &lt;strong&gt;“Journal of Econometrics”&lt;/strong&gt;. This paper, co-authored with Matteo Bobba, Luca Flabbi and Santiago Levy, uses  individual data from Mexico’s official labor force survey to estimate a structural model of the labor market in which search and matching frictions, informality status, and human capital accumulation interact with each other.&lt;/p&gt;
