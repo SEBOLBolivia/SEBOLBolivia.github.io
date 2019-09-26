@@ -15,6 +15,8 @@ The registration fee for all presenters is 450 Bolivian Pesos (about 65 USD). If
 
 ![image-title-here](/img/posts/Web_Inscripciones.jpg){:class="img-responsive"}
 
+You can buy tickets for the conference here: [https://www.todotix.com/Comprar/Login.aspx?ReturnUrl=%2fComprar%2fEventosDetalles.aspx%3fevento%3d1647&evento=1647](https://www.todotix.com/Comprar/Login.aspx?ReturnUrl=%2fComprar%2fEventosDetalles.aspx%3fevento%3d1647&evento=1647)
+
 ##### What is included in the registration?
 
 * __Student__ registration:  includes conference material and farewell cocktail. Note that this option is limited to local undergraduate students.
