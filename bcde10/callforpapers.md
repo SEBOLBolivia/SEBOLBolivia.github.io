@@ -1,7 +1,7 @@
 ---
 layout: post-bcde
 title: Call for papers BCDE10
-image: bannerBCDE10-1.png
+image: banner-web-02.jpg
 isStaticPost: true
 tags: '/bcde10/'
 ---

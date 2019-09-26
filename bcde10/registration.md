@@ -1,27 +1,31 @@
 ---
 layout: post-bcde
 title:  "Registration"
-image: test16-01.png
+image: banner-web-02.jpg
 isStaticPost: true
 tags: '/bcde10/'
 ---
 
 
-#### Registration schedule
+##### Registration schedule for presenters:
 
-![image-title-here](/img/posts/registration2-01.jpg){:class="img-responsive"}
+The registration fee for all presenters is 450 Bolivian Pesos (about 65 USD). If your paper was accepted for presentation to the conference please log in into the presenter registration portal and register before __October 14th, 2019__. Link to presenters registration (password protected): [https://conference.solunes.site](https://conference.solunes.site)
 
-#### What is included in the registration?
+##### Registration schedule for general public:
 
-* All registrations include conference material, access to plenary sessions, parallel sessions and farewell cocktail.
+![image-title-here](/img/posts/Web_Inscripciones.jpg){:class="img-responsive"}
 
-* Student Plus and Professional & Presenters have complementary lunch and coffee break service during the conference.
+##### What is included in the registration?
+
+* __Student__ registration:  includes conference material and farewell cocktail. Note that this option is limited to local undergraduate students.
+
+* __Student Plus and Professional__ registration includes: conference material, farewell cocktail and complementary lunch and coffee break service during the conference.
 
 * Participation certificates will be granted to all registered participants.
 
-#### Questions
+##### Questions
 
-If you have questions about which registration option is right for you, please contact [bcde9@sebol.org](mailto:bcde9@sebol.org).
+If you have questions about which registration option is right for you, please contact [bcde10@sebol.org](mailto:bcde10@sebol.org) or Mariana Pérez ([marianaperez@upb.edu](mailto:marianaperez@upb.edu)).
 
 <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

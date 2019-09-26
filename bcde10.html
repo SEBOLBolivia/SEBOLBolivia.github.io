@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BCDE10
-image: bannerBCDE10-1.png
+image: banner-web-02.jpg
 ---
 
 {% include top-section-bcde.html %}
@@ -18,7 +18,7 @@ image: bannerBCDE10-1.png
                 </p>
 
                 {% for about in site.aboutBCDE10 %}
-                {% assign colWidth = 12 | divided_by: 1 %}
+                {% assign colWidth = 12 | divided_by: 2 %}
                 <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                         <h5>{{ about.title }}</h5>
@@ -35,3 +35,10 @@ image: bannerBCDE10-1.png
     </div>
 </section>
 <!-- End About Section -->
+{% include rockstar-speakers-bcde10.html %}
+
+{% include statistic.html %}
+
+{% include venue-bcde10.html %}
+
+{% include partners-bcde10.html %}

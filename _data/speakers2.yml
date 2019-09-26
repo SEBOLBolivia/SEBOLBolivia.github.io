@@ -1,0 +1,701 @@
+-
+  id: 1
+  name: "Johanna"
+  surname: "Rickne"
+  company: " Professor of Economics <br /> Swedish Institute for Social Research"
+  title: "Keynote Speaker"
+  bio: "<p>Ariel Kalil is a professor at the University of Chicago Harris School of Public Policy. At Harris, she directs the Center for Human Potential and Public Policy and co-directs the Behavioral Insights and Parenting Lab. She also holds appointments as an adjunct professor in the Norwegian School of Economics in Bergen, Norway and in the School of Business Administration at the University of Stavanger, Norway. She is a developmental psychologist who studies economic conditions, parenting, and child development. Her current research examines the historical evolution of income-based gaps in parenting behavior and children’s cognitive and non-cognitive skills.</p>"
+  thumbnailUrl: JohannaRickne.jpg
+  rockstar: true
+
+-
+  id: 11
+  name: "Marcelo"
+  surname: "Olarreaga"
+  company: "Professor Institute of Economics and Econometrics
+<br />University of Geneva"
+  title: "Director"
+  bio: "Juan Vargas is a research economist in the CAF-Development Bank of Latin America. He holds a Ph.D. in economics from the University of London and held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence."
+  thumbnailUrl: MarceloOlarreaga.jpg
+  rockstar: true
+
+-
+  id: 12
+  name: "George"
+  surname: "Gray Molina"
+  company: Chief Economist <br /> United Nations Development Program
+  title: "Special Guest"
+  bio: "Guillermo Vuletin is a Senior Economist at the Office of the Chief Economist for Latin America and the Caribbean of the World Bank. He is also a Non-resident Fellow in the Global Economy and Development Program at the Brookings Institution, a Visiting Professor at the Johns Hopkins School of Advanced International Studies (SAIS). He received a PhD in Economics from the University of Maryland in 2007 and an undergraduate degree and a MA in Economics from the Universidad Nacional de La Plata, Argentina. Prior to joining the World Bank, he was a Lead Economist in the Research Department at the Inter-American Development Bank."
+  thumbnailUrl: GeorgeGray.jpg
+  invited: true
+
+-
+  id: 13
+  name: "José"
+  surname: "Duran"
+  company: Economist, International Trade and Integration Division<br /> Comisión Económica para América Latina y el Caribe
+  title: "Special Guest"
+  bio: "Guillermo Vuletin is a Senior Economist at the Office of the Chief Economist for Latin America and the Caribbean of the World Bank. He is also a Non-resident Fellow in the Global Economy and Development Program at the Brookings Institution, a Visiting Professor at the Johns Hopkins School of Advanced International Studies (SAIS). He received a PhD in Economics from the University of Maryland in 2007 and an undergraduate degree and a MA in Economics from the Universidad Nacional de La Plata, Argentina. Prior to joining the World Bank, he was a Lead Economist in the Research Department at the Inter-American Development Bank."
+  thumbnailUrl: JoseDuran.jpg
+  invited: true
+
+
+-
+  id: 101
+  paperid: 20
+  name: "Diego"
+  surname: "Vera Cossio"
+  coauthors: ""
+  company: "Inter-American Development Bank"
+  title: 'Targeting credit through community members'
+  bio: ""
+  rockstar: false
+
+-
+  id: 102
+  paperid: 111
+  name: "Sara"
+  surname: "Esfahani"
+  coauthors: ""
+  company: "Sam Houston State University"
+  title: "Agricultural Misallocation: Mismeasurement, Misspecification, or Market Frictions?"
+  bio: ""
+  rockstar: false
+
+-
+  id: 103
+  paperid: 96
+  name: "Darwin"
+  surname: "Ugarte"
+  coauthors: "Jean Philippe Platteau (University of Namur)"
+  company: "Universidad Privada Boliviana"
+  title: "Cognitive Bias in Insurance: Evidence from India"
+  bio: ""
+  rockstar: false
+
+-
+  id: 104
+  paperid: 118
+  name: "Alfonso"
+  surname: "Finot"
+  coauthors: ""
+  company: "Universidad de Chile"
+  title: "The Impacts of Trade Facilitation Measures on International Trade Flows: An application to Central America"
+  bio: ""
+  rockstar: false
+
+-
+  id: 105
+  paperid: 50
+  name: "Cristian"
+  surname: "Ugarte"
+  coauthors: "Marco Fugazza (UNCTAD), Marcelo Olarreaga (University of GENEVA and CEPR)"
+  company: "University of Geneva"
+  title: "On the heterogeneous effects of market-access barriers: Evidence from small and large Peruvian exporters"
+  bio: ""
+  rockstar: false
+
+-
+  id: 106
+  paperid: 120
+  name: "Rodrigo"
+  surname: "Garcia Ayala"
+  coauthors: ""
+  company: "Harvard KSG "
+  title: "Automation, Global Value Chains and the Future of Work in Developing Countries: Evidence from Mexican Manufacturing"
+  bio: ""
+  rockstar: false
+
+-
+  id: 107
+  paperid: 85
+  name: "Matthew"
+  surname: "Collin"
+  coauthors: ""
+  company: "World Bank"
+  title: "Peer Effects in the Demand for Property Rights: Experimental Evidence from Urban Tanzania"
+  bio: ""
+  rockstar: false
+
+-
+  id: 108
+  paperid: 42
+  name: "Maria del Pilar"
+  surname: "Lopez Uribe"
+  coauthors: ""
+  company: "Universidad de los Andes-LSE"
+  title: "Buying off the Revolution: Evidence from the Colombian National Peasant Movement, 1957-1985"
+  bio: ""
+  rockstar: false
+
+-
+  id: 109
+  paperid: 105
+  name: "Miguel"
+  surname: "Niño-Zarazua"
+  coauthors: "Dragan Filipovich (Universidad Rafael Landívar), Alma Santillán
+Hernández (Universidad Autónoma del Estado de Hidalgo)"
+  company: "UNU-WIDER"
+  title: "Campaign Externalities, Programmatic Spending, and Voting Preferences in Rural Mexico: The Case of Progresa-Oportunidades-Prospera Programme"
+  bio: ""
+  rockstar: false
+-
+  id: 110
+  paperid: 64
+  name: "Liliana"
+  surname: "Serrate"
+  coauthors: ""
+  company: "CAINCO"
+  title: "Does Conditional Cash Transfer incentivize the use of Health Services? The Case of Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 111
+  paperid: 11
+  name: "Marianna"
+  surname: "Battaglia"
+  coauthors: "Nina Pallares (Universidad de Alicante)"
+  company: "Universidad de Alicante"
+  title: "Family Planning and Child Health Care: Evidence from a Permanent Aggressive Intervention"
+  bio: ""
+  rockstar: false
+
+-
+  id: 112
+  paperid: 59
+  name: "Ryoko"
+  surname: "Sato"
+  coauthors: ""
+  company: "Harvard T.H.Chan School of Public Health"
+  title: "Backfire Effect of Salient Information on Vaccine Take-up: Evidence from Scared-Straight Intervention in Rural Northern Nigeria"
+  bio: ""
+  rockstar: false
+
+-
+  id: 113
+  paperid: 30
+  name: "Victor"
+  surname: "Gamarra Echenique"
+  coauthors: ""
+  company: "Universidad del Pacífico"
+  title: "The Unsustainable Local Effects of Extractives Industries: Boom and Bust Evidence from a Peruvian Gold Mine"
+  bio: ""
+  rockstar: false
+-
+  id: 114
+  paperid: 102
+  name: "Pablo"
+  surname: "Cuba Borda"
+  coauthors: ""
+  company: "Federal Reserve Board"
+  title: "What Explains the Great Recession and the Slow Recovery?"
+  bio: ""
+  rockstar: false
+
+-
+  id: 115
+  paperid: 44
+  name: "Luis Carlos"
+  surname: "Jemio"
+  coauthors: "Jaime Coronado (CEMLA)"
+  company: "INESAD"
+  title: "Ciclos Economicos y Vulnerabilidad Externa en America Latina"
+  discussant: "Juan Antonio Morales (Universidad Católica Boliviana), Carlos Gustavo Machicado (INESAD), Beatriz Muriel (INESAD)"
+  bio: ""
+  rockstar: false
+-
+  id: 116
+  paperid: 103
+  name: "Julio"
+  surname: "Aguirre"
+  coauthors: "Elmer Guerrero (Universidad Nacional Mayor de San Marcos), Yohnny Campana (Macroconsult)"
+  company: "Universidad del Pacífico"
+  title: "How effective are protected natural areas when roads are present? An analysis of the Peruvian case"
+  bio: ""
+  rockstar: false
+
+-
+  id: 117
+  paperid: 32
+  name: "Dany"
+  surname: "Jaimovich"
+  coauthors: "Simon H. Heß (Goethe University Frankfurt), Matthias Schündeln (Goethe University Frankfurt)"
+  company: "Universidad de Talca"
+  title: "Community-Driven Deforestation? Experimental Evidence From a Rural Development Program in West African drylands"
+  bio: ""
+  rockstar: false
+
+-
+  id: 118
+  paperid: 48
+  name: "Luis"
+  surname: "Gonzales"
+  coauthors: ""
+  company: "University of Chicago"
+  title: "Energy Poverty and Welfare Effects"
+  bio: ""
+  rockstar: false
+
+-
+  id: 119
+  paperid: 15
+  name: "Victor"
+  surname: "Gamarra"
+  coauthors: "Carmen Taipe Espinoza (Universidad del Católica del Perú)"
+  company: "Universidad del Pacífico"
+  title: "Improved seeds as an escape from poverty? Quantitative and qualitative evidence for Peruvian Southern Andes"
+  bio: ""
+  rockstar: false
+-
+  id: 120
+  paperid: 104
+  name: "Miguel"
+  surname: "Niño-Zarazua"
+  coauthors: "Carla Canelas (Université Paris 1)"
+  company: "UNU-WIDER"
+  title: "Schooling and labour market impacts of Bolivia's Bono Juancito Pinto"
+  bio: ""
+  rockstar: false
+
+-
+  id: 121
+  paperid: 14
+  name: "Marcela"
+  surname: "Perticara"
+  coauthors: ""
+  company: "Universidad Alberto Hurtado"
+  title: "After-School Effects on Students' Academic Outcomes: Evidence from Chile"
+  bio: ""
+  rockstar: false
+-
+  id: 122
+  paperid: 88
+  name: "Benjamin"
+  surname: "Villena Roldan"
+  coauthors: "Stefano Banfi (Ministry of Energy, Chile), Sekyou Choi (University of Bristol)"
+  company: "Universidad de Chile"
+  title: "Deconstructing Job Search Behavior"
+  bio: ""
+  rockstar: false
+-
+  id: 123
+  paperid: 17
+  name: "Fernando"
+  surname: "Rios-Avila"
+  coauthors: "Fabiola Saavedra Caballero (Université Catholique de Louvain)"
+  company: "Levy Economics Institute"
+  title: "It pays to Study for the right job: Exploring the causes and consequences of Education-Occupation job mismatch"
+  bio: ""
+  rockstar: false
+-
+  id: 124
+  paperid: 23
+  name: "Mauricio"
+  surname: "Tejada"
+  coauthors: "Matteo Bobba (Toulouse School of Economics), Luca Flabbi (University of North Carolina - Chapel Hill), Santiago Levy (Inter-American Development Bank)"
+  company: "ILADES - Universidad Alberto Hurtado"
+  title: "Labor Market Search, Informality, and On-The-Job Human Capital Accumulation"
+  bio: ""
+  rockstar: false
+
+-
+  id: 125
+  paperid: 21
+  name: "Diego"
+  surname: "Vera Cossio"
+  coauthors: "Emily Breza (Harvard University), Robert Townsend (MIT)"
+  company: "Inter-American Development Bank"
+  title: "Access to credit and productivity: Evidence from Thai Villages"
+  bio: ""
+  rockstar: false
+-
+  id: 126
+  paperid: 87
+  name: "Carlos"
+  surname: "Foronda"
+  coauthors: "Javier Beverinotti (IDB)"
+  company: "Universidad Privada Boliviana"
+  title: "Análisis de las Características de la Innovación en Empresas y su Efecto en la Productividad en Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 127
+  paperid: 65
+  name: "Adriana"
+  surname: "Garcia"
+  coauthors: "Robert Lensik (University of Groningen), Francesco Cecchi (Wageningen University)"
+  company: "University of Groningen"
+  title: "Does Technical Assistance Improve Welfare of Farmers with Access to Microcredit? An Empirical Study in Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 128
+  paperid: 8
+  name: "Fernando"
+  surname: "Borraz"
+  coauthors: "Leandro Zipitría (Universidad de la República and Universidad de San Andrés)"
+  company: "Universidad de la Republica and Banco Central del Uruguay"
+  title: "The Role of Competition in Explaining Law of One Price Deviations"
+  bio: ""
+  rockstar: false
+-
+  id: 129
+  paperid: 74
+  name: "Rolando"
+  surname: "Caballero Martínez"
+  coauthors: "Benigno Caballero Claure (Universidad Técnica de Oruro), Claudia Bohórquez Coro (Universidad Mayor de San Andrés)"
+  company: "UNAM, CEMFI"
+  title: "Volatilidad del Tipo de Cambio Nominal: Un Enfoque con Models con Cambio de Régimen para Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 130
+  paperid: 99
+  name: "Carlos Gustavo"
+  surname: "Machicado"
+  coauthors: "Timothy J. Kehoe (Univeristy of Minnesota), José Peres-Cajías(Universidad de Barcelona)"
+  company: "INESAD"
+  title: "The Monetary and Fiscal History of Bolivia, 1960-2015"
+  bio: ""
+  rockstar: false
+-
+  id: 131
+  paperid: 3
+  name: "Fernando"
+  surname: "Rios-Avila"
+  coauthors: ""
+  company: "Levy Economics Institute"
+  title: "A Semi-parametric approach to the Oaxaca-Blinder decomposition with continuous group variable and self-selection"
+  bio: ""
+  rockstar: false
+
+-
+  id: 132
+  paperid: 128
+  name: "Guillermo"
+  surname: "Avellán"
+  coauthors: ""
+  company: "Universidad Espíritu Santo"
+  title: "How Do Productivity, Minimum Wage And Exogenous Variables Affect Urban Unemployment In Ecuador?"
+  bio: ""
+  rockstar: false
+-
+  id: 133
+  paperid: 47
+  name: "Pamela"
+  surname: "Cordova Olivera"
+  coauthors: "Ricardo Nogales (Universidad Privada Boliviana), Manuel Urquidi (Inter-American Development Bank) "
+  company: "Universidad Privada Boliviana"
+  title: "Gender, University Reputation and Formal Job Opportunities:  Theoretical discussion and evidence from a correspondence experiment in Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 134
+  paperid: 110
+  name: "Joaquin"
+  surname: "Morales"
+  coauthors: "Valeria Salinas (Universidad Privada Boliviana)"
+  company: "Universidad Privada Boliviana"
+  title: "El Desarrollo y las Caracterí­sticas de La Economí­a Popular: Un Modelo Formal con Evidencia Etnográfica"
+  bio: ""
+  rockstar: false
+
+-
+  id: 135
+  paperid: 12
+  name: "Evan"
+  surname: "Kresch"
+  coauthors: ""
+  company: "Oberlin College"
+  title: "The Buck Stops Where? Federalism, Uncertainty, and Investment in the Brazilian Water and Sanitation Sector"
+  bio: ""
+  rockstar: false
+-
+  id: 136
+  paperid: 107
+  name: "Gustavo"
+  surname: "Zarate"
+  coauthors: ""
+  company: "Universidad Privada Boliviana"
+  title: "Análisis de la Desigualdad de Largo Plazo en Bolivia. 1976-2012"
+  bio: ""
+  rockstar: false
+-
+  id: 137
+  paperid: 24
+  name: "Antonio"
+  surname: "Saravia"
+  coauthors: ""
+  company: "Mercer University"
+  title: "How Do Socio-Economic Conditions Matter for Socialist Indoctrination? The Case of Latin America's 21st Century Socialism"
+  bio: ""
+  rockstar: false
+
+-
+  id: 138
+  paperid: 62
+  name: "Pablo"
+  surname: "Mendieta"
+  coauthors: ""
+  company: "Chamber of Industry and Commerce of Santa Cruz"
+  title: "A regional landscape of Bolivian economic growth"
+  bio: ""
+  rockstar: false
+-
+  id: 139
+  paperid: 45
+  name: "Marcos"
+  surname: "Agurto"
+  coauthors: "S. Hari (Virginia Tech), A.V. Quevedo (Universidad de Piura), S. Sarangi (Virginia Tech),S. Vegas (Universidad de Piura)"
+  company: "Universidad de Piura"
+  title: "Academic Aptitude Assessment and Engineering Career Choices: A Regression Discontinuity Approach"
+  bio: ""
+  rockstar: false
+-
+  id: 140
+  paperid: 92
+  name: "Alejandro"
+  surname: "Herrera Jiménez"
+  coauthors: "Mariel Bedoya (UPF), Karen Espinoza (UPF), Bruno Gonzaga (UPF)"
+  company: "Barcelona Graduate School of Economics"
+  title: "Setting an Example? Spillover Effects of Peruvian Magnet Schools"
+  bio: ""
+  rockstar: false
+
+-
+  id: 141
+  paperid: 63
+  name: "Hiromichi"
+  surname: "Morishita"
+  coauthors: ""
+  company: "JICA"
+  title: "Are Contract Teachers Less Qualified?: Case of Benin"
+  bio: ""
+  rockstar: false
+-
+  id: 142
+  paperid: 76
+  name: "Martin"
+  surname: "Vallejos"
+  coauthors: "Shirley Navia Caceres (Independiente)"
+  company: "Independiente"
+  title: "Efecto De La Inversion Extranjera En El Dinamismo Macroeconomico: Un Analisis Empirico Para Bolivia"
+  bio: ""
+  rockstar: false
+-
+  id: 143
+  paperid: 97
+  name: "Edgar"
+  surname: "Villca Condori"
+  coauthors: ""
+  company: "Investigador Independiente"
+  title: "Eficiencia de la Inversión y Crecimiento económico: En un modelo de programación real"
+  bio: ""
+  rockstar: false
+
+-
+  id: 144
+  paperid: 57
+  name: "Samuel"
+  surname: "Alarcon"
+  coauthors: "Pablo Cachaga Herrera, Martin Vallejos Tarqui"
+  company: "ILADES-Georgetown University"
+  title: "Repensando las Reglas Fiscales en America Latina "
+  bio: ""
+  rockstar: false
+-
+  id: 145
+  paperid: 35
+  name: "Diego"
+  surname: "Anzoategui"
+  coauthors: "William Easterly (NYU), Steven Pennings (World Bank)"
+  company: "Rutgers University"
+  title: "How Much Long Run Economic Growth Happens at the Country Level?"
+  bio: ""
+  rockstar: false
+-
+  id: 146
+  paperid: 82
+  name: "Elizabeth"
+  surname: "Bucacos"
+  coauthors: ""
+  company: "Banco Central del Uruguay"
+  title: "Wealth, Economic Growth, Infrastructure And Productivity In Uruguay, 1955-2010"
+  bio: ""
+  rockstar: false
+-
+  id: 147
+  paperid: 7
+  name: "Guillermo"
+  surname: "Vuletin"
+  coauthors: "Alejandro Izquierdo (IDB), Ruy Lama (IMF), Juan Pablo Medina (Universidad Adolfo Ibañez), Jorge Puig (Universidad Nacional de La Plata), Daniel Riera-Crichton (World Bank), Carlos Vegh (World Bank)"
+  company: "World Bank"
+  title: "How Big are Public Investment Multipliers?"
+  bio: ""
+  rockstar: false
+-
+  id: 148
+  paperid: 71
+  name: "Paola L."
+  surname: "Montero Ledezma"
+  coauthors: ""
+  company: "Universidad Privada Boliviana"
+  title: "Disparidades geograficas versus disparidades en las habilidades de mujeres casadas en ciudades latinoamericanas"
+  bio: ""
+  rockstar: false
+-
+  id: 149
+  paperid: 41
+  name: "Eduardo"
+  surname: "Zegarra"
+  coauthors: ""
+  company: "Grupo de Analisis para el Desarrollo - GRADE"
+  title: "Cambios en la conduccion femenina de la agricultura peruana 1994-2012: ¿empoderamiento o empobrecimiento de las agricultoras?"
+  bio: ""
+  rockstar: false
+-
+  id: 150
+  paperid: 31
+  name: "Victor"
+  surname: "Gamarra Echenique"
+  coauthors: "José Carlos Orihuela (Universidad del Católica del Perú)"
+  company: "Universidad del Pacífico"
+  title: "Brechas de Género en la generacion de empleo? Impactos socioeconómicos de la mineri­a en la region de Arequipa, Peru"
+  bio: ""
+  rockstar: false
+
+-
+  id: 151
+  paperid: 113
+  name: "Boris"
+  surname: "Branisa"
+  coauthors: "José Peres-Cajías (Universidad de Barcelona), Nigel Caspa (INESAD)"
+  company: "INESAD"
+  title: "Una Mirada desde la Antropometría a la Evolución del Bienestar"
+  bio: ""
+  rockstar: false
+
+-
+  id: 152
+  paperid: 68
+  name: "Luis"
+  surname: "Gonzales"
+  coauthors: "Salvador Valdés-Prieto (CLAPES-UC), Macarena Kutscher (University of Maryland)"
+  company: "University of Chicago"
+  title: "A progressiveness test for redistributions between generations and application to 3 countries"
+  bio: ""
+  rockstar: false
+-
+  id: 153
+  paperid: 119
+  name: "Horacio"
+  surname: "Vera-Cossio"
+  coauthors: "Marcelo Gantier Mita (IISEC-UCB)"
+  company: "IISEC-UCB"
+  title: "La relacion entre recursos naturales y el desarrollo humano local"
+  bio: ""
+  rockstar: false
+# Organized Session Papers
+-
+  id: 154
+  paperid: 154
+  name: "Kristin"
+  surname: "Ranestad"
+  coauthors: ""
+  company: "University of Oslo and Lund University"
+  title: "Formal education, practical learning and mining. An analysis of the career paths of mining workers in Norway with formal training from 1860 to 1940"
+  bio: ""
+  rockstar: false
+-
+  id: 155
+  paperid: 155
+  name: "Marc Badia"
+  surname: "Miró"
+  coauthors: "Anna Carreras Marín (Universidad de Barcelona)"
+  company: "Universidad de Barcelona"
+  title: "Mining exports in the long run: South America vs the Nordic Countries. 1880 – 2015"
+  bio: ""
+  rockstar: false
+-
+  id: 156
+  paperid: 156
+  name: "José"
+  surname: "Peres-Cajías"
+  coauthors: "Sara Torregrosa-Hetland (Lund University) y Cristián Ducoing (Lund University)"
+  company: "Universidad de Barcelona"
+  title: "Taking off from Natural Resources: Fiscal dependence in comparative perspective"
+  bio: ""
+  rockstar: false
+-
+  id: 157
+  paperid: 157
+  name: "Oscar"
+  surname: "Molina Tejerina"
+  coauthors: "Luis Castro Penarrieta (UPB)"
+  company: "Universidad Privada Boliviana"
+  title: "Non-explained Wage Gaps at Tradable and Non-tradable Sector: Cross Section Evidence for Bolivia by Gender"
+  bio: ""
+  rockstar: false
+-
+  id: 158
+  paperid: 158
+  name: "Beatriz"
+  surname: "Muriel"
+  coauthors: "Alejandra Goitya (INESAD)"
+  company: "INESAD"
+  title: "What explains earnings gap gender  in urban Bolivia?"
+  bio: ""
+  rockstar: false
+-
+  id: 159
+  paperid: 159
+  name: "Melissa"
+  surname: "Loza"
+  coauthors: "Juan Antonio Morales (Universidad Católica Boliviana)"
+  company: "Universidad Privada Boliviana"
+  title: "Export Boom and Economic Performance: Bolivia 2004-2015"
+  bio: ""
+  rockstar: false
+-
+  id: 160
+  paperid: 160
+  name: "Javier"
+  surname: "Aliaga Lordemann"
+  coauthors: "Andrés Escobar Espinosa (Universidad de Cartagena) y Alejandra Terán Orsini (INESAD) "
+  company: "Universidad de Cartagena y ABCE"
+  title: "The Dynamic and non-linear Convergence of the Bolivian Energy-mix during the period 2000-2035"
+  bio: ""
+  rockstar: false
+
+-
+  id: 161
+  paperid: 129
+  name: "Alvaro"
+  surname: "Pedraza Morales"
+  coauthors: ""
+  company: "World Bank"
+  title: "Costly Index Investing in Foreign Markets"
+  bio: ""
+  rockstar: false
+
+-
+  id: 162
+  paperid: 162
+  name: "Luis"
+  surname: "Gonzales"
+  coauthors: ""
+  company: "University of Chicago"
+  title: "Master Programs at the University of Chicago - Harris School of Public Policy"
+  bio: ""
+  rockstar: false
+
+-
+  id: 163
+  paperid: 163
+  name: "Mauricio"
+  surname: "Tejada"
+  coauthors: "Marcela Perticara (Universidad Alberto Hurtado)"
+  company: "Universidad Alberto Hurtado"
+  title: "Master Programs at Universidad Alberto Hurtado"
+  bio: ""
+  rockstar: false

@@ -1,76 +1,83 @@
 ---
 layout: post-bcde
 title:  "Hotels"
-image: test16-01.png
+image: banner-web-02.jpg
 isStaticPost: true
 tags: '/bcde10/'
 ---
 
 
-#### Preferential Rates
-We have secured preferential rates with Hotel Los Tajibos, Hotel Cortez and Hamptons Inn in Santa Cruz de la Sierra.
+#### Hotel Preferential Rates
+We have secured preferential rates with several hotels in La Paz. We recommend you stay in the neighborhoods of the southern district of La Paz (Zona Sud) to be in close proximity to the bus routes and conference dinner. However, you might also stay in hotels in the historic and government districts (Zona Central) which is located about 20-30 minutes from Zona Sud and accessible via public transportation.  
 
-#### Hotel Los Tajibos
-Hotel Los Tajibos located on Av. San Martin 555, sits on 5-hectares of grounds in the buzzing Equipetrol district. This high-end hotel in a modern, villa-style building offers incredible comfort and ammenities.
+To benefit from the special rates for BCDE10, participants should make their reservation directly at the hotel, using the email contact provided below. Please indicate in the email that you are participating in the Bolivian Conference on Development Economics at Universidad Privada Boliviana. Please include Mariana Perez **(marianaperez@upb.edu)** in the email.
 
-Our corporate rates include breakfast buffet, parking, wifi as well as sauna, fitness room and pool access.
+**All rooms are available on a first come, first-served basis.**
 
-The corporate rates per night at Los Tajibos start at 124 USD for Executive rooms, 139 USD for Pool View rooms, 148 USD for Club Executive rooms, 161 USD for a Junior Suite and 259 USD for an Executive Suite.
+#### Atix Hotel
+* Address: Calle 16 No. 8052, entre Patiño y Sánchez Bustamante, __Zona Sud, Calacoto__
+* Phone: +(591) 789-61200
+* E-mail: [aarispe@atixhotel.com](mailto:aarispe@atixhotel.com)
+* Web page: [www.atixhotel.com](http://www.atixhotel.com)
+* Rates per-night: 120 USD (Standard), 137 USD (Superior Doble), 146 USD (Deluxe).
 
-If you would like to book a room at  this hotel please contact:
-
-* Email: [reservas4@lostajiboshotel.com](mailto:reservas4@lostajiboshotel.com)
-
-* Phone: +(591-3)342-1000
-
-* Website: [www.lostajiboshotel.com](http://www.lostajiboshotel.com)
-
-* <a href="/assets/brochuretajibos.pdf" target="_blank"> Brochure with more information </a>
-
-
-#### Hotel Cortez
-Hotel Cortez is located in Avenida Cristóbal De Mendoza 280, in a very lively part of the city with plenty of cafes and restaurants, and with an strategic location that makes it easy to access the historic city center.
-
-Amenities include pool, sauna and hydromassage, business center and gymnasium. Transfer from and to the airport is available at an additional fee.
-
-A bloc of rooms is available for presenters under the name of SEBOL with a special rate of 580 Bs per night (about 83 USD). This preferential rate will be available until October 30th.
-
-If you would like to book a room at  this hotel please contact:
-
-* Marioly Flores Casinavis
-
-* Email:   [auxreservas@hotelcortez.com](mailto:auxreservas@hotelcortez.com)
-
-* Phone: +(591-3) 333-1234 - Fax: +(591-3) 335-1186  
-
-* Website: [www.hotelcortez.com/en/](http://www.hotelcortez.com/en/page/index.html)
+#### Casa Grande Hotel
+* Address: Calle 16 No. 8009, Zona Calacoto
+* Phone: +(591) 227-74000
+* E-mail: [hotel@casa-grande.com.bo](mailto:hotel@casa-grande.com.bo)
+* Web page: [www.casa-grande.com.bo](http://www.casa-grande.com.bo)
+* Rates per-night: 158 USD (Ejecutiva King), 178 USD (Ejecutiva Doble), 188 USD (Deluxe King).
 
 
-#### Hampton Equipetrol by Hilton
-Hotel Hampton is located in Avenida San Martin y Calle E, inside Barrio Equipetrol, an upscale neighborhood in Santa Cruz.
+#### Casa Grande Suites
+* Address: Av. Ballivian esq. 17 No. 1000, __Zona Sud, Calacoto__
+* Phone: +(591) 227-95511
+* E-mail: [info@casa-grande.com.bo](mailto:info@casa-grande.com.bo)
+* Web page: [www.casa-grande-suites.com](http://www.casa-grande-suites.com)
+* Rates per-night: 140 USD (King Suite), 160 USD (Twin Suite), 200 USD (Family Suite).
 
-Amenities include rooftop lounge and bar, business center and 24-hours fitness center. Transfer from and to the airport is available at an additional fee.
+#### Casa Grande Express
+* Address: Av. Sánchez Bustamante No. 1012, entre 16 y 17, __Zona Sud, Calacoto__
+* Phone: +(591) 227-96655
+* E-mail: [express@casa-grande.com.bo](express@casa-grande.com.bo)
+* Web page: [www.casagrandeexpress.com](http://www.casagrandeexpress.com)
+* Rates per-night: 115 USD (King Simple), 125 USD (King Matrimonial), 125 USD (Doble).
 
-The corporate rates at Hampton Equipetrol  are 90 USD per night for single/double rooms and 110 USD per night for the superior room. The corporate rates are available in a first come, first served basis.
-
-If you would like to book a room at  this hotel please contact:
-
-* Paola Medina
-
-* Email: [ventas@merincosa.com](mailto:ventas@merincosa.com)
-
-* Phone: +(591-3)318-2380 - Cellphone: +(591) 716-20774
-
-* Website: [www.merincosa.com](https://hamptoninn3.hilton.com/en/hotels/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia-SRZEQHX/index.html)
+#### Hotel Europa
+* Address: Calle Tiahuanaco No. 64, __Zona Central__
+* Phone: +(591) 223-15656
+* E-mail: [reservas@hoteleuropa.com.bo](mailto:reservas@hoteleuropa.com.bo)
+* Web page: [www.hoteleuropa.com.bo](http://www.hoteleuropa.com.bo)
+* Rates per-night: 90 USD (Ejecutiva Simple), 110 USD (Ejecutiva  Doble), 130 USD (Premium Simple), 150 USD (Premium Doble), 170 USD (Residence Simple), 190 USD (Residence Doble).
 
 
-#### Hotel Maps and Venue
+#### Suites Camino Real
+* Address: Av. Ballivián No. 369 esquina Calle 10, __Zona Sud, Calacoto__
+* Phone: +(591) 227-92323
+* E-mail: [asesorcomercial@caminoreal.com.bo](mailto:asesorcomercial@caminoreal.com.bo)
+* Web page: [www.caminoreal.com.bo](http://www.caminoreal.com.bo/)
+* Rates per-night: 137 USD (Suite Simple), 157 USD (Suite Doble).
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16KssEN5HcMp-E91gHaE9phE_K5Q4rigT" width="740" height="380"></iframe>
+#### Tecno Boutique Hotel
+* Address: Calle 5 Nº586, entre Av. Fuerza Naval y Tomasa Murillo, __Zona Sud, Achumani__
+* Phone: +(591) 227-90630
+* E-mail: [info@tbh.com.bo](mailto:info@tbh.com.bo)
+* Web page: [www.tecnoboutiquehotel.com.bo](http://www.tecnoboutiquehotel.com.bo/)
+* Rates per-night: 99 USD (Individual), 109 USD (Individual Deluxe), 109 USD (Doble), 119 USD (Doble Deluxe).
+
+#### Fratelli Apart Hotel  
+* Address: Calle Gabriel René Moreno Nº1080 esq. Jaime Mendoza, __Zona Sud, San Miguel__
+* Phone: +(591) 227-70005
+* E-mail: [reservas@fratellibolivia.com](mailto:reservas@fratellibolivia.com)
+* Web page: [www.fratellibolivia.com](http://www.fratellibolivia.com)
+* Rates per-night: 88 USD (1 person), 99 USD (2 persons), 110 USD (4 persons).
+
 
 #### Questions
 
-If you have issues with your reservation please contact Ana Marietta Colanzi (UPSA)  [mariettacolanzi@upsa.edu.bo](mailto:mariettacolanzi@upsa.edu.bo).
+If you have issues with your reservation please contact Mariana Perez (UPB)  [marianaperez@upb.edu](mailto:marianaperez@upb.edu).
 
 
-<!-- ![image-title-here](/img/posts/Registration-01.png){:class="img-responsive"} -->
+<!-- #### Hotel Maps and Venue
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=16KssEN5HcMp-E91gHaE9phE_K5Q4rigT" width="740" height="380"></iframe> -->

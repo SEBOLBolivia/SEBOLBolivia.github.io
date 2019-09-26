@@ -81,10 +81,10 @@ BCDEnavigationLinksOLD:
 BCDEnavigationLinks:
  - {permalink: "", text: "Home"}
  - {permalink: "callforpapers/", text: "Call for papers"}
-# - {permalink: "registration/", text: "Registration"}
+ - {permalink: "registration/", text: "Registration"}
 # - {permalink: "program/", text: "Program"}
-# - {permalink: "hotels/", text: "Hotels"}
-# - {permalink: "explore/", text: "Explore"}
+ - {permalink: "hotels/", text: "Hotels"}
+ - {permalink: "explore/", text: "Explore"}
 # - {permalink: "past/", text: "Past Conferences"}
  - {permalink: "/", text: "Sebol"}
 
@@ -118,11 +118,11 @@ aboutBCDEBlock:
 
 aboutBCDE10:
 - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde10/callforpapers/">Link.</a>' }
- #- {title: "Registration", image: "registration.jpg", text: 'Learn how to register for BCDE9 <a href="/bcde9/registration/"> here.</a>' }
- #- {title: "Hotels", image: "hotels.jpg", text: 'Lodging information is <a href="/bcde9/hotels/"> here.</a>' }
+- {title: "Registration", image: "registration.jpg", text: 'Learn how to register for BCDE10 <a href="/bcde10/registration/"> here.</a>' }
+- {title: "Hotels", image: "hotelslpb.jpg", text: 'Lodging information is <a href="/bcde10/hotels/"> here.</a>' }
 # - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde9/program/"> here.</a>' }
 # - {title: "About BCDE", image: "bcde7.jpg", text: 'Learn about BCDE <a href="/past/"> past conferences.</a>' }
-# - {title: "About La Paz", image: "lapaz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> About La Paz.</a>' }
+- {title: "About La Paz", image: "lapaz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> About La Paz.</a>' }
 # - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
 
 
@@ -140,7 +140,7 @@ latestNewsTitle: "Noticias recientes"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Keynote speaker"
+rockstarSpeakersTitle: "Keynote speakers"
 rockstarSpeakersSubTitle: "Special Guests"
 rockstarSpeakersButtonText: "Learn more about our speakers"
 
@@ -174,6 +174,16 @@ venueSmallImage5: "venue_5.jpg"
 venueSmallImage5: "venue_6.jpg"
 venueTitle: "Campus Universitario"
 venueFeatures: ["Av. Paraguá y 4to. Anillo", "Tel.: +591 (3) 346 4000", '<a href="https://goo.gl/maps/yP9frJKCD3F2">Google Maps Directions</a> <br> <a href="/assets/campusMap.pdf" target="_blank"> Venue map </a>']
+
+venue2BlockTitle: "Location </br> Universidad Privada Boliviana"
+venue2BigImage: "venue2_0.jpg"
+venue2SmallImage1: "venue2_1.jpg"
+venue2SmallImage2: "venue2_2.jpg"
+venue2SmallImage3: "venue2_3.jpg"
+venue2SmallImage4: "venue2_4.jpg"
+venue2SmallImage5: "venue2_5.jpg"
+venue2Title: "Campus Fernando Illanes de la Riva"
+venue2Features: ["Camino Achocalla Km 3.5", "Tel.: +591 (2) 216 5700 (x187)", '<a href="https://goo.gl/maps/yusuCG2nRVY3Qhoa7">Google Maps Directions</a> <br>']
 
 
 
@@ -288,11 +298,23 @@ logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "view_santacruz.jpg"
-# directionDetailsTitle: "Explore Santa Cruz de la Sierra"
+directionDetailsImage2: "lapaz.jpg"
+
+#directionDetailsTitle: "Explore Santa Cruz de la Sierra"
+#directionDetailsTitle2: "Explore Santa Cruz de la Sierra"
+
+directionDetailsCards2:
+ - {title: "Airport", information: 'El Alto airport (LPB) is the main international airport near the city of La Paz and is located about 30 minutes away from the historic city center of the La Paz. Transportation options include taxis with an average fare of 12-15 USD or buses to the historic district (Zona Central) for a fare of under 2USD.'}
+ - {title: "Hotels", information: 'BCDE has negotiated special rates with several hotels following hotels. <br>Check here for <a href="/bcde10/hotels/">special rates.</a>'}
+ - {title: "Venue Details", information: 'The campus Fernando Illanes de la Riva of UPB is located about 45 minutes from the historic center (Zona Central) and about 25 minutes from southern district (Zona Sur) <a href="https://goo.gl/maps/yusuCG2nRVY3Qhoa7">(see map)</a>. Special buses will take participants from the southern district (Zona Sur) to the conferences venue will be available. Routes and schedule will be announced soon.'}
+
 directionDetailsCards:
- - {title: "Airport", information: 'Viru-Viru (VVI) is the main international airport in Santa Cruz de la Sierra and is located 25 minutes away from downtown Santa Cruz. Flight arrival and departure information is available at the <a href="http://www.sabsa.aero/viru-viru/">airport website</a>. Transportation options include taxis with an average fare of 12-15 USD or buses to downtown for a fare of under 2USD.'}
- - {title: "Hotels", information: 'BCDE has negotiated special rates with the following hotesl: <br><br><a href="http://www.lostajiboshotel.com/en">Hotel Los Tajibos</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelcortez.com/en">Hotel Cortez</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="https://hamptoninn3.hilton.com/en/hotels/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia-SRZEQHX/index.html">Hamptons Inn Equipetrol</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://http://www.hiltonhotels.com/es_XM/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia/"> <br>Check here for <a href="/bcde9/hotels/">special rates.</a>'}
+ - {title: "Airport", information: 'Viru-Viru (VVI) is the main international airport in Santa Cruz de la Sierra and is located 25 minutes away from downtown Santa Cruz. Transportation options include taxis with an average fare of 15-20 USD or buses to the historic center for a fare of under 2USD.'}
+ - {title: "Hotels", information: 'BCDE has negotiated special rates with the following hotels: <br><br><a href="http://www.lostajiboshotel.com/en">Hotel Los Tajibos</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733). <br><a href="http://www.hotelcortez.com/en">Hotel Cortez</a> <br> (&#9733 &#9733 &#9733 &#9733). <br><a href="https://hamptoninn3.hilton.com/en/hotels/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia-SRZEQHX/index.html">Hamptons Inn Equipetrol</a> <br>(&#9733 &#9733 &#9733 &#9733) <br><a href="http://http://www.hiltonhotels.com/es_XM/bolivia/hampton-by-hilton-santa-cruz-equipetrol-bolivia/"> <br>Check here for <a href="/bcde9/hotels/">special rates.</a>'}
  - {title: "Venue Details", information: 'The campus of UPSA is located about 15 minutes from Hotel Cortez <a href="https://goo.gl/maps/1GE3aBRcQGy">(see map)</a>. Special buses will take participants from the hotels to the conferences venue will be available. Routes and schedule will be announced soon.'}
+
+
+
  # - {title: "Hotels", information: 'BCDE has arranged preferential rates with the following hotels: <br><a href="http://granhotelcochabamba.com.bo">Gran Hotel Cochabamba</a> <br> (&#9733 &#9733 &#9733 &#9733 &#9733), 45 USD/night breakfast buffet included. <br> <a href="http://www.hotelreginabolivia.com">Hotel Regina (Prado)</a> <br>(&#9733 &#9733 &#9733 &#9733), 35 USD/night breakfast buffet included. <br> <br> For both hotels the reservation code is 8BCDE'}
 # directionDetailsWideCards:
 #  -
