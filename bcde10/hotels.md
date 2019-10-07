@@ -72,6 +72,29 @@ To benefit from the special rates for BCDE10, participants should make their res
 * Web page: [www.fratellibolivia.com](http://www.fratellibolivia.com)
 * Rates per-night: 88 USD (1 person), 99 USD (2 persons), 110 USD (4 persons).
 
+#### Bolivian Rooms & Suites
+* Address: Calle Manuel Cáceres Nº45 (Entre calles 14 y 15), __Zona Sud, Achumani__
+* Phone: +(591) 212-6468
+* E-mail: [boliviansuites@yahoo.com](mailto:boliviansuites@yahoo.com)
+* Web page: [http://www.boliviansuites.com/](http://www.boliviansuites.com/)
+* Rates per-night: 43 USD (1 person), 53 USD (2 persons), 58 USD (2 persons, suite).
+
+
+#### Apart Hotel Los Delfines
+* Address: Calle 17 Esq. Claudio Aliaga Nº 8275, __Zona Sud, Calacoto__
+* Phone: +(591) 277-5431
+* E-mail: [reservas@losdelfines.com.bo](mailto:reservas@losdelfines.com.bo)
+* Web page: [http://losdelfines.com.bo/](http://losdelfines.com.bo/)
+* Rates per-night: 49 USD (1 person), 65 USD (2 persons), 94 USD (4 persons).
+
+
+#### Los Sauces Apart Hotel
+* Address: Av. Arequipa Nº 8283, __Zona Sud, Calacoto__
+* Phone: +(591) 277-2900
+* E-mail: [reservas@sauces.com.bo](mailto:reservas@sauces.com.bo)
+* Web page: [http://losdelfines.com.bo/](http://losdelfines.com.bo/)
+* Rates per-night: 58 USD (1 person), 71 USD (2 persons), 121 USD (4 persons).
+
 
 #### Questions
 
