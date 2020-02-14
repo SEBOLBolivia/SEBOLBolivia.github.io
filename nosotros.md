@@ -23,20 +23,18 @@ Fomentar los estudios e investigaciones, tanto de carácter teórico como empír
 
 * Establecer y mantener relaciones con entidades nacionales y extranjeras que desarrollen actividades de análoga naturaleza.
 
-#### Directorio 2018-2020
+#### Directorio 2020-2021
 
 Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los estatutos y el reglamento de SEBOL:
 
-* **Presidente:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Federal Reserve Board)
-* **Vice-presidente:** Oscar Molina (UPB,ABCE,INESAD)
-* **Secretario General:** Luis Gonzales Carrasco (University of Chicago)
-* **Tesorero:** <a href="http://jsmoralesb.wixsite.com/personal" target="_blank"> Joaquín  Morales  Belpaire
-</a> (UPB)
-* **Past-President:** <a href="http://www.boris-branisa.net" target="_blank">Boris Branisa</a> (INESAD, UPB)
-* **Director:** Ricardo Nogales (UPB, Oxford University)
-* **Director:** <a href="https://joseperescajias.com" target="_blank">José Peres Cajías</a> (Universitat de Barcelona)
-* **Director:** Walter Valdivia (George Mason University)
-* **Director:** Natalia Zegarra (SEBOL)
+* **Presidente:** <a href="http://www.upb.edu/en/node/6693" target="_blank"> Oscar Molina Tejerina</a> (Universidad Privada Boliviana)
+* **Vice-presidente:** <a href="https://faculty.utrgv.edu/diego.escobari/" target="_blank"> Diego Escobari</a> (Universidad de Texas RGV)
+* **Secretario General:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Universidad de Chicago)
+* **Tesorero:** <a href="https://www.linkedin.com/in/sergiodaga/?originalSubdomain=es" target="_blank"> Sergio Daga Merida </a> (Universidad Privada de Santa Cruz)
+* **Director:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Reserva Federal de los Estados Unidos)
+* **Director:** <a href="https://uclouvain.be/fr/repertoires/fabiola.saavedra" target="_blank"> Fabiola Saavedra</a> (Universidad Católica de Lovaina)
+* **Director:** <a href="http://web.econ.ku.dk/pabloselaya/" target="_blank"> Pablo Selaya </a> (Universidad de Copenhague)
+* **Director:** <a href="https://mauriciotejada.com" target="_blank"> Mauricio Tejada </a> (Universidad Alberto Hurtado)
 
 #### Estatutos y Reglamento
 
