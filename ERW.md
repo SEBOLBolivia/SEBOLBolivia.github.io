@@ -21,7 +21,7 @@ Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el 
 * **Andrés Gurtierrez (UPB)** - *Determinantes de la Productividad Total de Factores en América del Sur*. ***2 de Septiembre, 2020***.
 
 #### ERW Pasados
-* **Mauro Delboy (UPB)** - *School attendance rates for Bolivar: a spatial econometric approach*
+* **Mauro Delboy (UPB)** - *School attendance rates for Bolivia: a spatial econometric approach*
 * **Rolando Morales (UMSA)** - *Un problema económico delicado: la fijación del tipo de cambio*
 * **Carlos Gustavo Machicado (INESAD)** - *Exchange rate policy in a dollarized economy: implications on growth and employment in Bolivia*
 * **Beatriz Muriel (INESAD)** - *What does explain earnings gap by gender in urban Bolivia*
