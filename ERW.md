@@ -14,7 +14,7 @@ Los ERW duran una hora, son gratuitos, abiertos al público y se realizan en el 
 #### Próximos ERW
 
 * **Bruno Lopez  (University of San Diego)** - *Inherited Policies: Political Horizons, State Capacity and Local Public Finances*. ***4 de Marzo, 2020***.
-* **Darwin Ugarte (UPB)** - *Supposedly good instruments and good leverage points*. *1ro de Abril, 2020*.
+* **Darwin Ugarte (UPB)** - *Supposedly good instruments and good leverage points*. **1ro de Abril, 2020**.
 * **Lykke E. Andresen (SDSN)** - *The Municipal Atlas of the SDGs in Bolivia: A sneak preview*. ***6 de Mayo, 2020***.
 * **Pamela Córdova (UPB)** - 'TBA'. ***3 de Junio, 2020***.
 * **Rolando Caballero (UNAM)** - *Volatilidad del tipo de cambio en México y Brasíl, un enfoque con modelos Markov Switching Garch*. ***5 de Agosto, 2020***.
