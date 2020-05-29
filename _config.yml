@@ -50,10 +50,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/nosotros/", text: "Nosotros"}
- - {permalink: "/conferencias/", text: "BCDE"}
+ - {permalink: "/bcde2020/", text: "BCDE2020"}
  - {permalink: "/erw/", text: "ERW"}
  - {permalink: "/dsw/", text: "DSW"}
  - {permalink: "/noticias/", text: "Noticias"}
+ - {permalink: "/conferencias/", text: "Conferencias Pasadas"}
 # - {permalink: "/bcde9/", text: "BCDE9"}
  - {permalink: "/contact/", text: "Contacto"}
  # - {permalink: "/speakers/", text: "Directorio"}
@@ -101,7 +102,7 @@ heroImage: "hero_sebol3.jpg"
 # About Block
 aboutTitle: "Nuestras actividades"
 aboutBlock:
- - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico - Bolivian Conference on Development Economics (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/conferencias/">Detalles.</a>' }
+ - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico - Bolivian Conference on Development Economics (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/bcde2020/">Detalles.</a>' }
  - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica - Economic Research Workshop (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
  - {title: "DSW", image: "talk.jpg", text: 'El Taller de Estudios en Desarrollo - Development Studies Workshop (DSW) es un taller academico internacional organizado como parte de la reunión de mitad de año de SEBOL en Washington, DC.<a href="/dsw/">Detalles.</a>'}
 
