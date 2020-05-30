@@ -9,7 +9,7 @@ isStaticPost: false
 
 ##### Likelihood evaluation of models with occasionally binding constraints
 
-The paper by by our colleague **Pablo Cuba Borda** on “Likelihood evaluation of models with occasionally binding constraints”, co-authored with Luca Guerrieri, Matteo Iacoviello and Molin Zhong, documents how solution approximation errors and likelihood misspecification, related to the treatment of measurement errors, can interact and compound each other.
+The paper by our colleague **Pablo Cuba Borda** on “Likelihood evaluation of models with occasionally binding constraints”, co-authored with Luca Guerrieri, Matteo Iacoviello and Molin Zhong, documents how solution approximation errors and likelihood misspecification, related to the treatment of measurement errors, can interact and compound each other.
 
 ##### Paper summary
 
