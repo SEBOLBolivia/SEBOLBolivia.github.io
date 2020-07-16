@@ -1,3 +1,6 @@
+# EXPOSITORES SESIONES PLENARIAS
+# id: is the author identifier
+# id: is the paper identifier, typically corresponds to the paper id in conference maker
 -
   id: 1
   name: "Johanna"
@@ -39,7 +42,7 @@
   thumbnailUrl: JoseDuran.jpg
   invited: true
 
-
+# EXPOSITORES SESIONES PARALELAS
 -
   id: 101
   paperid: 20

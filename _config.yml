@@ -345,7 +345,7 @@ enableHackathon: true
 aboutHackathonTitle: "BCDE Pasadas"
 hackathonRows:
  - {title: "9na BCDE", image: "bcde2018.png", details: 'Realizada en la UPSA. Santa Cruz, 29 y 30 de noviembre de 2018.<a href="http://www.sebol.org/bcde9" target="_blank"> Link.</a>'}
- - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://www.bcde8.org" target="_blank"> Link.</a>'}
+ - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://bcde8.sebol.org" target="_blank"> Link.</a>'}
  - {title: "7ma BCDE", image: "bcde2016.png", details: 'Realizada en la UPB. La Paz, 8 y 9 de diciembre de 2016.<a href="http://www.inesad.edu.bo/web/en/bcde2016/" target="_blank"> Link.</a>'}
  - {title: "LACEA XX", image: "lacea.png", details: 'Realizada en la UPSA. Santa Cruz, 15 - 17 de octubre de 2015.<a href="http://laceameeting.com" target="_blank"> Link.</a>'}
  - {title: "6ta BCDE", image: "bcde2014.png", details: 'Realizada en la UPB. Cochabamba, 28 y 29 de agosto de 2014.<a href="http://www.inesad.edu.bo/bcde2014/" target="_blank"> Link.</a>'}

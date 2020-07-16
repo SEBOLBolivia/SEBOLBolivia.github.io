@@ -1,3 +1,4 @@
+# SESSION TITLES AND PAPERS
 -
   id: 001
   title: "A1. Trade and Agriculture"
@@ -176,6 +177,8 @@
   title: "Conference Dinner"
   description: "(Presenters only)"
   service: true
+
+# AUXILIARY SESSIONS
 -
   id: 201
   title: "Registration"
@@ -199,15 +202,12 @@
   service: false
   place: ""
 
-
+# Session blocks
 -
   id: 301
   title: "Parallel Sessions"
   service: false
--
-  id: 302
-  title: "Parallel Sessions B"
-  service: false
+
 -
   id: 401
   title: "Keynote Lecture: Johanna Rickne (Stockholm University)"
@@ -234,4 +234,4 @@
   place: ""
 
 
-  # description: "Testing Subtitle"
+
