@@ -56,7 +56,7 @@ navigationLinks:
  - {permalink: "/noticias/", text: "Noticias"}
  - {permalink: "/conferencias/", text: "Conferencias Pasadas"}
 # - {permalink: "/bcde9/", text: "BCDE9"}
- - {permalink: "/contact/", text: "Contacto"}
+# - {permalink: "/contact/", text: "Contacto"}
  # - {permalink: "/speakers/", text: "Directorio"}
  # - {permalink: "/logistics/", text: "Logistics"}
  # - {permalink: "/buses.pdf", text: "Buses"}
