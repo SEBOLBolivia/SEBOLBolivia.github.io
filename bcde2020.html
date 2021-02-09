@@ -87,19 +87,6 @@ image: BCDE2020.jpg
 								</h6>
 
 
-                <!-- {% for about in site.aboutBCDE10 %}
-                {% assign colWidth = 12 | divided_by: 2 %}
-                <div class="col-md-{{ colWidth }} col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <h5>{{ about.title }}</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                        <p>{{ about.text }}</p>
-                    </div>
-                </div>
-                {% assign animationDelay = animationDelay | plus:500 %}
-                {% assign check = forloop.index | modulo:1 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %} -->
         </div>
     </div>
 </section>
@@ -213,7 +200,7 @@ image: BCDE2020.jpg
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
 			{% assign animationDelay = 0 %}
-            {% for statistic in site.statisticBlock %}
+            {% for statistic in site.bcde2020stats %}
             {% assign colWidth = 12 | divided_by: forloop.length %}
             <div class="col-md-{{ colWidth }} col-xs-6">
                 <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
@@ -227,7 +214,23 @@ image: BCDE2020.jpg
             {% assign check = forloop.index | modulo:2 %}
             {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
             {% endfor %}
+
+
+						{% for about in site.aboutBCDE2020 %}
+						{% assign colWidth = 12 | divided_by: 3 %}
+						<div class="col-md-{{ colWidth }} col-xs-6">
+								<div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+										<h5>{{ about.title }}</h5>
+										<img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+										<p>{{ about.text }}</p>
+								</div>
+						</div>
+						{% assign animationDelay = animationDelay | plus:500 %}
+						{% assign check = forloop.index | modulo:1 %}
+						{% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+						{% endfor %}
 		</div>
+
 	</div>
 </section>
 <!-- End Statistic Section -->

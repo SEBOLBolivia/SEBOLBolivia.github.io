@@ -126,6 +126,11 @@ aboutBCDE10:
 - {title: "About La Paz", image: "lapaz.jpg", text: 'Prepare for your visit. <a href="/bcde10/explore/"> About La Paz.</a>' }
 # - {title: "Call for papers", image: "callforpapers.jpg", text: 'Read the <a href="/bcde9/callforpapers/">call for papers.</a>' }
 
+aboutBCDE2020:
+- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is closed.' }
+- {title: "Registration", image: "registration.jpg", text: 'Conference registration is closed' }
+- {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2020/programbcde2020.pdf"> here.</a>' }
+
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
@@ -134,6 +139,12 @@ statisticBlock:
  - {count: "40", specialCharacter: "+", info: "researchers", detail: "from local and international universities, research institutes and international organizations."}
  - {count: "55", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
  - {count: "15", specialCharacter: "+", info: "parallel sessions", detail: "Covering topics on education, inequality, labor markets, trade, health, macroeconomics, political economy, natural resources, environmental economics, entrepreneurship and productivity."}
+
+bcde2020stats:
+- {count: "800", specialCharacter: "+", info: "attendees", detail: " undergraduate and graduate students, professionals, policy makers and private sector participants."}
+- {count: "90", specialCharacter: "+", info: "researchers", detail: "from local and international universities, research institutes and international organizations."}
+- {count: "100", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
+- {count: "35", specialCharacter: "+", info: "parallel sessions", detail: "Covering topics on education, inequality, labor markets, trade, health, macroeconomics, political economy, natural resources, environmental economics, entrepreneurship and productivity."}
 
 # Latest News Block
 latestNewsTitle: "Noticias recientes"
@@ -353,6 +364,8 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "BCDE Pasadas"
 hackathonRows:
+ - {title: "BCDE 2020", image: "bcde2020.jpg", details: 'Conferencia Virtual. 27 y 28 de junio de 2020.<a href="http://www.sebol.org/bcde2020" target="_blank"> Link.</a>'}
+ - {title: "10ma BCDE", image: "bcde10.jpg", details: 'Realizada en la UPB. La Paz, 14 y 15 de noviembre de 2019.<a href="http://www.sebol.org/bcde10" target="_blank"> Link.</a>'}
  - {title: "9na BCDE", image: "bcde2018.png", details: 'Realizada en la UPSA. Santa Cruz, 29 y 30 de noviembre de 2018.<a href="http://www.sebol.org/bcde9" target="_blank"> Link.</a>'}
  - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://bcde8.sebol.org" target="_blank"> Link.</a>'}
  - {title: "7ma BCDE", image: "bcde2016.png", details: 'Realizada en la UPB. La Paz, 8 y 9 de diciembre de 2016.<a href="http://www.inesad.edu.bo/web/en/bcde2016/" target="_blank"> Link.</a>'}
