@@ -4,9 +4,9 @@
       - {name: "SEBOL", description: "Sociedad de Economistas de Bolivia", link: "http://www.sebol.org", imageUrl: "Logo-SEBOL-01-300x300.png"}
       - {name: "ABCE", description: "Academia Boliviana de Ciencias Economicas", link: "", imageUrl: "logo_abce.jpg", width: "500px"}
       - {name: "UPB", description: "Universidad Privada Boliviana", link: "https://www.upb.edu.bo", imageUrl: "Logo-UPB-300x114.png", width: "500px"}
-      - {name: "UPB", description: "Universidad Privada Boliviana", link: "https://www.upb.edu.bo", imageUrl: "Logo-UPB-300x114.png", width: "500px"}
+      - {name: "SDSN", description: "Sustainable Development Solutions Network", link: "http://sdsnbolivia.org", imageUrl: "Logo-SDSN-01.png", width: "500px"}
       - {name: "INESAD", description: "Instituto de Investigaciones Avanzadas para el Desarrollo", link: "http://www.inesad.org", imageUrl: "Logo-INESAD-01-768x435.png", width: "500px"}
-      
+
 -
   group: "Sponsors"
   elements:
