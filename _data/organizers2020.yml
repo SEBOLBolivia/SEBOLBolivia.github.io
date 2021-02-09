@@ -1,0 +1,26 @@
+-
+  group: "Organizers"
+  elements:
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "Logo-SEBOL-01.png"}
+      - {name: "Embajada de Suecia", description: "", link: "https://www.swedenabroad.se/es/embajada/bolivia-la-paz/", imageUrl: "Logo-UPB-300x114.png", width: "500px"}
+      - {name: "SDSN", description: "SDSN-Bolivia promotes sustainable visions and solutions for long run development in Bolivia.", link: "https://www.sdsnbolivia.org/en/", imageUrl: "SDSN-Logo.png", width: "500px"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "logo_inesad.jpg", width: "500px"}
+      - {name: "Inter-American Development Bank", description: "IDB Improving Lives", link: "http://www.iadb.org", imageUrl: "logo_abce.jpg", width: "500px"}
+
+-
+  group: "Sponsors"
+  elements:
+      - {name: "Fundación Hans Siedel", description: "Al servicio de la Democracia, la Paz y el Desarrollo", link: "https://latinamerica.hss.de/bolivia/", imageUrl: "LOGO-SOLYDES-1024x262.png"}
+
+# -
+#   group: "Local partners"
+#   elements:
+    # - {name: "Banco BISA", description: "BISA", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "logo_bisa.svg"}
+    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}

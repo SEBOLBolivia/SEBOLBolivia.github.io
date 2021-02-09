@@ -186,6 +186,14 @@ venue2SmallImage5: "venue2_5.jpg"
 venue2Title: "Campus Fernando Illanes de la Riva"
 venue2Features: ["Camino Achocalla Km 3.5", "Tel.: +591 (2) 216 5700 (x187)", '<a href="https://goo.gl/maps/yusuCG2nRVY3Qhoa7">Google Maps Directions</a> <br>']
 
+# Conferences Blocks
+bcde2020:
+  navigationLinks:
+   - {permalink: "", text: "Home"}
+   - {permalink: "callforpapers/", text: "Call for papers"}
+   - {permalink: "registration/", text: "Registration"}
+   - {permalink: "/", text: "Sebol"}
+
 
 
 # Tweets Feed Block
@@ -195,6 +203,8 @@ twitterHashTag: "BCDE8"
 # twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php"
 
 # twitterFeed: "http://www.bcde8.org/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -207,7 +217,6 @@ subscribeTitle: "Suscríbete a nuestro boletín"
 subscribeAction: "https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;id=cc247ac02b"
 # subscribeInfo: "Registration will be open around end of August. Stay tuned!"
 
-# Tickets Block
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."

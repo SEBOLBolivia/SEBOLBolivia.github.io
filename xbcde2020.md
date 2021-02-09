@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /bcde2020/
 image: testbackground2.jpg
 title: BCDE 2020
 isStaticPost: false
@@ -12,5 +11,3 @@ isStaticPost: false
   </head>
  <body></body>
 </html>
-
-

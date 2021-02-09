@@ -88,16 +88,17 @@
 #     #   startTime: "16:30",
 #     #   endTime: "17:30"
 #     # }
+
+
 # Conference Dinner
     - {
     	sessionIds: [503],
       startTime: "19:00"
     }
-    # - {
-    #   startTime: "18:30"
-    # }
-
+    
+#----------------------------------------------------------
 # DAY 2
+#----------------------------------------------------------
 
 -
   date: "2019-11-15"
@@ -105,16 +106,15 @@
   # tracks:
   #   - {title: "B1", color: "#90be4e"}
   timeslots:
+
 # Registration
     - {
     	sessionIds: [201],
       startTime: "8:30",
       endTime: "9:00"
     }
-    # - {
-    #   startTime: "8:00",
-    #   endTime: "9:00"
-    #   }
+
+
 # Parallel sessions C
     - {
     	sessionIds: [301],
@@ -122,8 +122,6 @@
       endTime: "10:30"
     }
     - {
-#    	startTime: "9:00",
-#    	endTime: "10:30",
     	sessionIds: [010, 011, 012]
     }
 # Coffee Break
@@ -140,8 +138,6 @@
       endTime: "12:30"
     }
     - {
-#    	startTime: "9:00",
-#    	endTime: "10:30",
     	sessionIds: [010, 011, 012]
     }
 
@@ -151,10 +147,6 @@
       startTime: "12:00",
       endTime: "13:30"
     }
-    # - {
-    #   startTime: "12:00",
-    #   endTime: "13:30"
-    # }
 
 # Parallel Sessions D
     - {
@@ -163,10 +155,9 @@
       endTime: "15:00"
     }
     - {
-#     startTime: "13:30",
-#     endTime: "15:00",
         sessionIds: [013, 014, 015,103]
     }
+
 # Coffee Break
     - {
     	sessionIds: [501],
@@ -181,10 +172,6 @@
       startTime: "15:30",
       endTime: "17:00"
     }
-    # - {
-    #   startTime: "17:15",
-    #   endTime: "18:15"
-    # }
 
 # Coffee Break
     - {
@@ -214,28 +201,3 @@
       startTime: "19:00",
       endTime: "20:30"
     }
-    # - {
-    #   startTime: "18:15",
-    #   endTime: "20:00"
-    #   }
-
-    # - {
-    # 	startTime: "10:00",
-    # 	endTime: "10:45",
-    # 	sessionIds: [404, 002, 001]
-    # }
-    # - {
-    # 	startTime: "11:00",
-    # 	endTime: "11:45",
-    # 	sessionIds: [002, 003]
-    # }
-    # - {
-    #     startTime: "13:00",
-    #     endTime: "13:45",
-    #     sessionIds: [003]
-    # }
-    # - {
-    # 	startTime: "14:00",
-    # 	endTime: "15:00",
-    # 	sessionIds: [503]
-    # }
