@@ -5,9 +5,9 @@
   id: 1
   name: "Johanna"
   surname: "Rickne"
-  company: " Professor of Economics <br /> Swedish Institute for Social Research"
+  company: " Professor of Economics at the Swedish Institute for Social Research <br />  Stockholm University"
   title: "Keynote Speaker"
-  bio: "<p>Ariel Kalil is a professor at the University of Chicago Harris School of Public Policy. At Harris, she directs the Center for Human Potential and Public Policy and co-directs the Behavioral Insights and Parenting Lab. She also holds appointments as an adjunct professor in the Norwegian School of Economics in Bergen, Norway and in the School of Business Administration at the University of Stavanger, Norway. She is a developmental psychologist who studies economic conditions, parenting, and child development. Her current research examines the historical evolution of income-based gaps in parenting behavior and children’s cognitive and non-cognitive skills.</p>"
+  bio: "<p></p>"
   thumbnailUrl: JohannaRickne.jpg
   rockstar: true
 
@@ -26,7 +26,7 @@
   id: 3
   name: "James A."
   surname: "Robinson"
-  company: Reverend Dr. Richard L. Pearson Professor of Global Conflict Studies and University Professor  <br /> Harris School of Public Policy at the University of Chicago
+  company: Reverend Dr. Richard L. Pearson Professor of Global Conflict Studies and University Professor  <br /> University of Chicago
   title: "Keynote Speaker"
   bio: "James A. Robinson is the Reverend Dr. Richard L. Pearson Professor of Global Conflict Studies and University Professor at the Harris School of Public Policy at the University of Chicago, and Institute Director of The Pearson Institute for the Study and Resolution of Global Conflicts. His books include The Narrow Corridor: States, Societies, and the Fate of Liberty (2019), Why Nations Fail: The Origins of Power, Prosperity, and Poverty (2012), and Economic Origins of Dictatorship and Democracy (2005), co-authored with Daron Acemoglu (MIT). He is a prolific and widely recognized scholar in economics and political science, and currently conducts research in the Democratic Republic of the Congo, Sierra Leone, Haiti, Colombia, and Bolivia."
   thumbnailUrl: JamesRobinson.jpg
@@ -36,7 +36,7 @@
   id: 4
   name: "Jeffrey"
   surname: "Sachs"
-  company: Professor<br />  Columbia University
+  company: Professor and Director of the Center for Sustainable Development and Director of the UN’s Sustainable Development Solutions Network (SDSN) <br />  Columbia University
   title: "Keynote Speaker"
   bio: "Jeffrey D. Sachs is Professor and Director of the Center for Sustainable Development at Columbia University, where he directed the Earth Institute from 2002 until 2016. He is also the Director of the UN’s Sustainable Development Solutions Network (SDSN) and a commissioner of the UN’s Broadband Commission for Development. He has been an advisor to three UN Secretaries-General, and currently serves as a Sustainable Development Goals Advocate under UN Secretary-General Antonio Guterres. He is the author of several books including The Ages of Globalization (2020), The Age of Sustainable Development (2015), and The End of Poverty (2005)."
   thumbnailUrl: Sachs.jpg
@@ -67,7 +67,7 @@
   id: 7
   name: "Rómulo A."
   surname: "Chumacero"
-  company: Associate Professor  <br />  Department of Economics at University of Chile
+  company: Associate Professor Department of Economics <br />  University of Chile
   title: "Director"
   bio: ""
   thumbnailUrl: Romulo.jpg
@@ -87,7 +87,7 @@
   id: 9
   name: "Gustavo "
   surname: "Fajardo"
-  company: Chief Economist<br />  Socio-Economic Research Division of the Vice-Precidency of Knowledge at CAF – Development Bank of Latin America
+  company: Chief Economist<br />  Socio-Economic Research Division of the Vice-Precidency of Knowledge at CAF, Development Bank of Latin America
   title: "Director"
   bio: ""
   thumbnailUrl: GustavoFajardo.jpg
