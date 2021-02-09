@@ -108,7 +108,7 @@ image: BCDE2020.jpg
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
 											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
 											<span class="company">{{ judge.company }}</span>
-											<!-- <span class="company">{{ judge.title }}</span> -->
+											<span class="link"><a href={{ judge.keynoteUrl }}>Watch the keynote.</a></span>
 							</div>
 							{% assign animationDelay = animationDelay | plus:200 %}
 							{% assign check = forloop.index | modulo:5 %}
@@ -129,7 +129,7 @@ image: BCDE2020.jpg
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
 											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
 											<span class="company">{{ judge.company }}</span>
-											<!-- <span class="company">{{ judge.title }}</span> -->
+											<!--<span class="company">{{ judge.title }}</span> -->
 							</div>
 							{% assign animationDelay = animationDelay | plus:200 %}
 							{% assign check = forloop.index | modulo:5 %}
