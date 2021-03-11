@@ -75,7 +75,12 @@ modal: all
 								<h3>About the Conference</h3>
 								<h6>
 								<div class="post-body" style="text-align:justify">
-									The Bolivian Conference on Development Economics aims at bringing together local and international scholars for the exchange of ideas and discussion of recent research on all areas related to economic development. We welcome submissions of theoretical and applied research, and we particularly encourage female and Bolivian scholars at an early stage in their careers to submit their work. The conference is organized by the Bolivian Society of Economists (SEBOL) and is supported by the Institute for Advanced Development Studies (INESAD), the Bolivian Academy of Economic Sciences (ABCE), and the Sustainable Development Solutions Network Bolivia (SDSN Bolivia). BCDE2021 will consist of parallel sessions, debate round tables, and keynote lectures delivered by Raquel Fernández (NYU) and Paulina Restrepo-Echavarría (Federal Reserve Bank of St Louis).
+									The Bolivian Conference on Development Economics aims at bringing together local and international scholars for the exchange of ideas and discussion of recent research on all areas related to economic development.
+									</br>
+									</br>
+ 									We welcome submissions of theoretical and applied research, and we particularly encourage female and Bolivian scholars at an early stage in their careers to submit their work.
+									</br></br>
+									The conference is organized by the <a href="https://www.sebol.org">Bolivian Society of Economists (SEBOL)</a> and is supported by the <a href="https://www.inesad.edu.bo">Institute for Advanced Development Studies (INESAD)</a>, the <a href="https://www.abce-edu.org">Bolivian Academy of Economic Sciences (ABCE)</a>, and the <a href="http://sdsnbolivia.org">Sustainable Development Solutions Network Bolivia (SDSN Bolivia)</a>. BCDE2021 will consist of parallel sessions, debate round tables, and keynote lectures delivered by <b>Raquel Fernández (NYU)</b> and <b>Paulina Restrepo-Echavarría (Federal Reserve Bank of St Louis)</b>.
 								</div>
 								</h6>
         </div>
@@ -262,18 +267,22 @@ modal: all
                     </div>
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
                         <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0" style="background-color:#08306b;">
-                            <h5>All sessions will be broadcasted via Zoom and <a href="https://www.facebook.com/watch/UPBoficial/">Facebook Live.</a> </h5>
-                            <!-- {% for feature in site.venue2Features %}
+                            <!-- <h5>All sessions will be broadcasted via Zoom and <a href="https://www.facebook.com/watch/UPBoficial/">Facebook Live.</a> </h5> -->
+                            {% for feature in site.venueFeatures %}
                             <p>{{ feature }}</p>
-                            {% endfor %} -->
+                            {% endfor %}
                         </div>
                     </div>
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+										<div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage4 }})"></div>
+                    </div>
+
+                    <!-- <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
                         <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venue1SmallImage4 }})"></div>
                     </div>
                     <div class="venue-elem-wrapper col-xs-6 visible-xs">
-                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venue1SmallImage2 }})"></div>
-                    </div>
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venue1SmallImage5 }})"></div>
+                    </div> -->
                 </div>
             </div>
 
