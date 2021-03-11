@@ -131,6 +131,11 @@ aboutBCDE2020:
 - {title: "Registration", image: "registration.jpg", text: 'Conference registration is closed' }
 - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2020/programbcde2020.pdf"> here.</a>' }
 
+aboutBCDE2021:
+- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is will be anounced soon.' }
+- {title: "Registration", image: "registration.jpg", text: 'Conference registration will open in September 2021' }
+#- {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2020/programbcde2020.pdf"> here.</a>' }
+
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"

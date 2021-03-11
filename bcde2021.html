@@ -1,0 +1,426 @@
+---
+layout: default
+permalink: /bcde2021/
+title: BCDE2021
+image: BCDE2020.jpg
+modal: all
+---
+
+<!-- Begin Top Section -->
+<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/hero-blue.jpg');{% elsif page.color %}background: {{ page.color }}{% endif %}">
+    <div class="overlay gradient-overlay"></div>
+
+<!-- Navigation -->
+	<header id="top-header" class="top-header">
+	    <div class="overlay white-solid"></div>
+	    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+	        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
+	    </svg>
+	    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+	        <div class="logo logo-footer"></div>
+	        <!-- <div class="logo logo-footer logo-gray pull-right"></div> -->
+	    </a>
+	    <nav class="st-menu st-effect" id="menu">
+	        <!-- <div class="logo-navbar logo logo-dark visible-xs"></div> -->
+	        <ul>
+	            {% for navigationLink in site.navigationLinks %}
+	            <li>
+	                <a style="color:#C0CD2E" class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+	            </li>
+	            {% endfor %}
+	        </ul>
+	        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+	            {% for bottomNavigationLink in site.bottomNavigationLinks %}
+	            <li>
+	                <a style="color:#C0CD2E" href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
+	            </li>
+	            {% endfor %}
+	        </ul>
+	        {% for rightNavigationButton in site.rightNavigationButtons %}
+	        <a style="color:#C0CD2E" href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+	            {{ rightNavigationButton.text }}
+	        </a>
+	        {% endfor %}
+	    </nav>
+	</header>
+
+<!-- End navigation -->
+	<div class="content-wrapper">
+	    <div class="jumbotron text-left">
+	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
+	            <h1>{{ page.title }}</h1>
+	        </div>
+	    </div>
+    </div>
+</section>
+<!-- End Top Section -->
+
+
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.aboutBCDETitle }}</h3>
+                {% assign animationDelay = 0 %}
+                <h6>
+									<div class="post-body" style="text-align:justify">
+										Welcome to the official website of 12th version of the Bolivian Conference on Development Economics (BCDE2021).
+										BCDE2021 will be held on <b>Thursday and Friday November 18th and 19th, 2021, </b> at Universidad Privada de Santa Cruz de la Sierra (UPSA), Bolivia.
+
+									</br>
+									</br>
+										BCDE2021 is planned to be held as an in-person conference; however, due to Covid-19 outbreak, online presentations are also welcomed. Please visit this website for future updates about the conference.
+									</div>
+								</h6>
+								<h3>About the Conference</h3>
+								<h6>
+								<div class="post-body" style="text-align:justify">
+									The Bolivian Conference on Development Economics aims at bringing together local and international scholars for the exchange of ideas and discussion of recent research on all areas related to economic development. We welcome submissions of theoretical and applied research, and we particularly encourage female and Bolivian scholars at an early stage in their careers to submit their work. The conference is organized by the Bolivian Society of Economists (SEBOL) and is supported by the Institute for Advanced Development Studies (INESAD), the Bolivian Academy of Economic Sciences (ABCE), and the Sustainable Development Solutions Network Bolivia (SDSN Bolivia). BCDE2021 will consist of parallel sessions, debate round tables, and keynote lectures delivered by Raquel Fernández (NYU) and Paulina Restrepo-Echavarría (Federal Reserve Bank of St Louis).
+								</div>
+								</h6>
+        </div>
+    </div>
+</section>
+<!-- End About Section -->
+
+
+<!-- Begin Statistic Section -->
+<section id="about" class="about">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			{% assign animationDelay = 0 %}
+
+						{% for about in site.aboutBCDE2021 %}
+						{% assign colWidth = 12 | divided_by: 2 %}
+						<div class="col-md-{{ colWidth }} col-xs-6">
+								<div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+										<h5>{{ about.title }}</h5>
+										<img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+										<p>{{ about.text }}</p>
+								</div>
+						</div>
+						{% assign animationDelay = animationDelay | plus:500 %}
+						{% assign check = forloop.index | modulo:1 %}
+						{% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+						{% endfor %}
+		</div>
+
+	</div>
+</section>
+<!-- End Statistic Section -->
+
+
+<!-- <section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+                {% assign animationDelay = 0 %}
+							<h3>Keynote Speakers</h3>
+							<h6>
+							<div class="post-body" style="text-align:justify">
+								<b>Marcelo Olarreaga</b> is Professor of Economics at the University of Geneva, and Research Fellow at the Centre for Economic Policy Research (CEPR) in London. Before joining the University of Geneva he worked in the Research Department of the World Bank, as well as in the Economics Research Division of the World Trade Organization. He has also been invited professor at CERDI/FERDI (France), the Graduate Institute (Switzerland), INSEAD (France), Institute CLAEH (Uruguay), SciencePo-Paris (France), Universidad de la República (Uruguay) and the University of Antwerp (Belgium). He is an expert and active researcher in international economics. </br></br>
+
+								<b>Johanna Rickne</b> is Professor of Economics at the Swedish Institute for Social Research at Stockholm University. She is also an Affiliate Professor of Economics at the University of Nottingham, a Research Fellow at the IZA Institute of Labor Economics in Bonn, and member of the Center for Economic and Political Research (CEPR). She has been visiting professor at Yale, ITAM, Harvard, Tokyo, UC Berkeley, Columbia, PUC-Rio, and Beijing universities. She is an expert and a leading researcher in gender economics, labor economics and political economics, and China’s economic and social development. Her work has been published in top academic journals in Political Science and Economics.</br></br>
+
+							</div>
+							</h6>
+
+
+
+        </div>
+    </div>
+</section> -->
+
+
+
+<!-- Begin Rockstar Speakers Section -->
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/hero-hands2.jpg);">
+<div class="overlay solid-overlay"></div>
+<div class="content-wrapper">
+	<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+		<h3 id="rockstar-speaker-title">{{ site.rockstarSpeakersTitle }}</h3>
+		    <!-- <div class="content-wrapper">
+		        <div class="col-sm-8 col-sm-offset-2 appear-animation-trigger">
+		            {% for speaker in site.data.speakers_bcde2020 %}
+								{% if speaker.rockstar %}
+		            <div class="effect-wrapper col-md-4 col-sm-4 col-xs-12 appear-animation">
+		                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+		                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+		                        <div class="overlay solid-overlay"></div>
+		                        {% if speaker.ribbon != null %}
+		                        <ul class="ribbon-wrapper">
+		                            {% for ribbon in speaker.ribbon %}
+		                            <li class="{{ ribbon["abbr"] | downcase }}">
+		                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+		                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+		                            </li>
+		                            {% endfor %}
+		                        </ul>
+		                        {% endif %}
+		                        <figcaption>
+		                            <div class="col-md-8 col-xs-8 text-left">
+		                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+		                                <div class="clearfix"></div>
+		                                <span class="position">{{ speaker.company }}</span>
+		                            </div>
+		                        </figcaption>
+		                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+		                    </figure>
+		                </div>
+		            </div>
+								{% endif %}
+		            {% endfor %}
+		        </div>
+
+		    </div> -->
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for speaker in site.data.speakers_bcde2021 %}
+							{% if speaker.rockstar %}
+							{% assign colWidth = 12 | divided_by: 6 %}
+							<div class="judge col-md-{{ 6 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
+											<p class="name">{{ speaker.name }} {{ speaker.surname }}</p>
+											<span class="company">{{ speaker.company }}</span>
+											<!-- <span class="link"><a href={{ judge.keynoteUrl }}>Watch the keynote.</a></span> -->
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
+			<div class="col-lg-10 col-lg-offset-1">
+							{% assign animationDelay = 0 %}
+						<h6>
+						<div class="post-body" style="text-align:justify">
+							<b>Raquel Fernández</b>
+							(Ph.D. Columbia University 1988) is Professor of Economics at New York University and at the University of Oslo in Norway. She is a member of the Scientific Council of the Barcelona Graduate School of Economics, member of the Council of the European Economic Association and the Royal Economic Society, a Research Fellow of CEPR and IZA, and a Research Associate of NBER. She has held permanent and visiting appointments at the London School of Economics, Boston University, University of Chicago, Free University of Brussels, and University Pompeu Fabra, and has also been a consultant for the World Bank. She has worked extensively on culture and economics, marital sorting, the intergenerational transmission of inequality, and education policy; and her work has been published in leading scientific journals in economics. </br></br>
+
+							<b>Paulina Restrepo-Echavarría</b> (Ph.D. UCLA 2010) is Senior Economist at the Federal Reserve Bank of St. Louis. She has worked on the direction of capital flows, debt crises, sovereign default in commodity-rich economies, the incidence of the informal sector in the macroeconomy, labor market frictions, and theoretical models of the marriage and dating market. Her work has been published in the American Economic Review, Journal of Economic Theory, and the European Economic Review among others. She is Affiliated Faculty at Washington University in St Louis., and her current research interests are on international macroeconomics and search theory.
+						</div>
+						</h6>
+
+			</div>
+
+
+
+		<!-- <h4 id="rockstar-speaker-subtitle">{{ site.rockstarSpeakersSubTitle }}</h4> -->
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for judge in site.data.speakers_bcde2021 %}
+							{% if judge.invited %}
+							{% assign colWidth = 12 | divided_by: 3 %}
+							<div class="judge col-md-{{ 3 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
+											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
+											<span class="company">{{ judge.company }}</span>
+											<!--<span class="company">{{ judge.title }}</span> -->
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
+			<!-- <span class="bordered">
+			<a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a>
+			</span> -->
+	</div>
+</div>
+
+
+</section>
+<!-- End Rockstar Speakers Section -->
+
+
+<!-- Venue Section -->
+<section id="venue">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>Hosted by </br> Universidad Privada de Santa Cruz (UPSA)</h3>
+            <div class="row venue-row">
+                <div class="col-md-8 col-sm-8 venue-col">
+                    <div class="venue-elem-wrapper">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage2 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage5 }})"></div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 venue-col venue-small-col">
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="150" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem venue-small-elem venue-text animated hiding" data-animation="fadeIn" data-delay="0" style="background-color:#08306b;">
+                            <h5>All sessions will be broadcasted via Zoom and <a href="https://www.facebook.com/watch/UPBoficial/">Facebook Live.</a> </h5>
+                            <!-- {% for feature in site.venue2Features %}
+                            <p>{{ feature }}</p>
+                            {% endfor %} -->
+                        </div>
+                    </div>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venue1SmallImage4 }})"></div>
+                    </div>
+                    <div class="venue-elem-wrapper col-xs-6 visible-xs">
+                        <div class="venue-elem image-section venue-small-elem venue-img animated hiding" data-animation="fadeIn" data-delay="0" style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venue1SmallImage2 }})"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- End Venue Section -->
+
+<!-- Begin Statistic Section -->
+<section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/econ-hero.jpg);">
+	<div class="overlay solid-overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			{% assign animationDelay = 0 %}
+            {% for statistic in site.bcde2020stats %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            <div class="col-md-{{ colWidth }} col-xs-6">
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+					<div class="stat-info">{{ statistic.info}}</div>
+					<hr>
+					<p class="small">{{ statistic.detail}}</p>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            {% endfor %}
+
+		</div>
+
+	</div>
+</section>
+<!-- End Statistic Section -->
+
+
+{% include organizers.html %}
+
+<!-- Begin Schedule Section
+<section id="schedule" class="schedule">
+      <div class="content-wrapper text-center">
+          <div class="col-md-8 col-sm-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-1">
+            <h5>{{ "Conference Program for BCDE9" }}</h5>
+              <p>
+                The printed version of the conference program is available <a href="/assets/progama9BCDE.pdf" target="_blank"> HERE </a>.
+              </p>
+              <p>
+                Check the venue map to locate events and sessions <a href="/assets/campusMap.pdf" target="_blank"> HERE </a>.
+              </p>
+          </div>
+      </div>
+    <div class="content-wrapper">
+
+        {% for day in site.data.schedule %}
+        <div class="schedule-table col-lg-10 col-md-8 col-md-offset-1">
+            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <div class="timeslot track-header stick-header">
+
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for track in day.tracks %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                        <h5 class="track-header-title">{{ track.title }}</h5>
+                    </div>
+                    {% endfor %}
+                    <div class="track-header-slot col-xs-12 visible-xs">
+                        <h5 class="slot-detail track-header-title"></h5>
+                    </div>
+                </div>
+            </div>
+            {% for timeslot in day.timeslots %}
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="timeslot-elements flexbox-wrapper">
+                          {% assign startTime = timeslot.startTime | split: ":" %}
+                          {% assign endTime = timeslot.endTime | split: ":" %}
+                          <h6  align="left" class="slot-title" itemprop="name">{{ startTime[0] }}{{ startTime[1] }}</br>{{ endTime[0] }}<span>{{ endTime[1] }}</span></h6>
+
+                       <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                          {% assign endTime = timeslot.endTime | split: ":" %}
+                          {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                      </time>
+                    {% for slot in timeslot.sessionIds %}
+                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                          {% assign slotIndex = forloop.index0 %}
+                        {% if slot != 404 %}
+                            {% for session in site.data.sessions %}
+                                {% if slot == session.id and session.service == null %}
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                        <h6  align="left" class="slot-title" itemprop="name">{{ session.title }}</h6>
+                                        <h6  align="left" class="slot-title" itemprop="name">Room: {{ session.place }}</h6>
+                                        {% if session.description != null %}
+                                        <p align="center" class="slot-title" itemprop="name">{{ session.description }}</p>
+                                        {% endif %}
+                                        {% if session.location != null %}
+                                          <h6  align="left" class="slot-title" itemprop="name">{{ slot.location }}</h6>
+                                        {% endif %}
+                                        <h6 class="name">
+                                            {% for speaker in site.data.speakers %}
+                                                {% for session_speaker in session.speakers %}
+                                                    {% if session_speaker == speaker.paperid %}
+                                                     <p align="left">
+                                                      <span>{{ speaker.name }} {{ speaker.surname }} <span>{{ speaker.company }}</span></span>
+                                                    </p>
+
+                                                        {% if speaker.coauthors != null %}
+                                                        <p align="left" style="font-size:65%;"> <a href="https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=BCDE9&paper_id={{ speaker.paperid }}"> {{ speaker.title }}</a>. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. {{ speaker.coauthors }}</p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
+                                                        {% else %}
+                                                        <p align="left" style="font-size:65%;">{{ speaker.title }}. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. </p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
+                                                        {% endif %}
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% endfor %}
+                                        </h6>
+                                    </div>
+                                </div>
+                                {% elsif slot == session.id and session.service != null %}
+                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
+                                    <div class="color-line"></div>
+                                    <div class="slot-content">
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.place != null %}
+                                        <h6 class="slot-title" itemprop="name">{{ session.place }}</h6>
+                                        {% endif %}
+                                        {% if session.description != null %}
+                                        <p class="service-description">{{ session.description }}</p>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                        <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Schedule Section -->
