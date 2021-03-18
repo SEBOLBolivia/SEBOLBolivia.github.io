@@ -2,12 +2,12 @@
 layout: default
 permalink: /bcde2021/
 title: BCDE2021
-image: BCDE2020.jpg
+image: bannerBCDE2021.jpg
 modal: all
 ---
 
 <!-- Begin Top Section -->
-<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/hero-blue.jpg');{% elsif page.color %}background: {{ page.color }}{% endif %}">
+<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/{{page.image}}');{% elsif page.color %}background: {{ page.color }}{% endif %}">
     <div class="overlay gradient-overlay"></div>
 
 <!-- Navigation -->

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /miembros/
-image: test6.jpg
+image: hero-sebol-new.jpg
 title: Miembros
 isStaticPost: false
 ---

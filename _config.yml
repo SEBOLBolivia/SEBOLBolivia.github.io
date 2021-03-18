@@ -91,7 +91,8 @@ BCDEnavigationLinks:
  - {permalink: "/", text: "Sebol"}
 
 # Hero Block
-heroImage: "hero_sebol3.jpg"
+heroImage: "testbackground20.jpg"
+#"hero_sebol3.jpg"
 # heroTitle: "SEBOL  <typeout>"
 # eventDate: "Sociedad de Economistas de Bolivia"
 # typeoutTextValues: '"", "Cochabamba-Bolivia", ""'

@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /dsw/
-image: testbackground2.jpg
+image: hero-sebol-new.jpg
 title: Development Studies Workshop
 isStaticPost: false
 ---

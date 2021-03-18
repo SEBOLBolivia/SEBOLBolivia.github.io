@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /erw/
-image: testbackground2.jpg
 title: Economic Research Workshop
+image: hero-sebol-new.jpg
 isStaticPost: false
 ---
 

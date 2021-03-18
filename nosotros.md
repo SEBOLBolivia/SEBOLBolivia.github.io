@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /nosotros/
-image: testbackground2.jpg
+image: hero-sebol-new.jpg
 title: Nosotros
 isStaticPost: false
 ---
@@ -32,7 +32,8 @@ Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los e
 * **Secretario General:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Universidad de Chicago)
 * **Tesorero:** <a href="https://www.linkedin.com/in/sergiodaga/?originalSubdomain=es" target="_blank"> Sergio Daga Merida </a> (Universidad Privada de Santa Cruz)
 * **Director:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Reserva Federal de los Estados Unidos)
-* **Director:** <a href="https://uclouvain.be/fr/repertoires/fabiola.saavedra" target="_blank"> Fabiola Saavedra</a> (Universidad Católica de Lovaina)
+* **Director:** <a href="https://sites.google.com/site/aherrerajeco/" target="_blank"> Alejandro Herrera</a> (Inter-American Development Bank)
+* **Director:** <a href="https://uclouvain.be/fr/repertoires/fabiola.saavedra" target="_blank"> Fabiola Saavedra Caballero</a> (Universidad Católica de Lovaina)
 * **Director:** <a href="http://web.econ.ku.dk/pabloselaya/" target="_blank"> Pablo Selaya </a> (Universidad de Copenhague)
 * **Director:** <a href="https://mauriciotejada.com" target="_blank"> Mauricio Tejada </a> (Universidad Alberto Hurtado)
 
