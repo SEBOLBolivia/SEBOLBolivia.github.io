@@ -51,7 +51,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/nosotros/", text: "Nosotros"}
- - {permalink: "/bcde2020/", text: "BCDE2020"}
+ - {permalink: "/bcde2021/", text: "BCDE2021"}
  - {permalink: "/erw/", text: "ERW"}
  - {permalink: "/dsw/", text: "DSW"}
  - {permalink: "/noticias/", text: "Noticias"}
