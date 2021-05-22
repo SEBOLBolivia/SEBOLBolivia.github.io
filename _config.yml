@@ -134,7 +134,7 @@ aboutBCDE2020:
 - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2020/programbcde2020.pdf"> here.</a>' }
 
 aboutBCDE2021:
-- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Coming soon.' }
+- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde2021/callforpapers/">Link.</a>' }
 - {title: "Registration", image: "registration.jpg", text: 'Coming soon' }
 #- {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2020/programbcde2020.pdf"> here.</a>' }
 
