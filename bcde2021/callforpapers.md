@@ -14,9 +14,9 @@ We are delighted to invite the submission of papers for the __2021 Bolivian Conf
 
 <h4 style="color:#2d877d;"> ABOUT THE CONFERENCE</h4>
 
-The Bolivian Conference on Development Economics aims to bring together local and international scholars to exchange ideas and discuss recent research on all areas related to economic development. We welcome theoretical and applied research submissions, and we particularly encourage Bolivian scholars at an early stage in their careers to submit their work.
+The Bolivian Conference on Development Economics aims to bring together local and international scholars for the exchange of ideas and discussion of recent research on all areas related to economic development. We welcome theoretical and applied research submissions, and we particularly encourage female scholars and Bolivian scholars at an early stage in their careers to submit their work.
 
-The conference is organized by the Society of Bolivian Economists (SEBOL), with support of Universidad Privada de Santa Cruz de la Sierra (UPSA), the Bolivian Academy of Economic Sciences (ABCE), the Institute for Advanced Development Studies (INESAD), and the Sustainable Development Solutions Network – Bolivia (SDSN). Thanks to the support of these institutions, this year's conference has no fees for participants and presenters.
+The conference is organized by the Society of Bolivian Economists (SEBOL), with support of Universidad Privada de Santa Cruz de la Sierra (UPSA), the Bolivian Academy of Economic Sciences (ABCE), the Institute for Advanced Development Studies (INESAD), and the Sustainable Development Solutions Network – Bolivia (SDSN). __Thanks to the support of these institutions, this year's conference has no fees for participants and presenters.__
 
 <h4 style="color:#2d877d;"> CONFIRMED KEYNOTE SPEAKERS</h4>
 
@@ -26,7 +26,7 @@ __Paulina Restrepo-Echavarría__ is Senior Economist at the Federal Reserve Bank
 
 <h4 style="color:#2d877d;"> SUBMISSIONS</h4>
 
-BCDE2021 invites individual submissions of research papers to be presented in parallel contributed sessions. Submissions in all research areas related to development economics are welcome. We also encourage submissions of work at the intersection of different fields and disciplines, especially those that provide novel insights related to development economics.
+BCDE2021 invites individual submissions of research papers to be presented in parallel contributed sessions. We welcome submissions in all research areas related to development economics, including work at the intersection of different fields and disciplines that provide novel insights related to development economics.
 
 All submitted papers will be reviewed before acceptance for presentation. All applicants will be notified of the decision by email.
 
