@@ -32,7 +32,7 @@ All submitted papers will be reviewed before acceptance for presentation. All ap
 
 Please submit your papers using this link:
 
-[http://editorialexpress.com/conference/BCDE2021]([http://editorialexpress.com/conference/BCDE2021])
+[https://editorialexpress.com/conference/BCDE2021]([https://editorialexpress.com/conference/BCDE2021])
 
 Proposals for an entire thematic session are also welcome. For this, please submit three (3) papers individually using the link above and email the conference organizers to alert them about your proposed thematic session. Please note that all papers submitted as part of a thematic session will be reviewed individually. A thematic session will be formed if all papers are accepted. Otherwise, individually accepted papers will be allocated to parallel contributed sessions.
 
