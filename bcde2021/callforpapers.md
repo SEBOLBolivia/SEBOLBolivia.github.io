@@ -36,10 +36,10 @@ Please submit your papers using this link:
 
 Proposals for an entire thematic session are also welcome. For this, please submit three (3) papers individually using the link above and email the conference organizers to alert them about your proposed thematic session. Please note that all papers submitted as part of a thematic session will be reviewed individually. A thematic session will be formed if all papers are accepted. Otherwise, individually accepted papers will be allocated to parallel contributed sessions.
 
-<h4 style="color:#2d877d;"> IMPORTANT DATES</h4>
+<h4 style="color:#2d877d;"> IMPORTANT DATES *DEADLINE EXTENDED*</h4>
 
-Paper submissions deadline: __Sunday, August 1st, 2021.__
-Paper status notification: __Tuesday, August 31st, 2021.__
+Paper submissions deadline: __Monday, September 20th, 2021.__
+Paper status notification: __Thursday, September 30th, 2021.__
 Registration deadline for accepted papers: __Wednesday, September 15th, 2021.__
 
 <h4 style="color:#2d877d;"> CONTACT</h4>
