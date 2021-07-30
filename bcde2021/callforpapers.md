@@ -40,7 +40,7 @@ Proposals for an entire thematic session are also welcome. For this, please subm
 <h5 style="color:#FF0000;"> *DEADLINE EXTENDED*</h5>
 * Paper submissions deadline: __Monday, September 20th, 2021.__
 * Paper status notification: __Thursday, September 30th, 2021.__
-* Registration deadline for accepted papers: __Wednesday, September 15th, 2021.__
+* Registration deadline for accepted papers: __Friday, October 15th, 2021.__
 
 <h4 style="color:#2d877d;"> CONTACT</h4>
 
