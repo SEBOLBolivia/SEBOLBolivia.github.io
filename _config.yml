@@ -107,7 +107,7 @@ aboutBlock:
  - {title: "BCDE", image: "bcde7.jpg", text: 'La Conferencia Boliviana en Desarrollo Economico - Bolivian Conference on Development Economics (BCDE) es la conferencia anual organizada por la SEBOL, INESAD y ABCE junto con el apoyo de las mejores universidades de Bolivia. <a href="/bcde2020/">Detalles.</a>' }
  - {title: "ERW", image: "erw.jpg", text: 'El Taller de Investigación Económica - Economic Research Workshop (ERW) es el seminario mensual organizado por SEBOL, UPB, INESAD y ABCE, en el que se presentan trabajos de investigación académica en económia. <a href="/erw/">Detalles.</a>' }
  - {title: "DSW", image: "talk.jpg", text: 'El Taller de Estudios en Desarrollo - Development Studies Workshop (DSW) es un taller academico internacional organizado como parte de la reunión de mitad de año de SEBOL en Washington, DC.<a href="/dsw/">Detalles.</a>'}
- - {title: "BOWEN", image: "bowen.jpg", text: 'BOWEN - Bolivian Women in Economics Network, es la red de mujeres bolivianas economistas, un comité permanete de SEBOL y tiene por objetivo fomentar la igualdad de género en la investigación económica en Bolivia con énfasis en el campo académico. <a href="https://bowensebol.org">Detalles.</a>'}
+ - {title: "BOWEN", image: "bowen.jpg", text: 'BOWEN - Bolivian Women in Economics Network, es la red de mujeres bolivianas economistas en el ámbito de la investigación. Tiene por objetivo fomentar la igualdad de género en la investigación económica en Bolivia con énfasis en el campo académico. <a href="https://bowensebol.org">Detalles.</a>'}
 
 # About BCDE
 aboutBCDETitle: "Welcome"
