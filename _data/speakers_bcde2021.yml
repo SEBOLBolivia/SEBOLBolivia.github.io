@@ -5,10 +5,10 @@
   id: 1
   name: "Raquel"
   surname: "Fernandez"
-  company: " Julius Silver, Roslyn S. Silver and Enid Silver Winslow
-Professor of Economics, New York University <br />  New York University"
+  company: " Julius Silver, Roslyn S. Silver and </br>Enid Silver Winslow
+Professor of Economics,  New York University"
   title: "Keynote Speaker"
-  bio: "<p>ABCDE</p>"
+  bio: ""
   thumbnailUrl: RaquelFernandez.jpg
   keynoteUrl: https://www.facebook.com/BCDEofficial/videos/735629717008674/?v=735629717008674
   rockstar: true
@@ -17,9 +17,31 @@ Professor of Economics, New York University <br />  New York University"
   id: 2
   name: "Paulina"
   surname: "Restrepo-Echavarria"
-  company: "Senior Economist <br />  Federal Reserve Bank of St Louis"
+  company: "Senior Economist,<br />  Federal Reserve Bank of St Louis"
   title: "Keynote Speaker"
-  bio: "Marcelo Olarreaga is Professor of Economics at the University of Geneva, and Research Fellow at the Centre for Economic Policy Research (CEPR) in London. Before joining the University of Geneva he worked in the Research Department of the World Bank, as well as in the Economics Research Division of the World Trade Organization. He has also been invited professor at CERDI/FERDI (France), the Graduate Institute (Switzerland), INSEAD (France), Institute CLAEH (Uruguay), SciencePo-Paris (France), Universidad de la República (Uruguay) and the University of Antwerp (Belgium). He is an expert and active researcher in international economics."
+  bio: ""
   thumbnailUrl: PaulinaRestrepo.jpg
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true
+
+-
+  id: 3
+  name: "Christina"
+  surname: "Gravert"
+  company: "Assistant Professor of Economics,<br />  University of Copenhagen"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: Gravert.jpg
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true
+
+-
+  id: 4
+  name: "Henrik"
+  surname: "Vigh"
+  company: "Professor of Anthropology and</br> Director of the Center for Global Criminology,<br />  University of Copenhagen"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: Henrik.jpg
   keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
   rockstar: true
