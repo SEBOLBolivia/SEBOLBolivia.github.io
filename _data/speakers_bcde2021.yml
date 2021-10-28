@@ -14,17 +14,6 @@ Professor of Economics,  New York University"
   rockstar: true
 
 -
-  id: 3
-  name: "Paulina"
-  surname: "Restrepo-Echavarria"
-  company: "Senior Economist,<br />  Federal Reserve Bank of St Louis"
-  title: "Keynote Speaker"
-  bio: ""
-  thumbnailUrl: PaulinaRestrepo.jpg
-  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
-  rockstar: true
-
--
   id: 2
   name: "Christina"
   surname: "Gravert"
@@ -32,6 +21,17 @@ Professor of Economics,  New York University"
   title: "Keynote Speaker"
   bio: ""
   thumbnailUrl: Gravert.jpg
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true
+
+-
+  id: 3
+  name: "Paulina"
+  surname: "Restrepo-Echavarria"
+  company: "Senior Economist,<br />  Federal Reserve Bank of St Louis"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: PaulinaRestrepo.jpg
   keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
   rockstar: true
 
