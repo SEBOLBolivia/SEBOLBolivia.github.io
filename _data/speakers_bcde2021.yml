@@ -14,7 +14,7 @@ Professor of Economics,  New York University"
   rockstar: true
 
 -
-  id: 2
+  id: 3
   name: "Paulina"
   surname: "Restrepo-Echavarria"
   company: "Senior Economist,<br />  Federal Reserve Bank of St Louis"
@@ -25,7 +25,7 @@ Professor of Economics,  New York University"
   rockstar: true
 
 -
-  id: 3
+  id: 2
   name: "Christina"
   surname: "Gravert"
   company: "Assistant Professor of Economics,<br />  University of Copenhagen"
