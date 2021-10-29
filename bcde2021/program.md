@@ -12,14 +12,14 @@ tags: '/bcde2021/'
 We are delighted to welcome you to the __Bolivian Conference on Economic Development 2021__. This year the conference will take place completely virtual. 
 
 <h4 style="color:#2d877d;"> PROGRAM AND SCHEDULE</h4>
-The conference program and schedule of events is available here: [PROGRAM AND SCHEDULE](https://www.sebol.org/bcde2021/program/programbcde2021.pdf)
+The conference program and schedule of events is available here: <a href="/bcde2021/programbcde2021.pdf" target="_blank"> PROGRAM AND SCHEDULE </a>
 
 If you have any problem presenting your work on the established day and time, please contact Daniel Vaca Pereira as soon as possible at the email: [danielvacapereira@upsa.edu.bo](mailto:danielvacapereira@upsa.edu.bo).
 
 <h4 style="color:#2d877d;"> GUIDELINES</h4>
 Presenters will receive an exclusive Zoom link to enter your session or scheduled sessions as a panelist. We recommend that you join your session 10 minutes before it begins to verify the technical setup. 
 
-Please take some time to review our guidelines for presenters and moderators here: [CONFERENCE GUIDELINES](https://www.sebol.org/bcde2021/program/guidelines.pdf)
+Please take some time to review our guidelines for presenters and moderators here: <a href="/bcde2021/guidelines.pdf" target="_blank"> CONFERENCE GUIDELINES </a>
 
 <h4 style="color:#2d877d;"> SESSION LINKS</h4>
 
