@@ -1,6 +1,6 @@
 ---
 layout: post-bcde
-title: Program
+title: BCDE 2021 Program
 image: bannerBCDE2021_3.png
 tags: '/bcde2021/'
 ---
