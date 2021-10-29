@@ -26,7 +26,7 @@ Please take some time to review our guidelines for presenters and moderators her
 You will be able to attend any other presentation by accessing through the links that will be enabled on this page on the days of the conference. Likewise, all the main sessions will be broadcast live through the Facebook and YouTube channel of the host university, __Universidad Privada de Santa Cruz de la Sierra – UPSA__.
 
 
-We look forward to see you virtually on the 18th and 19th of November.
+We look forward to seeing you virtually on the 18th and 19th of November.
  
 Sergio Daga (UPSA, SEBOL), Conference Co-chair. 
 
