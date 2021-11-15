@@ -21,9 +21,16 @@ Presenters will receive an exclusive Zoom link to enter your session or schedule
 
 Please take some time to review our guidelines for presenters and moderators here: <a href="/bcde2021/guidelines.pdf" target="_blank"> CONFERENCE GUIDELINES </a>
 
-<h4 style="color:#2d877d;"> SESSION LINKS</h4>
+<h4 style="color:#2d877d;"> LIVE STREAM</h4>
 
-You will be able to attend any other presentation by accessing through the links that will be enabled on this page on the days of the conference. Likewise, all the main sessions will be broadcast live through the Facebook and YouTube channel of the host university, __Universidad Privada de Santa Cruz de la Sierra – UPSA__.
+You can watch the keynote and special sessions through our Facebook and YouTube channels:
+
+<center><h4 style="color:#2d877d;"> <b>YouTube</b> </h4></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dl1CmG0_HZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><h4 style="color:#2d877d;"> <b>Facebook LIVE</b> </h4></center>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fboliviaupsa%2Fvideos%2F284045550296400%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <br> 
 <center><h6 style="color:#2d877d;"><b> We look forward to seeing you virtually on the 18th and 19th of November.</b>
