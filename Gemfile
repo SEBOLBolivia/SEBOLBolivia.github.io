@@ -8,7 +8,3 @@ gem 'jekyll-twitter-plugin'
 gem "nokogiri", ">= 1.8.5"
 
 gem "webrick", "~> 1.7"
-
-group :jekyll_plugins do
-    gem "jekyll-pdf-embed"
-  end
