@@ -3,6 +3,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-twitter-plugin
 - jekyll-gist
+- jekyll-pdf-embed
 
 safe: false
 

@@ -16,9 +16,7 @@ The conference program and schedule of events is available here: <a href="/bcde2
 
 If you have any problem presenting your work on the established day and time, please contact Daniel Vaca Pereira as soon as possible at the email: [danielvacapereira@upsa.edu.bo](mailto:danielvacapereira@upsa.edu.bo).
 
-{% pdf "/bcde2021/programbcde2021.pdf" %}
-
-<!-- <object data="/bcde2021/programbcde2021.pdf" height="100%" width="100%" type='application/pdf'></object> -->
+<!-- {% pdf "/bcde2021/programbcde2021.pdf" %} -->
 
 
 <h4 style="color:#2d877d;"> GUIDELINES</h4>
