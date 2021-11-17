@@ -16,9 +16,6 @@ The conference program and schedule of events is available here: <a href="/bcde2
 
 If you have any problem presenting your work on the established day and time, please contact Daniel Vaca Pereira as soon as possible at the email: [danielvacapereira@upsa.edu.bo](mailto:danielvacapereira@upsa.edu.bo).
 
-<!-- {% pdf "/bcde2021/programbcde2021.pdf" %} -->
-
-
 <h4 style="color:#2d877d;"> GUIDELINES</h4>
 Presenters will receive an exclusive Zoom link to enter your session or scheduled sessions as a panelist. We recommend that you join your session 10 minutes before it begins to verify the technical setup. 
 
