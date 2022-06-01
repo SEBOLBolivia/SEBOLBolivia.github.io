@@ -139,6 +139,10 @@ aboutBCDE2021:
 - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde2021/callforpapers/">Link.</a>' }
 - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2021/program"> here.</a>' }
 
+aboutBCDE2022:
+- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is open. <a href="/bcde2021/callforpapers/">Link.</a>' }
+# - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2021/program"> here.</a>' }
+
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
@@ -153,6 +157,12 @@ bcde2020stats:
 - {count: "90", specialCharacter: "+", info: "researchers", detail: "from local and international universities, research institutes and international organizations."}
 - {count: "100", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
 - {count: "35", specialCharacter: "+", info: "parallel sessions", detail: "Covering topics on education, inequality, labor markets, trade, health, macroeconomics, political economy, natural resources, environmental economics, entrepreneurship and productivity."}
+
+bcde2022stats:
+- {count: "300", specialCharacter: "+", info: "attendees", detail: " Including undergraduate and graduate students, professionals, policy makers and private sector participants."}
+- {count: "90", specialCharacter: "+", info: "researchers", detail: "From local and international universities, research institutes and international organizations."}
+- {count: "100", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
+- {count: "40", specialCharacter: "+", info: "parallel sessions", detail: "Covering topics on education, inequality, labor markets, trade, health, macroeconomics, political economy, natural resources, environmental economics, entrepreneurship and productivity."}
 
 # Latest News Block
 latestNewsTitle: "Noticias recientes"

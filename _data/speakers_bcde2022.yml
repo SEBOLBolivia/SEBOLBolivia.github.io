@@ -1,0 +1,35 @@
+# EXPOSITORES SESIONES PLENARIAS
+# id: is the author identifier
+# id: is the paper identifier, typically corresponds to the paper id in conference maker
+-
+  id: 1
+  name: "Marcela"
+  surname: "Eslava"
+  company: "Universidad de Los Andes-Colombia"
+  title: "Keynote Speaker"
+  bio: "(Ph.D. Columbia University) is the Julius Silver, Roslyn S. Silver and Enid Silver Winslow Professor of Economics at New York University and at Professor of Economics at the University of Oslo in Norway. She is a member of the Scientific Council of the Barcelona Graduate School of Economics, member of the Council of the European Economic Association and the Royal Economic Society, a Research Fellow of CEPR and IZA, and a Research Associate of NBER. She has held permanent and visiting appointments at the London School of Economics, Boston University, University of Chicago, Free University of Brussels, and University Pompeu Fabra, and has also been a consultant for the World Bank. She has worked extensively on culture and economics, marital sorting, the intergenerational transmission of inequality, and education policy; and her work has been published in leading scientific journals in economics."
+  thumbnailUrl: Eslava.png
+  keynoteUrl: https://www.facebook.com/BCDEofficial/videos/735629717008674/?v=735629717008674
+  rockstar: true
+
+-
+  id: 2
+  name: "José Antonio"
+  surname: "Ocampo"
+  company: "School of International and Public Affairs at Columbia University"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: Ocampo.png
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true
+
+-
+  id: 3
+  name: "Sergio"
+  surname: "Urzua"
+  company: "University of Maryland"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: Urzua.png
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true

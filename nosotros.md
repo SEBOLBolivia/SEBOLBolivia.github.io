@@ -23,19 +23,19 @@ Fomentar los estudios e investigaciones, tanto de carácter teórico como empír
 
 * Establecer y mantener relaciones con entidades nacionales y extranjeras que desarrollen actividades de análoga naturaleza.
 
-#### Directorio 2020-2021
+#### Directorio 2022-2023
 
 Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los estatutos y el reglamento de SEBOL:
 
-* **Presidente:** <a href="http://www.upb.edu/en/node/6693" target="_blank"> Oscar Molina Tejerina</a> (Universidad Privada Boliviana)
-* **Vice-presidente:** <a href="https://faculty.utrgv.edu/diego.escobari/" target="_blank"> Diego Escobari</a> (Universidad de Texas RGV)
-* **Secretario General:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Universidad de Chicago)
+* **Presidente:** <a href="https://faculty.utrgv.edu/diego.escobari/" target="_blank"> Diego Escobari</a> (Universidad de Texas RGV)
+* **Vice-presidente:** <a href="https://uclouvain.be/fr/repertoires/fabiola.saavedra" target="_blank"> Fabiola Saavedra Caballero</a> (Universidad Católica de Lovaina)
+* **Secretario General:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Federal Reserve Board)
 * **Tesorero:** <a href="https://www.linkedin.com/in/sergiodaga/?originalSubdomain=es" target="_blank"> Sergio Daga Merida </a> (Universidad Privada de Santa Cruz)
-* **Director:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Reserva Federal de los Estados Unidos)
+* **Director:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Universidad de CLAPES-UC)
 * **Director:** <a href="https://sites.google.com/site/aherrerajeco/" target="_blank"> Alejandro Herrera</a> (Inter-American Development Bank)
-* **Director:** <a href="https://uclouvain.be/fr/repertoires/fabiola.saavedra" target="_blank"> Fabiola Saavedra Caballero</a> (Universidad Católica de Lovaina)
-* **Director:** <a href="http://web.econ.ku.dk/pabloselaya/" target="_blank"> Pablo Selaya </a> (Universidad de Copenhague)
-* **Director:** <a href="https://mauriciotejada.com" target="_blank"> Mauricio Tejada </a> (Universidad Alberto Hurtado)
+* **Director:** <a href="https://jsmoralesb.wixsite.com/personal" target="_blank"> Joaquin Morales</a> (Universidad Privada Boliviana)
+* **Director:** <a href="http://www.upb.edu/en/node/6693" target="_blank"> Oscar Molina Tejerina</a> (Universidad Privada Boliviana)
+* **Director:** <a href="https://www.linkedin.com/in/ricardo-nogales-carvajal-73471036/?originalSubdomain=uk" target="_blank"> Ricardo Nogales</a> (Universidad Privada Boliviana)
 
 #### Estatutos y Reglamento
 

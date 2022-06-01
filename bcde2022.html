@@ -1,0 +1,466 @@
+---
+layout: default
+permalink: /bcde2022/
+title: BCDE2022
+image: banner2022.png
+modal: all
+---
+
+<!-- Begin Top Section -->
+<section id="top-section" class="top-section image-section {% if page.image %}enable-overlay{% endif %}" style="{% if page.image %}background-image: url('{{ site.baseurl }}/img/sections-background/{{page.image}}');{% elsif page.color %}background: {{ page.color }}{% endif %}">
+    <div class="overlay gradient-overlay"></div>
+
+<!-- Navigation -->
+	<header id="top-header" class="top-header">
+	    <div class="overlay white-solid"></div>
+	    <svg id="menu-trigger" class="menu-trigger icon icon-menu visible-xs" viewBox="0 0 32 32">
+	        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-menu"></use>
+	    </svg>
+	    <a href="{{ site.baseurl }}/" id="logo-header" class="logo-header">
+	        <div class="logo logo-footer"></div>
+	        <!-- <div class="logo logo-footer logo-gray pull-right"></div> -->
+	    </a>
+	    <nav class="st-menu st-effect" id="menu">
+	        <!-- <div class="logo-navbar logo logo-dark visible-xs"></div> -->
+	        <ul>
+	            {% for navigationLink in site.BCDEnavigationLinks %}
+	            <li>
+	                <a style="color:#F5A00F" class="{% if navigationLink.permalink != null and page.permalink == navigationLink.permalink %}current{% endif %}"  href="{% if navigationLink.permalink != null %} {{ navigationLink.permalink | prepend: site.baseurl }} {% else %} {{ navigationLink.link }} {% endif %}" {% if navigationLink.link != null %}target="_blank"{% endif %}>{{ navigationLink.text}}</a>
+	            </li>
+	            {% endfor %}
+	        </ul>
+	        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
+	            {% for bottomNavigationLink in site.bottomNavigationLinks %}
+	            <li>
+	                <a style="color:#C0CD2E" href="{% if bottomNavigationLink.permalink != null %} {{ bottomNavigationLink.permalink | prepend: site.baseurl }} {% else %} {{ bottomNavigationLink.link }} {% endif %}" {% if bottomNavigationLink.link != null %}target="_blank"{% endif %}>{{ bottomNavigationLink.text }}</a>
+	            </li>
+	            {% endfor %}
+	        </ul>
+	        {% for rightNavigationButton in site.rightNavigationButtons %}
+	        <a style="color:#C0CD2E" href="{% if rightNavigationButton.permalink != null %} {{ rightNavigationButton.permalink | prepend: site.baseurl }} {% else %} {{ rightNavigationButton.link }} {% endif %}" class="right-nav-button right-nav-button-hidden btn btn-primary waves-effect waves-button waves-light waves-float pull-right hidden-xs hidden-sm" {% if rightNavigationButton.link != null %}target="_blank"{% endif %}>
+	            {{ rightNavigationButton.text }}
+	        </a>
+	        {% endfor %}
+	    </nav>
+	</header>
+
+<!-- End navigation -->
+	<div class="content-wrapper">
+	    <div class="jumbotron text-left">
+	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
+	            <h1>
+								</br>
+                                </br>
+				</h1>
+	        </div>
+	    </div>
+    </div>
+</section>
+<!-- End Top Section -->
+
+
+<!-- About Section -->
+<section id="about" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.aboutBCDETitle }}</h3>
+                {% assign animationDelay = 0 %}
+                <h6>
+                    <div class="post-body" style="text-align:justify">
+                        Welcome to the official website of 13th version of the Bolivian Conference on Development Economics (BCDE2022).
+                        BCDE2022 will be held on <b>Thursday and Friday December 1st and 2nd, 2022, </b> at <a href="https://www.upb.edu.bo">Universidad Privada Boliviana (UPSA)</a>, La Paz, Bolivia.
+                    </br></br>
+                    The conference is organized by the <a href="https://www.sebol.org">Bolivian Society of Economists (SEBOL)</a>, <a href="https://www.upsa.edu.bo">Universidad Privada de Santa Cruz de la Sierra (UPSA)</a>, the <a href="https://www.inesad.edu.bo">Institute for Advanced Development Studies (INESAD)</a>, the <a href="https://www.abce-edu.org">Bolivian Academy of Economic Sciences (ABCE)</a>, and the <a href="http://sdsnbolivia.org">Sustainable Development Solutions Network Bolivia (SDSN Bolivia)</a>.                 
+                    </br>
+                    </br>
+                        BCDE2022 is planned to be held as an <b>in-person event</b>. Please visit this website for future updates about the conference.
+                    </div>
+                </h6>
+        </div>
+    </div>
+</section>
+
+
+
+<!-- Begin Rockstar Speakers Section -->
+<section id="rockstar-speakers" class="rockstar-speakers image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/hero-hands2.jpg);">
+<div class="overlay solid-overlay"></div>
+<div class="content-wrapper">
+	<div class="col-lg-10 col-lg-offset-1 rockstar-speakers-list">
+		<h3 id="rockstar-speaker-title">{{ site.rockstarSpeakersTitle }}</h3>
+		    <!-- <div class="content-wrapper">
+		        <div class="col-sm-8 col-sm-offset-2 appear-animation-trigger">
+		            {% for speaker in site.data.speakers_bcde2020 %}
+								{% if speaker.rockstar %}
+		            <div class="effect-wrapper col-md-4 col-sm-4 col-xs-12 appear-animation">
+		                <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
+		                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
+		                        <div class="overlay solid-overlay"></div>
+		                        {% if speaker.ribbon != null %}
+		                        <ul class="ribbon-wrapper">
+		                            {% for ribbon in speaker.ribbon %}
+		                            <li class="{{ ribbon["abbr"] | downcase }}">
+		                                <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
+		                                <p class="ribbon full-title">{{ ribbon["title"] }}</p>
+		                            </li>
+		                            {% endfor %}
+		                        </ul>
+		                        {% endif %}
+		                        <figcaption>
+		                            <div class="col-md-8 col-xs-8 text-left">
+		                                <h2 class="name">{{ speaker.name }} <span>{{ speaker.surname }}</span></h2>
+		                                <div class="clearfix"></div>
+		                                <span class="position">{{ speaker.company }}</span>
+		                            </div>
+		                        </figcaption>
+		                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+		                    </figure>
+		                </div>
+		            </div>
+								{% endif %}
+		            {% endfor %}
+		        </div>
+
+		    </div> -->
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for speaker in site.data.speakers_bcde2022 %}
+							{% if speaker.rockstar %}
+							{% assign colWidth = 12 | divided_by: 4 %}
+							<div class="judge col-md-{{ 4 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
+											<p class="name">{{ speaker.name }} {{ speaker.surname }}</p>
+											<span class="company">{{ speaker.company }}</span>
+                                            <!-- <span class="company">{{ speaker.bio }}</span> -->
+											<!-- <span class="link"><a href={{ judge.keynoteUrl }}>Watch the keynote.</a></span> -->
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
+			<div class="col-lg-10 col-lg-offset-1">
+							{% assign animationDelay = 0 %}
+						<h6>
+						<div class="post-body" style="text-align:justify">
+							<b>Marcela Eslava</b> is Professor and Dean of Economics at Universidad de Los Andes, in Bogotá, Colombia; a research affiliate of LACEA and IPA’s SME program; and a member of the directing board of RIDGE and the Regional Standing Committee for Latin America of the Econometric Society. She holds a Ph.D. degree from the University of Maryland at College Park. Her research focuses on the dynamics between firms and regulations, the relationship between firm growth, productivity evolution, firm demand, informality, employment, and policies to deal with the productivity deficit in developing economies. Professor Eslava's research has been published in leading international academic journals in Economics, such as the American Economic Review, Journal of Development Economics, the Review of Economics and Statistics, among others.</br></br>
+                            
+                            <b>José Antonio Ocampo</b> is Co-Director of the Economic and Political Development Concentration in the School of International and Public Affairs at Columbia University. In 2012–2013 he chaired the panel created by the IMF Board to review the activities of the IMF’s Independent Evaluation Office; in 2008–2010, he served as co-director of the UNDP/OAS Project on “Agenda for a Citizens’ Democracy in Latin America”; and in 2009 a Member of the Commission of Experts of the UN General Assembly on Reforms of the International Monetary and Financial System. Ocampo received his BA in economics and sociology from the University of Notre Dame in 1972 and his Ph.D. in economics from Yale University in 1976. He served as Professor of Economics at Universidad de Los Andes and of Economic History at the National University of Colombia, and Visiting Fellow at the Universities of Cambridge, Oxford, and Yale. 
+                            </br></br>
+                            
+							<b>Sergio Urzua</b> is Associate Professor in the Department of Economics at the University of Maryland. He is a Research Associate at the NBER, Research Fellow at IZA, and International Research Fellow at Clapes-UC. His research has quantified the effects of cognitive and socio-emotional skills on labor market outcomes, schooling choices, risky behaviors, and the intergenerational transmission of cognitive and socio-emotional capabilities. He has also investigated the impact of attending child-care centers on children's cognitive and socio-emotional, documenting positive and negative impacts depending on the quality of the service. He holds a Ph.D. from the University of Chicago in 2007. </br></br>
+
+						</div>
+						</h6>
+
+			</div>
+
+
+
+		<!-- <h4 id="rockstar-speaker-subtitle">{{ site.rockstarSpeakersSubTitle }}</h4> -->
+		<div class="clearfix"></div>
+			<div class="row">
+							{% assign animationDelay = 0 %} {% for judge in site.data.speakers_bcde2021 %}
+							{% if judge.invited %}
+							{% assign colWidth = 12 | divided_by: 3 %}
+							<div class="judge col-md-{{ 3 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ judge.thumbnailUrl }})"></div>
+											<p class="name">{{ judge.name }} {{ judge.surname }}</p>
+											<span class="company">{{ judge.company }}</span>
+											<!--<span class="company">{{ judge.title }}</span> -->
+							</div>
+							{% assign animationDelay = animationDelay | plus:200 %}
+							{% assign check = forloop.index | modulo:5 %}
+							{% if check == 0 %}
+							<div class="clearfix visible-xs"></div>
+							{% endif %}
+							{% endif %}
+							{% endfor %}
+			</div>
+
+			<!-- <span class="bordered">
+			<a href="{{ site.baseurl }}/speakers/" class="bottom-section-link waves-effect waves-button waves-light">{{ site.rockstarSpeakersButtonText }}</a>
+			</span> -->
+	</div>
+</div>
+
+
+</section>
+<!-- End Rockstar Speakers Section -->
+
+
+
+<!-- Begin Call for paper Section -->
+<section id="about" class="about">
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			{% assign animationDelay = 0 %}
+
+            <h3>Call For Papers</h3>
+                <h6>
+                <div class="post-body" style="text-align:justify">
+                    BCDE2022 invites individual submission of research papers to be presented in parallel contributed sessions. Submissions in all research areas related to development economics are welcome. We also encourage submissions of work at the intersection of different fields and disciplines, in particular those that provide novel insights related to development economics.
+                    </br></br>
+
+                    All submitted papers will be reviewed prior to acceptance for presentation, and all applicants will be notified of the outcome by email.
+                    
+                    </br></br>
+                    Submit your papers here:<a href="https://editorialexpress.com/conference/BCDE2022/"> https://editorialexpress.com/conference/BCDE2022/</a>
+                
+                    </br></br>
+                    
+                    <h5>Thematic Sessions</h5>
+
+                    Proposals for an entire thematic session are also welcome. For this, please submit three (3) papers individually using the link above and email the conference organizers to alert them about your proposed thematic session. Please note that all papers submitted as part of a thematic session will be reviewed individually. A thematic session will be formed if all papers are accepted. Otherwise, individually accepted papers will be allocated to parallel contributed sessions.</br></br>
+
+                    <h5>Important Dates</h5>
+
+                    Paper submission deadline: <b>Wednesday, August 31st, 2022.</b></br>
+                    Paper status notification: <b>Saturday, October 1st, 2022.</b></br>
+                    Registration deadline for accepted papers: <b>Monday, October 31st, 2022.</b></br>
+                    
+                    <h5> More details</h5>
+                    For additional information, read the full call for papers <a href="/bcde2022/callforpapers/">HERE.</a> </br></br>
+
+                    <h5>Contact</h5>
+                    For any questions, please contact us at: <a href="mailto:email@example.com">bcde2022@sebol.org</a>
+                </div>
+                </h6>
+
+						<!-- {% for about in site.aboutBCDE2022 %}
+						{% assign colWidth = 12 | divided_by: 1 %}
+						<div class="col-md-{{ colWidth }} col-xs-6">
+								<div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+										<h5>{{ about.title }}</h5>
+										<img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+										<p>{{ about.text }}</p>
+								</div>
+						</div>
+						{% assign animationDelay = animationDelay | plus:500 %}
+						{% assign check = forloop.index | modulo:1 %}
+						{% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+						{% endfor %} -->
+		</div>
+
+	</div>
+</section>
+<!-- End Call for Papers Section -->
+
+
+
+<!-- Begin Statistic Section -->
+<section id="statistic" class="statistic image-section parallax" style="background-image: url({{ site.baseurl }}/img/sections-background/econ-hero.jpg);">
+	<div class="overlay solid-overlay"></div>
+	<div class="content-wrapper">
+		<div class="col-lg-10 col-lg-offset-1">
+			{% assign animationDelay = 0 %}
+            <h3>About the Conference</h3>
+            <h6>
+            <div class="post-body" style="text-align:justify">
+                The Bolivian Conference on Development Economics aims at bringing together local and international scholars for the exchange of ideas and discussion of recent research on all areas related to economic development.
+                </br>
+                </br>
+            </div>
+            </h6>
+
+            {% for statistic in site.bcde2022stats %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            <div class="col-md-{{ colWidth }} col-xs-6">
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+					<div class="stat-info">{{ statistic.info}}</div>
+					<hr>
+					<p class="small">{{ statistic.detail}}</p>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            {% endfor %}
+
+		</div>
+
+	</div>
+</section>
+<!-- End Statistic Section -->
+
+
+<!-- Venue Section -->
+<!-- End Venue Section -->
+
+
+
+<!-- Begin Partners Section -->
+<section id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+             <!-- <h3>Organizers</h3>
+             <h5> We are thankful for the support of the following institutions </h5> -->
+               {% for partner in site.data.organizers2022 %}
+               <h3>{{ partner.group }}</h3>
+
+               <ul class="list-inline">
+                   {% for element in partner.elements %}
+                   <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                       <a href="{{ element.link }}" target="_blank">
+                           <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                       </a>
+                   </li>
+                   {% endfor %}
+               </ul>
+               {% endfor %}
+
+               <!-- <h4> Executive Committee</h4>
+               <h6>
+								 <div class="col-lg-10 col-lg-offset-3" style="text-align:justify">
+								 	<b>Sergio Daga</b>, UPSA, SEBOL, <b>Co-Chair</b></br></br>
+								 	<b>Fabiola Saavedra Caballero</b>, UCLouvain, SEBOL, <b>Co-Chair</b></br></br>
+                  <b>Lykke E. Andersen</b>, SDSN Bolivia, UPB, ABCE, SEBOL, INESAD </br></br>
+									<b>Beatriz Muriel</b>, INESAD, ABCE, SEBOL</br></br>
+								 </div>
+							 </h6>
+
+							 <h4> Scientific Committee</h4>
+               <h6>
+								 <div class="col-lg-10 col-lg-offset-3" style="text-align:justify">
+									 <b>Diego Escobari</b>, University of Texas Rio Grande Valley, SEBOL, ABCE</br></br>
+									 <b>Alejandro Herrera</b>, IDB, SEBOL</br></br>
+									 <b>Pablo Selaya</b>, University of Copenhagen, SEBOL, ABCE</br></br>
+								 </div>
+
+						 <h4> Conference Team</h4>
+							 </h6>
+
+							<h6>
+               <div class="col-lg-10 col-lg-offset-3" style="text-align:justify">
+
+                    <b>Stefano Canelas</b>, SDSN Bolivia</br></br>
+                    <b>Pablo Cuba Borda</b>, Federal Reserve Board, SEBOL</br></br>
+                    <b>Luiz Gonzáles</b>, CLAPES-UC, SEBOL</br></br>
+                    <b>Oscar Molina</b>, UPB, ABCE, SDSN Bolivia, INESAD, SEBOL</br></br>
+                    <b>Joaquín Morales</b>, UPB, SEBOL</br></br>
+                    <b>Andrés Morillas</b>, INESAD</br></br>
+                    <b>Mauricio Tejada</b>, ILADES, SEBOL
+               </div>
+               </h6> -->
+        </div>
+    </div>
+</section>
+<!-- End Partners Section -->
+
+<!-- Begin Schedule Section
+<section id="schedule" class="schedule">
+      <div class="content-wrapper text-center">
+          <div class="col-md-8 col-sm-10 col-lg-offset-2 col-md-offset-1 col-sm-offset-1">
+            <h5>{{ "Conference Program for BCDE9" }}</h5>
+              <p>
+                The printed version of the conference program is available <a href="/assets/progama9BCDE.pdf" target="_blank"> HERE </a>.
+              </p>
+              <p>
+                Check the venue map to locate events and sessions <a href="/assets/campusMap.pdf" target="_blank"> HERE </a>.
+              </p>
+          </div>
+      </div>
+    <div class="content-wrapper">
+
+        {% for day in site.data.schedule %}
+        <div class="schedule-table col-lg-10 col-md-8 col-md-offset-1">
+            <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
+            <div class="timeslot track-header stick-header">
+
+                <div class="timeslot-elements flexbox-wrapper">
+                    {% for track in day.tracks %}
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
+                        <h5 class="track-header-title">{{ track.title }}</h5>
+                    </div>
+                    {% endfor %}
+                    <div class="track-header-slot col-xs-12 visible-xs">
+                        <h5 class="slot-detail track-header-title"></h5>
+                    </div>
+                </div>
+            </div>
+            {% for timeslot in day.timeslots %}
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="timeslot-elements flexbox-wrapper">
+                          {% assign startTime = timeslot.startTime | split: ":" %}
+                          {% assign endTime = timeslot.endTime | split: ":" %}
+                          <h6  align="left" class="slot-title" itemprop="name">{{ startTime[0] }}{{ startTime[1] }}</br>{{ endTime[0] }}<span>{{ endTime[1] }}</span></h6>
+
+                       <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
+                          {% assign endTime = timeslot.endTime | split: ":" %}
+                          {{ endTime[0] }}<span>{{ endTime[1] }}</span>
+                      </time>
+                    {% for slot in timeslot.sessionIds %}
+                        {% assign slotColWidth = 12 | divided_by: forloop.length %}
+                          {% assign slotIndex = forloop.index0 %}
+                        {% if slot != 404 %}
+                            {% for session in site.data.sessions %}
+                                {% if slot == session.id and session.service == null %}
+                                <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                                    <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
+                                    <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
+                                        <h6  align="left" class="slot-title" itemprop="name">{{ session.title }}</h6>
+                                        <h6  align="left" class="slot-title" itemprop="name">Room: {{ session.place }}</h6>
+                                        {% if session.description != null %}
+                                        <p align="center" class="slot-title" itemprop="name">{{ session.description }}</p>
+                                        {% endif %}
+                                        {% if session.location != null %}
+                                          <h6  align="left" class="slot-title" itemprop="name">{{ slot.location }}</h6>
+                                        {% endif %}
+                                        <h6 class="name">
+                                            {% for speaker in site.data.speakers %}
+                                                {% for session_speaker in session.speakers %}
+                                                    {% if session_speaker == speaker.paperid %}
+                                                     <p align="left">
+                                                      <span>{{ speaker.name }} {{ speaker.surname }} <span>{{ speaker.company }}</span></span>
+                                                    </p>
+
+                                                        {% if speaker.coauthors != null %}
+                                                        <p align="left" style="font-size:65%;"> <a href="https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=BCDE9&paper_id={{ speaker.paperid }}"> {{ speaker.title }}</a>. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. {{ speaker.coauthors }}</p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
+                                                        {% else %}
+                                                        <p align="left" style="font-size:65%;">{{ speaker.title }}. <strong> {{ speaker.name }} {{ speaker.surname }} ({{ speaker.company }})</strong>. </p>
+                                                        {% if speaker.discussant != null %}
+                                                        <p align="left" style="font-size:65%;"> Panelists: {{ speaker.discussant }} </p>
+                                                        {% endif %}
+                                                        {% endif %}
+                                                    {% endif %}
+                                                {% endfor %}
+                                            {% endfor %}
+                                        </h6>
+                                    </div>
+                                </div>
+                                {% elsif slot == session.id and session.service != null %}
+                                <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
+                                    <div class="color-line"></div>
+                                    <div class="slot-content">
+                                        <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
+                                        {% if session.place != null %}
+                                        <h6 class="slot-title" itemprop="name">{{ session.place }}</h6>
+                                        {% endif %}
+                                        {% if session.description != null %}
+                                        <p class="service-description">{{ session.description }}</p>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                {% endif %}
+                            {% endfor %}
+                        {% else %}
+                        <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</section>
+<!-- End Schedule Section -->
