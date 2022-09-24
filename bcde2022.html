@@ -127,7 +127,7 @@ modal: all
 							{% assign animationDelay = 0 %} {% for speaker in site.data.speakers_bcde2022 %}
 							{% if speaker.rockstar %}
 							{% assign colWidth = 12 | divided_by: 4 %}
-							<div class="judge col-md-{{ 4 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+							<div class="judge col-md-{{ 3 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}</p>
 											<span class="company">{{ speaker.company }}</span>
@@ -135,7 +135,7 @@ modal: all
 											<!-- <span class="link"><a href={{ judge.keynoteUrl }}>Watch the keynote.</a></span> -->
 							</div>
 							{% assign animationDelay = animationDelay | plus:200 %}
-							{% assign check = forloop.index | modulo:5 %}
+							{% assign check = forloop.index | modulo:4 %}
 							{% if check == 0 %}
 							<div class="clearfix visible-xs"></div>
 							{% endif %}
@@ -151,8 +151,11 @@ modal: all
                             
                             <b>José Antonio Ocampo</b> is Co-Director of the Economic and Political Development Concentration in the School of International and Public Affairs at Columbia University. In 2012–2013 he chaired the panel created by the IMF Board to review the activities of the IMF’s Independent Evaluation Office; in 2008–2010, he served as co-director of the UNDP/OAS Project on “Agenda for a Citizens’ Democracy in Latin America”; and in 2009 a Member of the Commission of Experts of the UN General Assembly on Reforms of the International Monetary and Financial System. Ocampo received his BA in economics and sociology from the University of Notre Dame in 1972 and his Ph.D. in economics from Yale University in 1976. He served as Professor of Economics at Universidad de Los Andes and of Economic History at the National University of Colombia, and Visiting Fellow at the Universities of Cambridge, Oxford, and Yale. 
                             </br></br>
-                            
+
+                            <b>Carlota Sanz</b> is is DEAL’s Co-founder and leads the development of DEAL's emerging strategy. She combines her corporate experience with her passion for regenerative economics to design DEAL in a way that is future-fit. Carlota was co-director of Economy for the Common Good UK and continues to be a member of ECG's Knowledge Hub, which continually refines ECG's standards for business accreditation and transformation. For over 10 years, she worked as a management consultant in the financial sector in Spain, for KPMG, Deloitte, Santander, and Metro Bank, based in Spain and the UK. She studied Business and Economics at Carlos III University in Madrid and she has studied grass-roots business transformation, and narratives of new economics, at Schumacher College.</br></br>
+
 							<b>Sergio Urzua</b> is Associate Professor in the Department of Economics at the University of Maryland. He is a Research Associate at the NBER, Research Fellow at IZA, and International Research Fellow at Clapes-UC. His research has quantified the effects of cognitive and socio-emotional skills on labor market outcomes, schooling choices, risky behaviors, and the intergenerational transmission of cognitive and socio-emotional capabilities. He has also investigated the impact of attending child-care centers on children's cognitive and socio-emotional, documenting positive and negative impacts depending on the quality of the service. He holds a Ph.D. from the University of Chicago in 2007. </br></br>
+
 
 						</div>
 						</h6>

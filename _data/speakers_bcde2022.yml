@@ -16,7 +16,7 @@
   id: 2
   name: "José Antonio"
   surname: "Ocampo"
-  company: "School of International and Public Affairs at Columbia University"
+  company: "SIPA at Columbia University"
   title: "Keynote Speaker"
   bio: ""
   thumbnailUrl: Ocampo.png
@@ -31,5 +31,16 @@
   title: "Keynote Speaker"
   bio: ""
   thumbnailUrl: Urzua.png
+  keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
+  rockstar: true
+
+-
+  id: 4
+  name: "Carlota"
+  surname: "Sanz"
+  company: "Doughnut Economics Action Lab"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: CarlotaSanz.png
   keynoteUrl: https://www.facebook.com/UPBoficial/videos/305429770659989/
   rockstar: true
