@@ -86,7 +86,7 @@ BCDEnavigationLinks:
  - {permalink: "callforpapers/", text: "Call for papers"}
 #  - {permalink: "registration/", text: "Registration"}
  - {permalink: "program/", text: "Program"}
-#  - {permalink: "hotels/", text: "Hotels"}
+ - {permalink: "travel/", text: "Travel Info"}
 #  - {permalink: "explore/", text: "Explore"}
  - {permalink: "../conferencias/", text: "Past Conferences"}
  - {permalink: "/", text: "Sebol"}

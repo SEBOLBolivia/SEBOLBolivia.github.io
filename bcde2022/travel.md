@@ -40,9 +40,7 @@ We recommend four hotels (highlighted in yellow) from which we offer a door-to-d
 *	Hotel Calacoto - [https://www.hotelcalacoto.com/](https://www.hotelcalacoto.com/) 
 *	Hotel Rennova -  [https://hotelrennova.com/en/hotel-rennova-2/](https://hotelrennova.com/en/hotel-rennova-2/)
 
-
-
- ##### Transportation
+##### Transportation
 The transportation system of UPB will be available to and from the conference venue from Plaza Humboldt (highlighted in orange) which is about 20 minutes distance, before and after each parallel session. 
 
 <!-- #### Hotel Maps and Venue
