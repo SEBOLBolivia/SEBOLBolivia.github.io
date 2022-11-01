@@ -1,7 +1,7 @@
 ---
 layout: post-bcde
 title:  "Travel Information"
-image: banner2022.png
+image: bannerBCDE2022.jpeg
 isStaticPost: true
 tags: '/bcde2022/'
 ---
