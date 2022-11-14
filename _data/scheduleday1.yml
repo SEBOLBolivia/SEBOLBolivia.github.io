@@ -114,7 +114,7 @@
     endTime: "11:30"
     content: 
 
--   sessionName: "Invited session - Orbita"
+-   sessionName: "Invited session - COSUDE-BID"
     id: [007]
     day: "1"
     subtype: "invited"
@@ -123,7 +123,7 @@
     endTime: "12:30"
     topic: "¿Cómo enfrentar los retos del mercado laboral? La experiencia boliviana en programas de formación y empleo"
 
--   sessionName: "Invited session - COSUDE-BID"
+-   sessionName: "Invited session - ORBITA"
     id: [008]
     day: "1"
     subtype: "invited"
@@ -194,7 +194,7 @@
 -   sessionName: "Remote Parallel Session R1: Social protection and inequality "
     id: [012]
     day: "1"
-    subtype: "remote parallel"
+    subtype: "parallel"
     location: "Oruro room"
     startTime: "11:30"
     endTime: "12:30"
