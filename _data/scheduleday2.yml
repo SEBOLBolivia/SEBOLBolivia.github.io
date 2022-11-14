@@ -172,7 +172,7 @@
 -   sessionName: "Remote Parallel Session R2: Gaps in labor markets"
     id: [028]
     day: "2"
-    subtype: "remote parallel"
+    subtype: "parallel"
     location: "Oruro Room"
     startTime: "11:30"
     endTime: "12:30"
