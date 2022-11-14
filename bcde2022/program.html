@@ -34,10 +34,10 @@ tags: '/bcde2022/'
 
                     {% endif %}
 
-                    <p  align="left" style="font-weight: 300; color:#0d8867;">Location: {{day.location}}</p>                                           
+                    <p  align="left" style="font-weight: 300; font-size:100%; color:#0d8867;">Location: {{day.location}}</p>                                           
                     
                     {% if day.chair != null %}
-                        <p  align="left" style="font-weight: 300; color:#396db4;">Session chair: {{day.chair}}</p>                                           
+                        <p  align="left" style="font-weight: 300; font-size:100%; color:#396db4;">Session chair: {{day.chair}}</p>                                           
                     {% endif %}
 
 
@@ -57,8 +57,8 @@ tags: '/bcde2022/'
                         <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
                         <h6 align="left" class="slot-title" style="font-size:80%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </h6> -->
                     {% else %}                    
-                        <!-- <p align="center" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>  -->
-                        <p align="center"  style="font-size:120%; font-weight: 400;">{{ presenter.presenter }} </p>
+                        <p align="center" class="slot-title" style="font-size:120%; font-weight: 400; font-style: italic;" itemprop="name"><span> {{presenter.title}} </span></p> 
+                        <p align="center"  style="font-size:120%; font-weight: 400;color:#396db4;">{{ presenter.presenter }} </p>
                         <p align="center"  style="font-size:100%; font-weight: 300;">{{ presenter.affiliation }} </p>
                     {% endif %}
 
@@ -92,10 +92,10 @@ tags: '/bcde2022/'
 
                     {% endif %}
                     
-                    <p  align="left" style="font-weight: 300; color:#0d8867;">Location: {{day.location}}</p>                                           
+                    <p  align="left" style="font-weight: 300; font-size:100%; color:#0d8867;">Location: {{day.location}}</p>                                           
                     
                     {% if day.chair != null %}
-                        <p  align="left" style="font-weight: 300; color:#396db4;">Session chair: {{day.chair}}</p>                                           
+                        <p  align="left" style="font-weight: 300; font-size:100%; color:#396db4;">Session chair: {{day.chair}}</p>                                           
                     {% endif %}
 
 
@@ -104,7 +104,7 @@ tags: '/bcde2022/'
                 <div class="flex-justify-between">
                     {% for presenter in day.content %}
                     
-                    {% if day.subtype != "keynote" %}
+                    {% if day.subtype == "parallel" %}
 
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">                    
@@ -115,8 +115,8 @@ tags: '/bcde2022/'
                         <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
                         <h6 align="left" class="slot-title" style="font-size:80%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </h6> -->
                     {% else %}                    
-                        <!-- <p align="center" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>  -->
-                        <p align="center"  style="font-size:120%; font-weight: 400;">{{ presenter.presenter }} </p>
+                        <p align="center" class="slot-title" style="font-size:120%; font-weight: 400; font-style: italic;" itemprop="name"><span> {{presenter.title}} </span></p> 
+                        <p align="center"  style="font-size:120%; font-weight: 400;color:#396db4;">{{ presenter.presenter }} </p>
                         <p align="center"  style="font-size:100%; font-weight: 350;">{{ presenter.affiliation }} </p>
                     {% endif %}
 
