@@ -1,0 +1,258 @@
+-   sessionName: "Keynote Address 3"
+    id: [018]
+    day: "2"
+    subtype: "keynote"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "08:45"
+    endTime: "09:50"
+    chair: "Lykke E. Andersen (SDSN - Bolivia)"
+    content: 
+        - {
+            presenter: "Carlota Sanz",
+            title: "Economía Donut - Herramientas para transformar lugares",
+            affiliation: "Dougnut Economics Action Lab"
+        }
+
+-   sessionName: "Parallel Session C1: Experimental Economics"
+    id: [019]
+    day: "2"
+    subtype: "parallel"
+    location: "La Paz Auditorium"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Joaquín Morales"
+    content: 
+        - {
+            presenter: "Marcos Agurto Adrianzén",
+            title: "To inspire and to inform: The role of role models",
+            affiliation: "Universidad de Piura"
+        }
+        - {
+            presenter: "Soraya Roman",
+            title: "What nudges consumers towards organic food? A lab-in-the-field experiment in Bolivia",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "Joaquin Morales Belpaire",
+            title: "Do coercive and reputational institutions build up interpersonal trust? Experimental evidence from informal traders in Bolivia",
+            affiliation: "Universidad Privada Boliviana"
+        }
+
+-   sessionName: "Parallel Session C2: Multidimensional approaches to poverty and well-being"
+    id: [020]
+    day: "2"
+    subtype: "parallel"
+    location: "WOW Room"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Ricardo Nogales"
+    content: 
+        - {
+            presenter: "Sergio Mansilla Bustamante",
+            title: "Evolution of Multidimensional Energy Poverty Risk in Bolivia between 2005-2019",
+            affiliation: "Fundación INESAD"
+        }
+        - {
+            presenter: "Ricardo Nogales",
+            title: "On Track or Not? Projecting the Global Multidimensional Poverty Index",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "Santiago Albarracin",
+            title: "Equality of opportunity, different well-being approaches for public policy improvement",
+            affiliation: "Universidad Privada Boliviana"
+        }
+
+-   sessionName: "Parallel Session C3: Advances in Data Science, Digital Education and Mathematical Economics"
+    id: [021]
+    day: "2"
+    subtype: "parallel"
+    location: "Oruro Room"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Pamela Córdova"
+    content: 
+        - {
+            presenter: "Pamela Córdova",
+            title: "Developing Skills to beat Mathematics: JaqueMate Project",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "Mauro Delboy",
+            title: "Event Detection Using Hierarchical Clustering on Stock Indexes",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "J. Mauricio Villalba",
+            title: "Bankruptcy Equilibrium: Efficiency and Contagion",
+            affiliation: "Universidad Privada Boliviana"
+        }
+
+-   sessionName: "Coffee Break"
+    id: [022]
+    day: "2"
+    subtype: "service"
+    location: "Central Garden - Jardín Central"
+    startTime: "11:10"
+    endTime: "11:30"
+    content: 
+
+-   sessionName: "Invited session - Net Zero"
+    id: [023]
+    day: "2"
+    subtype: "invited"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "11:30"
+    endTime: "12:30"
+    topic: "NET Zero Strategy at UPB"
+
+-   sessionName: "Invited session - BOWEN"
+    id: [024]
+    day: "2"
+    subtype: "invited"
+    location: "La Paz Auditorium"
+    startTime: "11:30"
+    endTime: "12:30"
+    topic: "Technical and soft skills for graduate school"
+
+-   sessionName: "Lunch"
+    id: [025]
+    day: "2"
+    subtype: "service"
+    location: "Soccer Field - Cancha de Fútbol"
+    startTime: "12:30"
+    endTime: "13:30"
+    content: 
+
+-   sessionName: "Parallel Session D1: Social norms and persistent institutions"
+    id: [026]
+    day: "2"
+    subtype: "parallel"
+    location: "La Paz Auditorium"
+    startTime: "13:30"
+    endTime: "15:00"
+    chair: "Antonio Saravia"
+    content: 
+        - {
+            presenter: "Cesar Huaroto ",
+            title: "The Legacy of Resistance. Evidence from the Chilean Invasion of Peru in the XIX Century",
+            affiliation: "Pontificia Universidad Católica de Chile"
+        }
+        - {
+            presenter: "Antonio Saravia",
+            title: "You play the way you live: Aggressive soccer play and social capital",
+            affiliation: "Mercer University"
+        }
+
+-   sessionName: "Parallel Session D2: Spread and consequences of the COVID-19 pandemic"
+    id: [027]
+    day: "2"
+    subtype: "parallel"
+    location: "WOW Room"
+    startTime: "13:30"
+    endTime: "15:00"
+    chair: "Sara Santander"
+    content: 
+        - {
+            presenter: "Daniel Prudencio ",
+            title: "The COVID-19 Pandemic and Risk of Corruption",
+            affiliation: "Tecnologico de Monterrey"
+        }
+        - {
+            presenter: "Francisco Galarza",
+            title: "The role of urban rail transport in the spread of coronavirus: evidence from Line 1 of the Lima Metro",
+            affiliation: "Universidad del Pacifico"
+        }
+        - {
+            presenter: "Sara Santander",
+            title: "Leaving the most vulnerable behind? School closures during the COVID-19 pandemic and pre-existing life struggles in Bolivia",
+            affiliation: "Universidad Privada Boliviana"
+        }
+
+-   sessionName: "Remote Parallel Session R2: Gaps in labor markets"
+    id: [028]
+    day: "2"
+    subtype: "remote parallel"
+    location: "Oruro Room"
+    startTime: "11:30"
+    endTime: "12:30"
+    chair: "Fabiola Saavedra"
+    content: 
+        - {
+            presenter: "Fabiola Saavedra Caballero",
+            title: "The Efficiency Legacy of Higher Education Institutions in the Labor Market",
+            affiliation: "UCLouvain- SEBOL - BOWEN"
+        }
+        - {
+            presenter: "Can Sever",
+            title: "Legal Gender Equality as a Catalyst for Convergence",
+            affiliation: "International Monetary Fund"
+        }
+        - {
+            presenter: "Carlos Chavez Padilla",
+            title: "Who wins and losses when there is an increase in the minimum wage? Closing the ethnic income gaps in Peru",
+            affiliation: "Universidad Nacional Mayor de San Marcos"
+        }
+
+-   sessionName: "Plenary session CAF"
+    id: [029]
+    day: "2"
+    subtype: "invited"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "15:00"
+    endTime: "16:00"
+    chair: "Sergio Daga (SEBOL)"
+    topic: "RED 2021 - Caminos para la Intergración"
+    content: 
+        - {
+            presenter: "Lian Allub",
+            affiliation: "CAF - banco de desarrollo de América Latina"
+        }
+
+-   sessionName: "Coffee Break"
+    id: [030]
+    day: "2"
+    subtype: "service"
+    location: "Central Garden - Jardín Central"
+    startTime: "16:00"
+    endTime: "16:20"
+    content: 
+
+-   sessionName: "Plenary session BID"
+    id: [031]
+    day: "2"
+    subtype: "plenary"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "16:20"
+    endTime: "17:20"
+    chair: "Joaquín Morales (SEBOL)"
+    topic: "Impacto de la COVID-19 en el mercado laboral boliviano"
+    content: 
+        - {
+            presenter: "Manuel Urquidi",            
+            affiliation: "Banco Interamericano de Desarollo"
+        }
+
+-   sessionName: "Keynote Adress 4"
+    id: [032]
+    day: "2"
+    subtype: "keynote"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "17:20"
+    endTime: "18:20"
+    chair: "Beatriz Muriel (INESAD)"
+    content: 
+        - {
+            presenter: "Marcela Eslava",
+            title: "Desarrollo empresarial y desigualdad en América Latina",
+            affiliation: "Universidad de los Andes"
+        }
+
+-   sessionName: "Farewell Cocktail"
+    id: [033]
+    day: "2"
+    subtype: "service"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "18:30"
+    endTime: "19:30"
+    content: 

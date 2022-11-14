@@ -1,0 +1,274 @@
+-   sessionName: "Welcome Address"
+    id: [001]
+    day: "1"
+    subtype: "keynote"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "08:30"
+    endTime: "08:45"
+    content: 
+        - {
+            presenter: "Francisco Mayorga",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "Diego Escobari",
+            affiliation: "Sociedad de Economistas de Bolivia"
+        }
+        
+-   sessionName: "Keynote Address 1"
+    id: [002]
+    day: "1"
+    subtype: "keynote"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "08:45"
+    endTime: "09:50"
+    chair: "Oscar Molina Tejerina (UPB)"
+    content: 
+        - {
+            presenter: "José Antonio Ocampo",
+            title: "Los desafíos que genera el contexto económico mundial para América Latina",
+            affiliation: "Minister of Finance and Public Credit of Colombia"
+        }
+
+-   sessionName: "Parallel Session A1: Macroeconomic Policy and Foreign Aid"
+    id: [003]
+    day: "1"
+    subtype: "parallel"
+    location: "La Paz Auditorium"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Pablo Mendieta (CAINCO)"
+    content: 
+        - {
+            presenter: "Alejandro Galoppo",
+            title: "Punto de equilibrio en la generación de divisas por la comercialización de hidrocarburos y derivados",
+            affiliation: "Independent",
+        }
+        - {
+            presenter: "Calumn Hamilton",
+            title: "Foreign Aid and Structural Change",
+            affiliation: "University of Groningen"
+        }
+        - {
+            presenter: "Pablo Mendieta",
+            title: "Poor taxation on the rich: An examination of wealth tax in Bolivia",
+            affiliation: "Chamber of Industry and Commerce of Santa Cruz"
+        }
+
+-   sessionName: "Parallel Session A2: Labor Markets, Informality, and Gender Issues "
+    id: [004]
+    day: "1"
+    subtype: "parallel"
+    location: "WOW Room"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Mauricio Tejada (UAH)"
+    content: 
+        - {
+            presenter: "Ernesto Bernal",
+            title: "Mujer indígena y la desigualdad de oportunidades en Bolivia",
+            affiliation: "Universidad Técnica de Oruro",
+        }
+        - {
+            presenter: "Juan Iriarte",
+            title: "Calidad de Empleo en mujeres trabajadoras por cuenta propia",
+            affiliation: "Universidad Privada Boliviana",
+        }
+        - {
+            presenter: "Mauricio Tejada",
+            title: "Working and Saving Informally",
+            affiliation: "Universidad Alberto Hurtado"
+        }
+
+-   sessionName: "Parallel Session A3: Empirical Urban Economics"
+    id: [005]
+    day: "1"
+    subtype: "parallel"
+    location: "Oruro Room"
+    startTime: "09:50"
+    endTime: "11:10"
+    chair: "Diego Escobari (SEBOL)"
+    content: 
+        - {
+            presenter: "Andrea Alcaraz Rivero",
+            title: "What were the Conditions of some Bolivian Cities' Peripheric Households during an Electricity Supporting Scheme due to the COVID Pandemic? A Survey Analysis",
+            affiliation: "Universidad Privada Boliviana",
+        }
+        - {
+            presenter: "Diego Escobari ",
+            title: "Price Exuberance and Contagion across Housing Markets: Evidence from US Metropolitan Areas",
+            affiliation: "The University of Texas Rio Grande Valley"
+        }
+        - {
+            presenter: "Francisco Galarza",
+            title: "Willingness to Pay for Improved Water Service: Evidence from Urban Peru",
+            affiliation: "Universidad del Pacifico"
+        }
+
+-   sessionName: "Coffee Break"
+    id: [006]
+    day: "1"
+    subtype: "service"
+    location: "Central Garden - Jardín Central"
+    startTime: "11:10"
+    endTime: "11:30"
+    content: 
+
+-   sessionName: "Invited session - Orbita"
+    id: [007]
+    day: "1"
+    subtype: "invited"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "11:30"
+    endTime: "12:30"
+    topic: "¿Cómo enfrentar los retos del mercado laboral? La experiencia boliviana en programas de formación y empleo"
+
+-   sessionName: "Invited session - COSUDE-BID"
+    id: [008]
+    day: "1"
+    subtype: "invited"
+    location: "La Paz Auditorium"
+    startTime: "11:30"
+    endTime: "12:30"
+    topic: "Observatorio Boliviano para la Industria Turística Sostenible"
+
+-   sessionName: "Lunch"
+    id: [009]
+    day: "1"
+    subtype: "service"
+    location: "Soccer Field - Cancha de Fútbol"
+    startTime: "12:30"
+    endTime: "13:30"
+    content: 
+
+-   sessionName: "Parallel Session B1:  Industrial Economics and Trade"
+    id: [010]
+    day: "1"
+    subtype: "parallel"
+    location: "WOW Room"
+    startTime: "13:30"
+    endTime: "15:00"
+    chair: "Luis Castro (CIDE y UPB)"
+    content: 
+        - {
+            presenter: "Carlos Gustavo Machicado",
+            title: "Eficiencia técnica y asignativa en la industria manufacturera boliviana",
+            affiliation: "Universidad Católica Boliviana"
+        }
+        - {
+            presenter: "Segundo Camino-Mogro ",
+            title: "Firm growth, age and the intensity of international trade",
+            affiliation: "Universidad Complutense de Madrid"
+        }
+        - {
+            presenter: "Luis Castro Peñarrieta",
+            title: "Can Trade Policy Change Gender Equality? Evidence from Chile",
+            affiliation: "Centro de Investigación y Docencia Económicas (CIDE) and Universdad Privada Boliviana (s)"
+        }
+
+-   sessionName: "Parallel Session B2: Environment, energy, and vulnerabilities"
+    id: [011]
+    day: "1"
+    subtype: "parallel"
+    location: "La Paz Auditorium"
+    startTime: "13:30"
+    endTime: "15:00"
+    chair: "Lykke E. Andersen"
+    content: 
+        - {
+            presenter: "Andrea Alcaraz Rivero",
+            title: "An electricity cost supporting scheme on domestic consumption levels and household welfare: Quasi-experimental evidence from six Bolivian cities during the COVID-19 pandemic",
+            affiliation: "Universidad Privada Boliviana"
+        }
+        - {
+            presenter: "Lykke Andersen",
+            title: "Bolivia’s Net-Zero Path: Investment needs, challenges, and opportunities",
+            affiliation: "SDSN Bolivia"
+        }
+        - {
+            presenter: "Rodrigo Lopez Ergueta",
+            title: "Same flood, different story: on the heterogeneous effects of natural disasters among those inhabitants of at-risk areas",
+            affiliation: "Universidad Privada Boliviana"
+        }
+
+-   sessionName: "Remote Parallel Session R1: Social protection and inequality "
+    id: [012]
+    day: "1"
+    subtype: "remote parallel"
+    location: "Oruro room"
+    startTime: "11:30"
+    endTime: "12:30"
+    chair: "Leonardo Orihuela (EAFIT)"
+    content: 
+        - {
+            presenter: "Elmer Sánchez-Dávila ",
+            title: "The impact of economic growth and social protection expenditure on poverty reduction: Panel VAR evidence from Latin American countries",
+            affiliation: "University of Talca"
+        }
+        - {
+            presenter: "Fernando Rios-Avila ",
+            title: "Recovering income distribution in the presence of interval-censored data",
+            affiliation: "Levy Economics Institute of Bard College"
+        }
+        - {
+            presenter: "Leonardo Orihuela",
+            title: "Financial incentives for maternal and child care: Impact of a national program in Bolivia",
+            affiliation: "Universidad EAFIT"
+        }
+
+-   sessionName: "Plenary session - INESAD"
+    id: [013]
+    day: "1"
+    subtype: "invited"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "15:00"
+    endTime: "16:00"
+    topic: "Panel de debate: Situación y Perspectivas del Sistema de Pensiones Boliviano"
+
+-   sessionName: "Coffee Break"
+    id: [014]
+    day: "1"
+    subtype: "service"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "16:00"
+    endTime: "16:20"
+    content: 
+
+-   sessionName: "Plenary session - ABCE/SEBOL"
+    id: [015]
+    day: "1"
+    subtype: "invited"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "16:20"
+    endTime: "17:20"
+    chair: Oscar Molina (UPB)
+    topic: "Díalogos sobre coyuntúra económica de Bolivia "
+    content: 
+        - {
+            presenter: "Victoria Nuguer",
+            affiliation: Inter-American Development Bank
+        }
+
+-   sessionName: "Keynote Adress 2"
+    id: [016]
+    day: "1"
+    subtype: "keynote"
+    location: "Convention Center - Centro de Eventos"
+    startTime: "17:20"
+    endTime: "18:20"
+    chair: "Diego Escobari (SEBOL)"
+    content: 
+        - {
+            presenter: "Sergio Urzúa",
+            title: "The Transmission of Commodity Price Super-Cycles: Labor Market and Inequality",
+            affiliation: "University of Maryland"
+        }
+
+-   sessionName: "Conference Dinner (Presenters and Special Guests Only)"
+    id: [017]
+    day: "1"
+    subtype: "service"
+    location: "Margarita Restaurant"
+    startTime: "20:00"
+    endTime: "21:30"
+    content: 

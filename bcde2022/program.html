@@ -1,0 +1,137 @@
+---
+layout: post-bcde
+title: BCDE 2022 Program
+image: bannerBCDE2022.jpeg
+tags: '/bcde2022/'
+---
+
+<center>
+    <h4 style="color:#0d8867;"> <b>CONFERENCE PROGRAM</b> </h4>
+    <p> Please check back often for changes to the program</p>
+    <!-- <p>
+        The printed version of the conference program is available <a href="/assets/progama9BCDE.pdf" target="_blank"> HERE </a>.
+      </p>
+      <p>
+        Check the venue map to locate events and sessions <a href="/assets/campusMap.pdf" target="_blank"> HERE </a>.
+      </p> -->
+</center>
+
+<!-- Begin Schedule Section -->
+<section id="schedule" class="schedule">
+    <h5 align="center">Day 1: Thursday, December 1</h5>
+    <div class="content-wrapper">
+        {% for day in site.data.scheduleday1 %}
+        <!-- <p>{{day.sessionName}}</p> -->
+        <div class="schedule-table col-lg-10 col-md-8 col-md-offset-1">
+            <!-- <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4> -->
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="flex-justify-between flex-content-center">
+                    <h6  align="left" class="slot-title" style="font-weight: 400;color:#04214c;"><span>{{day.startTime}} - {{day.endTime}} &emsp; </span>  {{day.sessionName}} </h6>                                     
+
+                    {% if day.subtype == "invited" %}
+
+                        <p  align="center" class="slot-title" style="font-weight: 400;  font-style: italic; color:#04214c;"><span>{{day.topic}}</h6>                                     
+
+                    {% endif %}
+
+                    <p  align="left" style="font-weight: 300; color:#0d8867;">Location: {{day.location}}</p>                                           
+                    
+                    {% if day.chair != null %}
+                        <p  align="left" style="font-weight: 300; color:#396db4;">Session chair: {{day.chair}}</p>                                           
+                    {% endif %}
+
+
+                </div>
+
+                <div class="flex-justify-between">
+                    {% for presenter in day.content %}
+                    
+                    {% if day.subtype != "keynote" %}
+
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">                    
+                        <p align="left" class="slot-title" style="font-size:100%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>
+                        <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </p>
+                    </div>
+  
+                        <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
+                        <h6 align="left" class="slot-title" style="font-size:80%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </h6> -->
+                    {% else %}                    
+                        <!-- <p align="center" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>  -->
+                        <p align="center"  style="font-size:120%; font-weight: 400;">{{ presenter.presenter }} </p>
+                        <p align="center"  style="font-size:100%; font-weight: 300;">{{ presenter.affiliation }} </p>
+                    {% endif %}
+
+                    {% endfor %}                    
+                </div>
+
+
+            </div>
+        </div>
+
+
+        {% endfor %}
+    </div>
+</section>
+
+
+
+<section id="schedule" class="schedule">
+    <h5 align="center">Day 2: Friday, December 2</h5>
+    <div class="content-wrapper">
+        {% for day in site.data.scheduleday1 %}
+        <!-- <p>{{day.sessionName}}</p> -->
+        <div class="schedule-table col-lg-10 col-md-8 col-md-offset-1">
+            <!-- <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4> -->
+            <div class="timeslot" itemtype="http://schema.org/subEvent">
+                <div class="flex-justify-between flex-content-center">
+                    <h6  align="left" class="slot-title" style="font-weight: 400;color:#04214c;"><span>{{day.startTime}} - {{day.endTime}} &emsp; </span>  {{day.sessionName}} </h6>                                     
+                    {% if day.subtype == "invited" %}
+
+                    <p  align="center" class="slot-title" style="font-weight: 400; font-style: italic ;color:#04214c;"><span>{{day.topic}}</h6>                                     
+
+                    {% endif %}
+                    
+                    <p  align="left" style="font-weight: 300; color:#0d8867;">Location: {{day.location}}</p>                                           
+                    
+                    {% if day.chair != null %}
+                        <p  align="left" style="font-weight: 300; color:#396db4;">Session chair: {{day.chair}}</p>                                           
+                    {% endif %}
+
+
+                </div>
+
+                <div class="flex-justify-between">
+                    {% for presenter in day.content %}
+                    
+                    {% if day.subtype != "keynote" %}
+
+                    {% assign trackColWidth = 12 | divided_by: forloop.length %}
+                    <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">                    
+                        <p align="left" class="slot-title" style="font-size:100%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>
+                        <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </p>
+                    </div>
+  
+                        <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
+                        <h6 align="left" class="slot-title" style="font-size:80%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </h6> -->
+                    {% else %}                    
+                        <!-- <p align="center" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>  -->
+                        <p align="center"  style="font-size:120%; font-weight: 400;">{{ presenter.presenter }} </p>
+                        <p align="center"  style="font-size:100%; font-weight: 350;">{{ presenter.affiliation }} </p>
+                    {% endif %}
+
+                    {% endfor %}                    
+                </div>
+
+
+            </div>
+        </div>
+
+
+        {% endfor %}
+    </div>
+
+</section>
+
+<!-- End Schedule Section -->
+
