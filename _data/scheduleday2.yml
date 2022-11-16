@@ -174,8 +174,8 @@
     day: "2"
     subtype: "parallel"
     location: "Oruro Room"
-    startTime: "11:30"
-    endTime: "12:30"
+    startTime: "13:30"
+    endTime: "15:00"
     chair: "Fabiola Saavedra"
     content: 
         - {

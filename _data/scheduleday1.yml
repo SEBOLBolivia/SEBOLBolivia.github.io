@@ -196,8 +196,8 @@
     day: "1"
     subtype: "parallel"
     location: "Oruro room"
-    startTime: "11:30"
-    endTime: "12:30"
+    startTime: "13:30"
+    endTime: "15:00"
     chair: "Leonardo Orihuela (EAFIT)"
     content: 
         - {
