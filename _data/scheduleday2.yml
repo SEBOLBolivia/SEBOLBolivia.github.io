@@ -1,26 +1,26 @@
--   sessionName: "Keynote Address 3"
-    id: [018]
+-   sessionName: "Morning Keynote Address"
+    id: [019]
     day: "2"
     subtype: "keynote"
     location: "Convention Center - Centro de Eventos"
-    startTime: "08:45"
+    startTime: "08:30"
     endTime: "09:50"
-    chair: "Lykke E. Andersen (SDSN - Bolivia)"
+    chair: "Lykke E. Andersen (SDSN-Bolivia)"
     content: 
         - {
             presenter: "Carlota Sanz",
             title: "Economía Donut - Herramientas para transformar lugares",
             affiliation: "Dougnut Economics Action Lab"
         }
-
+ 
 -   sessionName: "Parallel Session C1: Experimental Economics"
-    id: [019]
+    id: [020]
     day: "2"
     subtype: "parallel"
     location: "La Paz Auditorium"
     startTime: "09:50"
     endTime: "11:10"
-    chair: "Joaquín Morales"
+    chair: "Joaquín Morales (SEBOL-UPB)"
     content: 
         - {
             presenter: "Marcos Agurto Adrianzén",
@@ -37,15 +37,15 @@
             title: "Do coercive and reputational institutions build up interpersonal trust? Experimental evidence from informal traders in Bolivia",
             affiliation: "Universidad Privada Boliviana"
         }
-
+ 
 -   sessionName: "Parallel Session C2: Multidimensional approaches to poverty and well-being"
-    id: [020]
+    id: [021]
     day: "2"
     subtype: "parallel"
     location: "WOW Room"
     startTime: "09:50"
     endTime: "11:10"
-    chair: "Ricardo Nogales"
+    chair: "Ricardo Nogales (SEBOL-UPB)"
     content: 
         - {
             presenter: "Sergio Mansilla Bustamante",
@@ -62,15 +62,15 @@
             title: "Equality of opportunity, different well-being approaches for public policy improvement",
             affiliation: "Universidad Privada Boliviana"
         }
-
+ 
 -   sessionName: "Parallel Session C3: Advances in Data Science, Digital Education and Mathematical Economics"
-    id: [021]
+    id: [022]
     day: "2"
     subtype: "parallel"
     location: "Oruro Room"
     startTime: "09:50"
     endTime: "11:10"
-    chair: "Pamela Córdova"
+    chair: "Pamela Córdova (UPB)"
     content: 
         - {
             presenter: "Pamela Córdova",
@@ -87,51 +87,62 @@
             title: "Bankruptcy Equilibrium: Efficiency and Contagion",
             affiliation: "Universidad Privada Boliviana"
         }
-
+ 
 -   sessionName: "Coffee Break"
-    id: [022]
+    id: [023]
     day: "2"
     subtype: "service"
     location: "Central Garden - Jardín Central"
     startTime: "11:10"
     endTime: "11:30"
     content: 
-
--   sessionName: "Invited session - Net Zero"
-    id: [023]
+ 
+-   sessionName: "Special Session: SDSN Bolivia and UPB"
+    id: [024]
     day: "2"
     subtype: "invited"
     location: "Convention Center - Centro de Eventos"
     startTime: "11:30"
     endTime: "12:30"
-    topic: "NET Zero Strategy at UPB"
-
+    chair: "Jhanira Rodriguez (SDSN Bolivia)"
+    content: 
+        - {
+            title: "Race to Zero: Strategies for Emissions Reductions at UPB",
+            affiliation: "In this session we present the report on UPBs greenhouse gas emissions, and we invite students, researchers and authorities to help elaborate emissions reduction strategies in an interactive session."
+        }
+ 
 -   sessionName: "Invited session - BOWEN"
-    id: [024]
+    id: [025]
     day: "2"
     subtype: "invited"
     location: "La Paz Auditorium"
     startTime: "11:30"
     endTime: "12:30"
-    topic: "Technical and soft skills for graduate school"
-
+    chair: "Solange Sardan (BOWEN)"
+    content: 
+        - {
+            presenter: "Marcela Eslava",
+            title: "Technical and soft skills for graduate school",
+            affiliation: "Universidad de los Andes"
+        }
+ 
 -   sessionName: "Lunch"
-    id: [025]
+    id: [026]
     day: "2"
     subtype: "service"
     location: "Soccer Field - Cancha de Fútbol"
     startTime: "12:30"
     endTime: "13:30"
     content: 
-
--   sessionName: "Parallel Session D1: Social norms and persistent institutions"
-    id: [026]
+ 
+-   sessionName: "Parallel Session D1: History, social norms and persistent institutions"
+    id: [027]
     day: "2"
     subtype: "parallel"
     location: "La Paz Auditorium"
     startTime: "13:30"
     endTime: "15:00"
-    chair: "Antonio Saravia"
+    chair: "Antonio Saravia (Mercer University)"
     content: 
         - {
             presenter: "Cesar Huaroto ",
@@ -143,15 +154,20 @@
             title: "You play the way you live: Aggressive soccer play and social capital",
             affiliation: "Mercer University"
         }
-
+        - {
+            presenter: "Maurico Medinacelli",
+            title: "Precios y subsidios a los hidrocarburos en Bolivia 1986 - 2025",
+            affiliation: "Private consultant"
+        }
+ 
 -   sessionName: "Parallel Session D2: Spread and consequences of the COVID-19 pandemic"
-    id: [027]
+    id: [028]
     day: "2"
     subtype: "parallel"
     location: "WOW Room"
     startTime: "13:30"
     endTime: "15:00"
-    chair: "Sara Santander"
+    chair: "Sara Santander (UPB)"
     content: 
         - {
             presenter: "Daniel Prudencio ",
@@ -168,15 +184,15 @@
             title: "Leaving the most vulnerable behind? School closures during the COVID-19 pandemic and pre-existing life struggles in Bolivia",
             affiliation: "Universidad Privada Boliviana"
         }
-
+ 
 -   sessionName: "Remote Parallel Session R2: Gaps in labor markets"
-    id: [028]
+    id: [029]
     day: "2"
     subtype: "parallel"
     location: "Oruro Room"
     startTime: "13:30"
     endTime: "15:00"
-    chair: "Fabiola Saavedra"
+    chair: "Fabiola Saavedra (SEBOL-BOWEN)"
     content: 
         - {
             presenter: "Fabiola Saavedra Caballero",
@@ -193,48 +209,48 @@
             title: "Who wins and losses when there is an increase in the minimum wage? Closing the ethnic income gaps in Peru",
             affiliation: "Universidad Nacional Mayor de San Marcos"
         }
-
--   sessionName: "Plenary session CAF"
-    id: [029]
+ 
+-   sessionName: "Plenary session - CAF banco de desarrollo de América Latina"
+    id: [030]
     day: "2"
     subtype: "invited"
     location: "Convention Center - Centro de Eventos"
     startTime: "15:00"
     endTime: "16:00"
-    chair: "Sergio Daga (SEBOL)"
-    topic: "RED 2021 - Caminos para la Intergración"
+    chair: "Sergio Daga (SEBOL-UPSA)"
     content: 
         - {
             presenter: "Lian Allub",
-            affiliation: "CAF - banco de desarrollo de América Latina"
+            title: "RED 2021 - Caminos para la Intergración",
+            affiliation: "CAF - Banco de Desarrollo de América Latina"
         }
-
+ 
 -   sessionName: "Coffee Break"
-    id: [030]
+    id: [031]
     day: "2"
     subtype: "service"
     location: "Central Garden - Jardín Central"
     startTime: "16:00"
     endTime: "16:20"
     content: 
-
--   sessionName: "Plenary session BID"
-    id: [031]
+ 
+-   sessionName: "Plenary session - Banco Interamericano de Desarrollo"
+    id: [032]
     day: "2"
-    subtype: "plenary"
+    subtype: "invited"
     location: "Convention Center - Centro de Eventos"
     startTime: "16:20"
     endTime: "17:20"
     chair: "Joaquín Morales (SEBOL)"
-    topic: "Impacto de la COVID-19 en el mercado laboral boliviano"
     content: 
         - {
-            presenter: "Manuel Urquidi",            
+            presenter: "Manuel Urquidi",
+            title: "Impacto de la COVID-19 en el mercado laboral boliviano",
             affiliation: "Banco Interamericano de Desarollo"
         }
-
--   sessionName: "Keynote Adress 4"
-    id: [032]
+ 
+-   sessionName: "Afternoon Keynote Adress"
+    id: [033]
     day: "2"
     subtype: "keynote"
     location: "Convention Center - Centro de Eventos"
@@ -247,12 +263,15 @@
             title: "Desarrollo empresarial y desigualdad en América Latina",
             affiliation: "Universidad de los Andes"
         }
-
+ 
 -   sessionName: "Farewell Cocktail"
-    id: [033]
+    id: [034]
     day: "2"
     subtype: "service"
     location: "Convention Center - Centro de Eventos"
     startTime: "18:30"
     endTime: "19:30"
     content: 
+        - {
+            presenter: "Ballet Folklórico UPB"
+        }
