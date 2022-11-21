@@ -105,22 +105,24 @@
             affiliation: "Universidad EAFIT"
         }
  
--   sessionName: "Book Exhibition"
+-   sessionName: "Book Exhibition - Sponsored by Universidad Católica Boliviana"
     id: [006]
     day: "1"
-    subtype: "parallel"
+    subtype: "invited"
     location: "La Paz Auditorium"
     startTime: "09:50"
     endTime: "11:10"
+    topic: "The Monetary and Fiscal History of Bolivia, 1960–2017"
     content: 
         - {
             presenter: "Timothy Kehoe",
-            title: "The Monetary and Fiscal History of Bolivia, 1960–2017",
-            affiliation: "University of Minnesota"
+            title: "Presentación del libro, lecciones aprendidas",
+            affiliation: "University of Minnesota",
         }
         - {
             presenter: "Carlos Gustavo Machicado",
-            affiliation: "Universidad Católica Boliviana",
+            title: "El caso boliviano",
+            affiliation: "Director de la Carrera de Economía de la Universidad Católica Boliviana",
         }
  
 -   sessionName: "Coffee Break"
@@ -143,21 +145,16 @@
         - {
             presenter: "Amparo Ergueta",
             title: "¿Cómo enfrentar los retos del mercado laboral?: la experiencia boliviana en programas de formación y empleo",
-            affiliation: "Embajada Suiza en Bolivia"
-        }
-        - {
-            presenter: "Manuel Urquidi",
-            affiliation: "Banco Interamericano de Desarrollo"
+            affiliation: "Embajada Suiza en Bolivia",
+            coauthor: "Manuel Urquidi",
+            affiliationCoauthor: "Banco Interamericano de Desarrollo"
         }
         - {
             presenter: "Maud Ritz",
             title: "Hacia la igualdad de género en servicios financieros: diagnóstico y propuesta",
-            affiliation: "ONU Mujeres"
-        }
-        - {
-            presenter: "Reynaldo Marconi",
-            title: "",
-            affiliation: "Consultor independiente"
+            affiliation: "ONU Mujeres",
+            coauthor: "Reynaldo Marconi",
+            affiliationCoauthor: "Consultor independiente"
         }
  
 -   sessionName: "Invited session - ORBITA"
@@ -320,7 +317,7 @@
             affiliation: Inter-American Development Bank
         }
  
--   sessionName: "Afternoon Keynote Adress - Urzúa"
+-   sessionName: "Afternoon Keynote Adress"
     id: [017]
     day: "1"
     subtype: "keynote"

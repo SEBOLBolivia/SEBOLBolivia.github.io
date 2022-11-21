@@ -52,6 +52,10 @@ tags: '/bcde2022/'
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">                    
                         <p align="left" class="slot-title" style="font-size:100%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>
                         <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </p>
+                        {% if presenter.coauthor != null %}
+                        <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;"> {{ presenter.coauthor }} ({{ presenter.affiliationCoauthor }}) </p>
+                        {% endif %}
+
                     </div>
   
                         <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
@@ -109,7 +113,11 @@ tags: '/bcde2022/'
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height">                    
                         <p align="left" class="slot-title" style="font-size:100%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></p>
-                        <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}) </p>
+                        <p align="left" class="slot-title" style="font-size:90%; font-weight: 300;">{{ presenter.presenter }} ({{ presenter.affiliation }}), {{ presenter.coauthor }} </p>
+
+
+                        <!-- <p align="center" style="font-size:120%; font-weight: 400;color:#396db4;">{{ presenter.coauthor }} ({{ presenter.affiliation2 }}) </p> -->
+
                     </div>
   
                         <!-- <h6 align="left" class="slot-title" style="font-size:90%; font-weight: 400;" itemprop="name"><span> {{presenter.title}} </span></h6> 
@@ -118,6 +126,12 @@ tags: '/bcde2022/'
                         <p align="center" class="slot-title" style="font-size:120%; font-weight: 400; font-style: italic;" itemprop="name"><span> {{presenter.title}} </span></p> 
                         <p align="center"  style="font-size:120%; font-weight: 400;color:#396db4;">{{ presenter.presenter }} </p>
                         <p align="center"  style="font-size:100%; font-weight: 350;">{{ presenter.affiliation }} </p>
+                        {% if presenter.coauthor != null %}
+                        <p align="center" style="font-size:120%; font-weight: 400;color:#396db4;"> {{ presenter.coauthor }}  </p>
+                        {% endif %}
+
+                        
+
                     {% endif %}
 
                     {% endfor %}                    
