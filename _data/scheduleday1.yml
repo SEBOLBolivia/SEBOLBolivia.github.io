@@ -310,11 +310,24 @@
     location: "Convention Center - Centro de Eventos"
     startTime: "16:20"
     endTime: "17:20"
+    chair: Oscar Molina (ABCE-UPB-SEBOL)
     topic: "Díalogos sobre coyuntúra económica de Bolivia"
     content: 
         - {
-            presenter: "Victoria Nuguer (BID)",
-            affiliation: Inter-American Development Bank
+            presenter: "Victoria Nuguer",
+            affiliation: BID
+        }
+        - {
+            presenter: "Juan Antonio Morales",
+            affiliation: ABCE - UCB
+        }
+        - {
+            presenter: "Beatriz Muriel",
+            affiliation: ABCE-INESAD
+        }
+        - {
+            presenter: "Chris Walker",
+            affiliation: IMF
         }
  
 -   sessionName: "Afternoon Keynote Adress"
