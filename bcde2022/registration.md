@@ -56,7 +56,7 @@ If you want to pay the old fashioned way and have a Bolivian bank account please
 
 **Banco BISA: Sociedad de Economistas de Bolivia**
 
-Acct Number (in Dollars): 257-5045-5017
+Acct Number (in Dollars): 257-504-5017
 
 NIT: 186158020
 
