@@ -16,6 +16,6 @@ easy recognition.
 she/he will do the registration. All cash payment must be done upon your arrival to Campus
 UPB.
 
-![image-title-here](/img/posts/bus.jpg){:class="img-responsive"}
+![image-title-here](/img/posts/bus.png){:class="img-responsive"}
 
 * If you were not able to reach an UPB bus in the given schedule, you can get to Campus UPB by taking public transportations called minibus; you will find them with an UPB sign at Plaza Humboldt. The cost is of Bs. 2,5 per person. Also, you may take a taxi from Plaza Humboldt to Campus UPB, the cost will range from Bs. 40 – 50. 
