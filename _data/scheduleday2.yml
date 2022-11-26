@@ -249,7 +249,7 @@
             affiliation: "Banco Interamericano de Desarollo"
         }
  
--   sessionName: "Afternoon Keynote Adress"
+-   sessionName: "Afternoon Keynote Address"
     id: [033]
     day: "2"
     subtype: "keynote"

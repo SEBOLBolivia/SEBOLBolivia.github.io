@@ -12,7 +12,7 @@
         }
         - {
             presenter: "Diego Escobari",
-            affiliation: "Sociedad de Economistas de Bolivia"
+            affiliation: "Sociedad de Economistas de Bolivia and UTRGV"
         }
  
 -   sessionName: "Morning Keynote Address"
@@ -59,7 +59,7 @@
     id: [004]
     day: "1"
     subtype: "parallel"
-    location: "Oruro room"
+    location: "Oruro Room"
     startTime: "09:50"
     endTime: "11:10"
     chair: "Mauricio Tejada (UAH)"
@@ -84,7 +84,7 @@
     id: [005]
     day: "1"
     subtype: "parallel"
-    location: "A3 (Diagonal to WOW room)"
+    location: "A3 (Diagonal to WOW Room)"
     startTime: "09:50"
     endTime: "11:10"
     chair: "Leonardo Orihuela (EAFIT)"
@@ -174,11 +174,11 @@
         - {
             presenter: "Valeria Revilla Calderón",
             title: "Las huellas ambientales del turismo en Bolivia",
-            affiliation: "Ministerio de Medio Ambiente y Agua"
+            affiliation: "Independiente"
         }
         - {
             presenter: "Loreley Adriana Huanca Valdez",
-            title: "Diseño de una estrategia de incentivos económicos hacia las aerolíneas para generar un impacto en el flujo de turistas. Caso: aeropuerto internacional de El Alto",
+            title: "Diseño de una estrategia de incentivos económicos hacia las aerolíneas para generar un impacto en el flujo de turistas. Caso: Aeropuerto internacional de El Alto",
             affiliation: "Becaria ORBITA"
         }
         - {
@@ -200,7 +200,7 @@
     id: [011]
     day: "1"
     subtype: "parallel"
-    location: "Oruro room"
+    location: "Oruro Room"
     startTime: "13:30"
     endTime: "15:00"
     chair: "Luis Castro (CIDE-UPB)"
@@ -242,7 +242,7 @@
         }
         - {
             presenter: "Rodrigo Lopez Ergueta",
-            title: "Same flood, different story: on the heterogeneous effects of natural disasters among those inhabitants of at-risk areas",
+            title: "Same flood, different story: On the heterogeneous effects of natural disasters among those inhabitants of at-risk areas",
             affiliation: "Universidad Privada Boliviana"
         }
  
@@ -250,7 +250,7 @@
     id: [013]
     day: "1"
     subtype: "parallel"
-    location: "LA Paz Auditorium"
+    location: "La Paz Auditorium"
     startTime: "09:50"
     endTime: "11:10"
     chair: "Diego Escobari (SEBOL-UTRGV)"
@@ -277,12 +277,12 @@
     subtype: "invited"
     location: "Convention Center - Centro de Eventos"
     startTime: "15:00"
+    topic: "Panel de debate: Situación y Perspectivas del Sistema de Pensiones Boliviano"
     endTime: "16:00"
     chair: "Beatriz Muriel (INESAD)"
     content: 
         - {
-            presenter: "Giovanna Hurtado",
-            title: "Panel de debate: Situación y Perspectivas del Sistema de Pensiones Boliviano",
+            presenter: "Giovanna Hurtado",            
             affiliation: "Centro de Estudios para el Desarrollo Laboral y Agrario (CEDLA)"
         }
         - {
@@ -311,7 +311,7 @@
     startTime: "16:20"
     endTime: "17:20"
     chair: Oscar Molina (ABCE-UPB-SEBOL)
-    topic: "Díalogos sobre coyuntúra económica de Bolivia"
+    topic: "Diálogos sobre coyuntura económica de Bolivia"
     content: 
         - {
             presenter: "Victoria Nuguer",
@@ -330,14 +330,14 @@
             affiliation: IMF
         }
  
--   sessionName: "Afternoon Keynote Adress"
+-   sessionName: "Afternoon Keynote Address"
     id: [017]
     day: "1"
     subtype: "keynote"
     location: "Convention Center - Centro de Eventos"
     startTime: "17:20"
     endTime: "18:20"
-    chair: "Diego Escobari (SEBOL-University of Maryland)"
+    chair: "Diego Escobari (SEBOL-UTRGV)"
     content: 
         - {
             presenter: "Sergio Urzúa",
