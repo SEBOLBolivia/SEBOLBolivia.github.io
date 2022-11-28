@@ -167,7 +167,7 @@
     location: "WOW Room"
     startTime: "13:30"
     endTime: "15:00"
-    chair: "Sara Santander (UPB)"
+    chair: "Andrea Alcaraz (UPB)"
     content: 
         - {
             presenter: "Daniel Prudencio ",
@@ -180,8 +180,8 @@
             affiliation: "Universidad del Pacifico"
         }
         - {
-            presenter: "Sara Santander",
-            title: "Leaving the most vulnerable behind? School closures during the COVID-19 pandemic and pre-existing life struggles in Bolivia",
+            presenter: "Andrea Alcaraz Rivero",
+            title: "An electricity cost supporting scheme on domestic consumption levels and household welfare: Quasi-experimental evidence from six Bolivian cities during the COVID-19 pandemic",
             affiliation: "Universidad Privada Boliviana"
         }
  
