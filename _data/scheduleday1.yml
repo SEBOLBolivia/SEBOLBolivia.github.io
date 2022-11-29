@@ -203,7 +203,7 @@
     location: "Oruro Room"
     startTime: "13:30"
     endTime: "15:00"
-    chair: "Luis Castro (CIDE-UPB)"
+    chair: "Carlos Gustavo Machicado (UCB)"
     content: 
         - {
             presenter: "Carlos Gustavo Machicado",
@@ -215,11 +215,11 @@
             title: "Firm growth, age and the intensity of international trade",
             affiliation: "Universidad Complutense de Madrid"
         }
-        - {
-            presenter: "Luis Castro Peñarrieta",
-            title: "Can Trade Policy Change Gender Equality? Evidence from Chile",
-            affiliation: "Centro de Investigación y Docencia Económicas (CIDE) and Universdad Privada Boliviana"
-        }
+        # - {
+        #     presenter: "Luis Castro Peñarrieta",
+        #     title: "Can Trade Policy Change Gender Equality? Evidence from Chile",
+        #     affiliation: "Centro de Investigación y Docencia Económicas (CIDE) and Universdad Privada Boliviana"
+        # }
  
 -   sessionName: "Parallel Session B2: Environment  and vulnerabilities"
     id: [012]
