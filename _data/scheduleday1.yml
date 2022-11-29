@@ -251,8 +251,8 @@
     day: "1"
     subtype: "parallel"
     location: "La Paz Auditorium"
-    startTime: "09:50"
-    endTime: "11:10"
+    startTime: "13:30"
+    endTime: "15:00"
     chair: "Diego Escobari (SEBOL-UTRGV)"
     content: 
         - {
