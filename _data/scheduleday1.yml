@@ -256,9 +256,11 @@
     chair: "Diego Escobari (SEBOL-UTRGV)"
     content: 
         - {
-            presenter: "Andrea Alcaraz Rivero / Edwin Malagón ",
+            presenter: "Andrea Alcaraz Rivero",
             title: "What were the Conditions of some Bolivian Cities' Peripheric Households during an Electricity Supporting Scheme due to the COVID Pandemic? A Survey Analysis",
-            affiliation: "UPB / BID"
+            affiliation: "Universidad Privada Boliviana",
+            coauthor: "Edwin Malagón ",
+            affiliationCoauthor: "Banco Interamericano de Desarrollo"
         }
         - {
             presenter: "Diego Escobari ",
