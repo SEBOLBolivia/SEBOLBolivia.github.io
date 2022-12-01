@@ -17,7 +17,7 @@
     id: [020]
     day: "2"
     subtype: "parallel"
-    location: "La Paz Auditorium"
+    location: "Oruro Room"
     startTime: "09:50"
     endTime: "11:10"
     chair: "Joaquín Morales (SEBOL-UPB)"
@@ -67,7 +67,7 @@
     id: [022]
     day: "2"
     subtype: "parallel"
-    location: "Oruro Room"
+    location: "La Paz Auditorium"
     startTime: "09:50"
     endTime: "11:10"
     chair: "Pamela Córdova (UPB)"
