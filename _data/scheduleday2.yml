@@ -241,14 +241,25 @@
     location: "Convention Center - Centro de Eventos"
     startTime: "16:20"
     endTime: "17:20"
+    # topic: "Impacto de la COVID-19 en el mercado laboral boliviano"
     chair: "Joaquín Morales (SEBOL)"
     content: 
         - {
-            presenter: "Manuel Urquidi",
-            title: "Impacto de la COVID-19 en el mercado laboral boliviano",
+            presenter: "Manuel Urquidi & Miguel Chalup",
+            title: "Brecha de género en LAC y el impacto de la covid-19",
             affiliation: "Banco Interamericano de Desarollo"
         }
- 
+        - {
+            presenter: "Manuel Urquidi & Liliana Serrate",
+            title: "Teletrabajo en Bolivia 2020-2021",
+            affiliation: "Banco Interamericano de Desarollo"
+        }
+        - {
+            presenter: "Luis Buscarons",
+            title: "De la pandemia a la sindemia: Análisis de los retos futuros para Bolivia",
+            affiliation: "Banco Interamericano de Desarollo"
+        }
+
 -   sessionName: "Afternoon Keynote Address"
     id: [033]
     day: "2"
