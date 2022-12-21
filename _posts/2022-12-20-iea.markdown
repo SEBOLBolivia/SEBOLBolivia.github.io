@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "IEA Call for Papers"
+date:   2019-07-23 07:00:00
+image: testbackground2.jpg
+visible: 1
+isStaticPost: false
+---
+
+##### IEA World Congress 2023
+
+The International Economic Association (IEA) and Universidad EAFIT Colombia are pleased to announce the 20th World Congress of IEA to be held in Medellin, Colombia between 11 and 15 December 2023. The congress is jointly organized by IEA and Universidad EAFIT, Colombia, with Universidad EAFIT being the local host.
+
+The International Economic Association (IEA) is the association of the economic associations from around the world, and is the unique international organization that brings together economists from developed and developing countries across a broad range of fields.
+
+__SEBOL is a member of IEA__
+
+Read the full call for papers here: [https://www.iea-world.org/event/another-event/](https://www.iea-world.org/event/another-event/)
+
