@@ -7,6 +7,24 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>IEA Call for Papers</title>
+        <description>&lt;h5 id=&quot;iea-world-congress-2023&quot;&gt;IEA World Congress 2023&lt;/h5&gt;
+
+&lt;p&gt;The International Economic Association (IEA) and Universidad EAFIT Colombia are pleased to announce the 20th World Congress of IEA to be held in Medellin, Colombia between 11 and 15 December 2023. The congress is jointly organized by IEA and Universidad EAFIT, Colombia, with Universidad EAFIT being the local host.&lt;/p&gt;
+
+&lt;p&gt;The International Economic Association (IEA) is the association of the economic associations from around the world, and is the unique international organization that brings together economists from developed and developing countries across a broad range of fields.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SEBOL is a member of IEA&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Read the full call for papers here: &lt;a href=&quot;https://www.iea-world.org/event/another-event/&quot;&gt;https://www.iea-world.org/event/another-event/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Dec 2022 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2022/12/20/iea/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/12/20/iea/</guid>
+      </item>
+    
+      <item>
         <title> Research highlight</title>
         <description>&lt;h5 id=&quot;likelihood-evaluation-of-models-with-occasionally-binding-constraints&quot;&gt;Likelihood evaluation of models with occasionally binding constraints&lt;/h5&gt;
 
@@ -34,7 +52,7 @@ url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2729},
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Tue, 23 Jul 2019 02:00:00 -0500</pubDate>
+        <pubDate>Tue, 23 Jul 2019 03:00:00 -0400</pubDate>
         <link>http://localhost:4000/2019/07/23/reshighlight/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/07/23/reshighlight/</guid>
       </item>
@@ -65,7 +83,7 @@ url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2729},
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Wed, 12 Jun 2019 02:00:00 -0500</pubDate>
+        <pubDate>Wed, 12 Jun 2019 03:00:00 -0400</pubDate>
         <link>http://localhost:4000/2019/06/12/reshighlight/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/06/12/reshighlight/</guid>
       </item>
@@ -111,7 +129,7 @@ A working paper version of the paper is available here:
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Sat, 11 May 2019 02:00:00 -0500</pubDate>
+        <pubDate>Sat, 11 May 2019 03:00:00 -0400</pubDate>
         <link>http://localhost:4000/2019/05/11/reshighlight/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/05/11/reshighlight/</guid>
       </item>
@@ -148,7 +166,7 @@ A working paper version of the paper is available here:
 }
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
-        <pubDate>Fri, 12 Apr 2019 04:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Apr 2019 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2019/04/12/reshighlight-1/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/04/12/reshighlight-1/</guid>
       </item>
@@ -185,7 +203,7 @@ A working paper version of the paper is available here:
 
 &lt;p&gt;More details about speakers, BCDE10, and logistics will appear in the conference website:&lt;a href=&quot;http://www.sebol.org/bcde10&quot;&gt;www.sebol.org/bcde10/&lt;/a&gt;, in the meantime like us on &lt;a href=&quot;https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=SEBOLBolivia&quot;&gt;Twitter&lt;/a&gt;, or subcribe to our &lt;a href=&quot;https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;amp;id=cc247ac02b&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://www.bcde8.org/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any important updates about the conference.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 10 Apr 2019 04:00:00 -0500</pubDate>
+        <pubDate>Wed, 10 Apr 2019 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/noticias/bcde10</link>
         <guid isPermaLink="true">http://localhost:4000/noticias/bcde10</guid>
       </item>
@@ -230,7 +248,7 @@ A working paper version of the paper is available here:
 
 &lt;!-- More details about speakers, BCDE9, and logistics will appear in subsequent posts, in the meantime like us on [Facebook](https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/), follow on [Twitter](https://twitter.com/intent/user?screen_name=SEBOLBolivia), or subcribe to our [mailing list](https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;amp;id=cc247ac02b) and [RSS feed](http://www.bcde8.org/feed.xml) in order not to miss any important updates about the conference. --&gt;
 </description>
-        <pubDate>Mon, 01 Apr 2019 04:00:00 -0500</pubDate>
+        <pubDate>Mon, 01 Apr 2019 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2019/04/01/dsw-call/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/04/01/dsw-call/</guid>
       </item>
@@ -261,7 +279,7 @@ A working paper version of the paper is available here:
 
 &lt;p&gt;More details about speakers, BCDE9, and logistics will appear in subsequent posts, in the meantime like us on &lt;a href=&quot;https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=SEBOLBolivia&quot;&gt;Twitter&lt;/a&gt;, or subcribe to our &lt;a href=&quot;https://mc.us15.list-manage.com/subscribe/post?u=32ecc95787a5980a33901b562&amp;amp;id=cc247ac02b&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://www.bcde8.org/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any important updates about the conference.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Mar 2018 04:00:00 -0500</pubDate>
+        <pubDate>Fri, 16 Mar 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/03/16/bcde9-announcement/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/16/bcde9-announcement/</guid>
       </item>
@@ -274,7 +292,7 @@ A working paper version of the paper is available here:
 &lt;p&gt;Gracias por visitarnos y ayudanos a compartir esta información a través de:
  &lt;a href=&quot;https://www.facebook.com/Sociedad-de-Economistas-de-Bolivia-379788332035459/&quot;&gt;Facebook&lt;/a&gt; y &lt;a href=&quot;https://twitter.com/intent/user?screen_name=SEBOLBolivia&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 15 Mar 2018 04:00:00 -0500</pubDate>
+        <pubDate>Thu, 15 Mar 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/03/15/hello/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/15/hello/</guid>
       </item>
@@ -321,68 +339,9 @@ A working paper version of the paper is available here:
 &lt;h4 id=&quot;consultas&quot;&gt;Consultas&lt;/h4&gt;
 &lt;p&gt;En caso de consultas sobre el envío de documentos y el programa, por favor contactar a los organizadores a la siguiente dirección: &lt;a href=&quot;mailto:rnogales@sebol.org&quot;&gt;rnogales@sebol.org&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Jun 2017 04:00:00 -0500</pubDate>
+        <pubDate>Fri, 23 Jun 2017 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2017/06/23/call-for-papers-es/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/06/23/call-for-papers-es/</guid>
-      </item>
-    
-      <item>
-        <title>Call for Papers</title>
-        <description>&lt;p&gt;We are delighted to announce that the 8th Bolivian Conference on Development Economics (BCDE8) will take place in Cochabamba, Bolivia, on Thursday October 26 and Friday October 27, 2017. The conference this year is jointly organized by the Institute for Advanced Development Studies (INESAD), the Society of Bolivian Economists (SEBOL), Universidad Privada Boliviana (UPB), and the Bolivian Academy of Economic Science (ABCE).&lt;/p&gt;
-
-&lt;p&gt;The conference brings together local and international scholars for the exchange of ideas and discussion of recent results within theoretical and applied development economics research. We particularly encourage female researchers and Bolivian researchers to submit papers on all topics within the field of development economics.&lt;/p&gt;
-
-&lt;p&gt;BCDE8 keynote speakers will be Sara Farley (Global Knowledge Initiative) and Carlos Végh (World Bank).&lt;/p&gt;
-
-&lt;h4 id=&quot;venue&quot;&gt;Venue&lt;/h4&gt;
-&lt;p&gt;BCDE8 will take place in the city of Cochabamba, Bolivia, at the main campus of Universidad Privada Boliviana (UPB).
-Information about the city and logistics is available &lt;a href=&quot;/logistics&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;keynote-speakers&quot;&gt;Keynote Speakers&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sara Farley (M.Sc. Stanford University) is Chief Operating Officer and Co-Founder of the Global Knowledge Initiative (GKI), an organization serving more than 60 countries and one that The Rockefeller Foundation designated as one of the “Top 100 Social Innovations for the next century”. Current GKI activities include collaborative innovation training, network optimization programs, and collaborative innovation strategy setting with partners including the World Bank, East African Community, African Development Bank, and others.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Carlos Végh (Ph.D. University of Chicago) is the World Bank Chief Economist for Latin America and the Caribbean. Prior to starting his job at the World Bank, he was the Fred H. Sanderson Professor of International Economics at the Johns Hopkins School of Advanced International Studies (SAIS) and a Research Associate at the National Bureau of Economic Research (NBER). He also served as Professor of Economics and Vice-Chair of Undergraduate Studies at UCLA, and before that as Chair of the Program in Comparative and Topical Studies at UCLA’s Latin American Center. He has published extensively in leading academic journals on monetary and fiscal policy in developing and emerging countries. He has co-edited a volume in honor of Guillermo Calvo (MIT Press) and  published a graduate textbook on open economy macroeconomics for developing countries (MIT Press). He has been a consultant for the IMF, World Bank, IDB, and many Central Banks around the world.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;invited-guest-speakers&quot;&gt;Invited Guest Speakers:&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Andrés Fernández (Ph.D. Rutgers University) is a Research Economist in the Research Department at the Inter-American Development Bank. His main research agenda focuses on building, calibrating and estimating dynamic stochastic general equilibrium models for emerging economies to  study the sources of business cycles in emerging economies.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Juan Vargas (Ph.D. University of London) is a Research Economist at CAF-Development Bank of Latin America. Juan held various academic and scholar positions in the U.S., Europe and Latin America. His research focuses on the political economy of conflict and the economic determinants of crime and violence.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;what-to-expect&quot;&gt;What to expect?&lt;/h4&gt;
-
-&lt;p&gt;BCDE8 follows up on the success of previous conferences held in La Paz, Cochabamba, and Santa Cruz, that attracted prestigious researchers and policymakers, and included keynote lectures by Norman Loayza (World Bank), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (IADB), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), and Francisco H. G. Ferreira (World Bank).&lt;/p&gt;
-
-&lt;h4 id=&quot;travel-and-accommodation&quot;&gt;Travel and accommodation&lt;/h4&gt;
-
-&lt;p&gt;All participants must cover their own travel and accommodation costs, but the organizers have arranged for preferential rates at hotels in Cochabamba. For details check: &lt;a href=&quot;http://www.bcde8.org/logistics&quot;&gt;www.bcde8.org/logistics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A travel stipend of up to 700 USD will be offered to some of the successful applicants residing outside Bolivia, based on the quality of their submissions. Applicants interested in being considered for one of these stipends, should send an email to &lt;a href=&quot;mailto:rnogales@sebol.org&quot;&gt;rnogales@sebol.org&lt;/a&gt; after submitting their papers.&lt;/p&gt;
-
-&lt;h4 id=&quot;paper-submissions&quot;&gt;Paper submissions&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Deadline:&lt;/strong&gt; is Friday August 11, 2017&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Please submit your papers&lt;/strong&gt; &lt;a href=&quot;http://bit.ly/2r6pkd0&quot;&gt;here&lt;/a&gt;. &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;All submitted papers will be reviewed prior to acceptance for presentation. The review process will finish by Friday September 1, 2017, and the organizers will notify applicants of the outcome by email. A program with details of all scheduled presentations will be posted at the Conference’s web site. &lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;contact&quot;&gt;Contact&lt;/h4&gt;
-&lt;p&gt;Please feel free to contact the organizers by e-mail at: &lt;a href=&quot;mailto:rnogales@sebol.org&quot;&gt;rnogales@sebol.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 May 2017 04:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2017/05/09/call-for-papers/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/09/call-for-papers/</guid>
       </item>
     
   </channel>
