@@ -52,7 +52,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Inicio"}
  - {permalink: "/nosotros/", text: "Nosotros"}
- - {permalink: "/bcde2022/", text: "BCDE2022"}
+ - {permalink: "/bcde2023/callforpapers", text: "BCDE2022"}
  - {permalink: "/erw/", text: "ERW"}
  - {permalink: "/dsw/", text: "DSW"}
  - {permalink: "/noticias/", text: "Noticias"}
