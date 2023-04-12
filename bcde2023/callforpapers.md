@@ -1,7 +1,7 @@
 ---
 layout: post-bcde
 title: Call for papers BCDE2023
-image: bannerBCDE2023.jpeg
+image: bannerBCDE2023.png
 isStaticPost: true
 tags: "/bcde2023/"
 ---
