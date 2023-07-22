@@ -37,10 +37,10 @@ Proposals for an entire thematic session are also welcome. For this, please subm
 
 <h4 style="color:#3C327C;"> IMPORTANT DATES</h4>
 <!-- <h5 style="color:#FF0000;"> *DEADLINE EXTENDED*</h5> -->
-* Paper submissions deadline: __Friday, June 30th,  2023.__
+* Paper submissions deadline: __Sunday, July 23th,  2023.__
 * Paper status notification: __Monday, August 28th, 2023.__
 * Registration deadline for accepted papers: __Friday, September 15th, 2023.__
 
 <h4 style="color:#3C327C;"> CONTACT</h4>
 
-For any question, please contact us at: [bcde2023@sebol.org](mailto:bcde2023@sebol.org)
+For any question, please contact us at: [bcde14@sebol.org](mailto:bcde14@sebol.org)
