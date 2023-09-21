@@ -43,7 +43,7 @@
         name: "BID",
         description: "Banco Inter-Americano de Desarrollo",
         # link: "https://latinamerica.hss.de/bolivia/",
-        imageUrl: "BID-logo.png",
+        imageUrl: "BID-Logo.png",
         width: "500px",
       }
     - {
