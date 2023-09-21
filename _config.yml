@@ -145,8 +145,8 @@ aboutBCDE2022:
 # - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2021/program"> here.</a>' }
 
 aboutBCDE14:
-- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is closed. <a href="/bcde2014/callforpapers/">Link.</a>' }
-- {title: "Registration", image: "registration.jpg", text: 'Conference Registration. <a href="/bcde2014/registration/">Link.</a>' }
+- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is closed. <a href="/bcde14/callforpapers/">Link.</a>' }
+- {title: "Registration", image: "registration.jpg", text: 'Conference Registration. <a href="/bcde14/registration/">Link.</a>' }
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
