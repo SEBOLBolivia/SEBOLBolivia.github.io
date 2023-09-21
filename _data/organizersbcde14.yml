@@ -1,0 +1,74 @@
+- group: "Organizers"
+  elements:
+    - {
+        name: "UCB",
+        description: "Universidad Católica Boliviana",
+        link: "https://www.ucb.edu.bo",
+        imageUrl: "UCB1.png",
+        width: "500px",
+        heigth: "300px",
+      }
+    - {
+        name: "SEBOL",
+        description: "Sociedad de Economistas de Bolivia",
+        link: "http://www.sebol.org",
+        imageUrl: "Logo-SEBOL-01-300x300.png",
+        width: "500px",
+      }
+    - {
+        name: "SDSN",
+        description: "Sustainable Development Solutions Network",
+        link: "http://sdsnbolivia.org",
+        imageUrl: "Logo-SDSN-01.png",
+        width: "500px",
+      }
+    - {
+        name: "ABCE",
+        description: "Academia Boliviana de Ciencias Economicas",
+        link: "",
+        imageUrl: "logo_abce.jpg",
+        width: "500px",
+      }
+    - {
+        name: "INESAD",
+        description: "Instituto de Investigaciones Avanzadas para el Desarrollo",
+        link: "http://www.inesad.org",
+        imageUrl: "Logo-INESAD-01-768x435.png",
+        width: "500px",
+      }
+
+- group: "Sponsors"
+  elements:
+    - {
+        name: "BID",
+        description: "Banco Inter-Americano de Desarrollo",
+        # link: "https://latinamerica.hss.de/bolivia/",
+        imageUrl: "BID-logo.png",
+        width: "500px",
+      }
+    - {
+        name: "CAF",
+        description: "Banco de Desarrollo de América Latina y el Caribe",
+        # link: "https://latinamerica.hss.de/bolivia/",
+        imageUrl: "CAF.png",
+        width: "500px",
+      }
+    - {
+        name: "Embajada Britanica",
+        description: "Embajada Británica",
+        # link: "https://latinamerica.hss.de/bolivia/",
+        imageUrl: "EmbajadaBritanica.jpg",
+        width: "500px",
+      }
+# -
+#   group: "Local partners"
+#   elements:
+# - {name: "Banco BISA", description: "BISA", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "logo_bisa.svg"}
+# - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+# - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+# - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+# - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+# - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
+# - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+# - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+# - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
