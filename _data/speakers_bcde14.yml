@@ -30,12 +30,13 @@
   thumbnailUrl: Blackman.jpg
   keynoteUrl: ""
   rockstar: true
-# - id: 4
-#   name: "Carlota"
-#   surname: "Sanz"
-#   company: "Doughnut Economics Action Lab"
-#   title: "Keynote Speaker"
-#   bio: ""
-#   thumbnailUrl: CarlotaSanz.png
-#   keynoteUrl: ""
-#   rockstar: true
+
+- id: 4
+  name: "Joaquín"
+  surname: "Vial"
+  company: "Clapes UC"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: JoaquinVial.jpeg
+  keynoteUrl: ""
+  rockstar: true

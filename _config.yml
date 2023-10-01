@@ -375,7 +375,8 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "BCDE Pasadas"
 hackathonRows:
- - {title: "BCDE 2020", image: "bcde2020.jpg", details: 'Conferencia Virtual. 27 y 28 de junio de 2020.<a href="http://www.sebol.org/bcde2020" target="_blank"> Link.</a>'}
+ - {title: "BCDE 2021", image: "bcde2021.jpeg", details: 'Conferencia Virtual. 1 y 2 de diciembre de 2022.<a href="http://www.sebol.org/bcde2022" target="_blank"> Link.</a>'}
+ - {title: "BCDE 2020", image: "bcde2020.jpg", details: 'Conferencia Virtual. 18 y 19 de noviembre de 2021.<a href="http://www.sebol.org/bcde2021" target="_blank"> Link.</a>'}
  - {title: "10ma BCDE", image: "bcde10.jpg", details: 'Realizada en la UPB. La Paz, 14 y 15 de noviembre de 2019.<a href="http://www.sebol.org/bcde10" target="_blank"> Link.</a>'}
  - {title: "9na BCDE", image: "bcde2018.png", details: 'Realizada en la UPSA. Santa Cruz, 29 y 30 de noviembre de 2018.<a href="http://www.sebol.org/bcde9" target="_blank"> Link.</a>'}
  - {title: "8va BCDE", image: "bcde2017.png", details: 'Realizada en la UPB. Cochabamba, 26 y 27 de octubre de 2017.<a href="http://bcde8.sebol.org" target="_blank"> Link.</a>'}

@@ -139,7 +139,7 @@ modal: all
 							{% assign animationDelay = 0 %} {% for speaker in site.data.speakers_bcde14 %}
 							{% if speaker.rockstar %}
 							{% assign colWidth = 12 | divided_by: 3 %}
-							<div class="judge col-md-{{ 4 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+							<div class="judge col-md-{{ 6 }} col-xs-6 animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 											<div class="flow-img img-circle judge-img" style="background-image: url({{ site.baseurl }}/img/people/{{ speaker.thumbnailUrl }})"></div>
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}</p>
 											<span class="company">{{ speaker.company }}</span>
@@ -165,6 +165,8 @@ modal: all
                             <b>Claudio Ferraz</b> is Professor at the Vancouver School of Economics, University of British Columbia, Adjunct Professor at the Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) and Scientific Director of J-PAL LAC. His areas of interest are development, political economy and public economics. In particular, his research focuses on governance and accountability in developing countries, as well as their consequences in the political sphere and in the provision of public services. His current projects examine how voters react to information campaigns, whether pay-for-performance improves the quality of education, and whether increasing the quality of politicians affects public policy.</br></br>
 
                             <b>Allen Blackman </b> is Principal Economic Advisor in the Climate and Sustainable Development sector at the Inter-American Development Bank. Past positions have included Thomas Klutznick Chair and Director of the Environment for Development Program at Resources for the Future, Resident Advisor at the Tropical Agricultural Research and Higher Education Center, Adjunct Associate Professor at Georgetown University McCourt School of Public Policy, and Visiting Research Fellow at the University of California San Diego US-Mexico Study Center. An environmental economist, Allen’s research focuses on three broad areas: land use and land cover change, urban environmental issues, and agricultural supply chains. He has served as Associate Editor of Environment and Development Economics and the Latin American Economic Review. He holds a Ph.D. in Economics are from the University of Texas at Austin, and a B.A. in International Relations and Political Science from the University of Pennsylvania. </br></br>
+                            
+                            <b>Joaquín Vial</b> is an economist from the University of Chile and holds a Ph.D. from the University of Pennsylvania. Currently, he is an Associate Professor at the Institute of Economics at the Catholic University and the Chief Researcher of CLAPES UC. He was a member of the Board (2012-22) and Vice President (2018-22) of the Central Bank of Chile. Previously, he held various positions at BBVA, where he worked between 2004 and 2011, and he has been involved in academic activities at Columbia, Harvard, Adolfo Ibáñez, Santiago, and the University of Chile, as well as at CIEPLAN, where he served as Executive Director from 1994 to 1996. He also worked at the Ministry of Finance, first as Coordinator of Macroeconomic Policies (1992-1994) and later as National Director of Budgets (1997-2000). He has consulted for international organizations and private companies, and he was the Chairman of the Board of AFP Provida from 2009 to 2011. Currently, he is a director at Metlife Seguros de Vida and Metlife Seguros Generales. </br>
 
 						</div>
 						</h6>
@@ -281,7 +283,7 @@ modal: all
 <!-- Begin Partners Section -->
 <section id="partners" class="partners">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+        <div class="col-lg-6 col-lg-offset-4">
              <!-- <h3>Organizers</h3>
              <h5> We are thankful for the support of the following institutions </h5> -->
                {% for partner in site.data.organizersbcde14 %}
