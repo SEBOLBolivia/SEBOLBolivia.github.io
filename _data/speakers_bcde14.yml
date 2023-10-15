@@ -1,7 +1,18 @@
 # EXPOSITORES SESIONES PLENARIAS
 # id: is the author identifier
 # id: is the paper identifier, typically corresponds to the paper id in conference maker
+
 - id: 1
+  name: "Allen"
+  surname: "Blackman"
+  company: "Inter-American Development Bank"
+  title: "Keynote Speaker"
+  bio: ""
+  thumbnailUrl: Blackman.jpg
+  keynoteUrl: ""
+  rockstar: true
+
+- id: 2
   name: "Mónica"
   surname: "Capra"
   company: "Claremont Graduate University"
@@ -21,17 +32,17 @@
   keynoteUrl: ""
   rockstar: true
 
-- id: 3
-  name: "Allen"
-  surname: "Blackman"
-  company: "Inter-American Development Bank"
+- id: 4
+  name: "Pablo Andrés"
+  surname: "Neumeyer"
+  company: "Universidad Torcuato Di Tella"
   title: "Keynote Speaker"
   bio: ""
-  thumbnailUrl: Blackman.jpg
+  thumbnailUrl: Neumeyer.jpeg
   keynoteUrl: ""
   rockstar: true
 
-- id: 4
+- id: 5
   name: "Joaquín"
   surname: "Vial"
   company: "Clapes UC"

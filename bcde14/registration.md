@@ -6,50 +6,52 @@ isStaticPost: true
 tags: "/bcde14/"
 ---
 
-#### Registration information will be available soon.
+#### Register to participate
 
-<!-- #### Registration schedule
+[![registro-es](/img/posts/registration-bcde14.jpg){:class="img-responsive"}](https://bcde14.web.app)
 
-![image-title-here](/img/posts/bannerRegister2022.jpeg){:class="img-responsive"} -->
-
-<!-- <section id="statistic" class="statistic image-section">
+<!-- <section id="statistic" class="statistic image-section enable-overlay"> -->
+<!-- <section id="rockstar-speakers" class="statistic image-section" style="background-color:#08306b;">
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
             <div class="col-md-{{ 6 }} col-xs-6">
-                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}"><i class='fa fa-qrcode'></i></span></div>
-					<div class="stat-info">Title</div>
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}"><i class='fa fa-graduation-cap'></i></span></div>
+					<div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">100Bs</span></div>
+					<div class="stat-info">Student</div>
 					<hr>
+					<p class="small">Details</p>
+					<p class="small">Details</p>
 					<p class="small">Details</p>
             </div>
             <div class="col-md-{{ 6 }} col-xs-6">
-                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">50</span>+</div>
-					<div class="stat-info">Title</div>
-					<hr>
-					<p class="small">Details</p>
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}"><i class='fa fa-briefcase'></i></span></div>
+					<div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">250Bs</span></div>
+    				<div class="stat-info">Professional</div>
+    				<hr>
+    				<p class="small">Details</p>
             </div>
-		</div>
-	</div>
+    	</div>
+    </div>
+
 </section> -->
 
 <!-- #### QR Payments <i class='fa fa-qrcode'></i> -->
 
-<!-- #### Payment options
+#### Payment options
 
 <br/>
+<span class="h1">QR Code <i class='fa fa-qrcode'></i></span>
 
-{% capture details %}
 This is the fastest and most secure method to register. Sign up online through our web application:
 
-##### <a href="https://bcde2022.rapipagos.app" target="_blank">https://bcde2022.rapipagos.app</a>
+##### <a href="https://bcde14.web.app" target="_blank">https://bcde14.web.app</a>
 
 Payments are verified automatically and you will receive inmediate notification of you registration status. **You need a Bolivian bank account that supports QR code payments**
 
-{% endcapture %}
-{% capture summary %}<span class="h1">QR Code <i class='fa fa-qrcode'></i></span>{% endcapture %}{% include details.html %}
-
 <hr/>
-{% capture details %}
+
+<span class="h1">Direct Deposit <i class='fa fa-money'></i></span>
 
 If you want to pay the old fashioned way and have a Bolivian bank account please pay your registration fee to:
 
@@ -59,10 +61,11 @@ Acct Number (in Dollars): 257-504-5017
 
 NIT: 186158020
 
-**Please send the voucher to [joaquinmorales@upb.edu](mailto:joaquinmorales@upb.edu)**
-{% endcapture %}
-{% capture summary %}<span class="h1">Direct Deposit <i class='fa fa-money'></i></span>{% endcapture %}{% include details.html %}
+**Please send the voucher to [bcde14@sebol.org](mailto:bcde14@sebol.org)**
 
+<hr/>
+
+<!--
 <hr/>
 {% capture details %}
 Make a family and friends tranfer using the following link:
@@ -71,8 +74,8 @@ Make a family and friends tranfer using the following link:
 
 **Please send the voucher to [joaquinmorales@upb.edu](mailto:joaquinmorales@upb.edu)**
 {% endcapture %}
-{% capture summary %}<span class="h1">Paypal <i class='fa fa-paypal'></i></span>{% endcapture %}{% include details.html %} -->
-
+{% capture summary %}<span class="h1">Paypal <i class='fa fa-paypal'></i></span>{% endcapture %}{% include details.html %}
+ -->
 <!-- You can register to the conference through our online registration app:
 
 ##### [https://bcde2022.rapipagos.app](https://bcde2022.rapipagos.app)

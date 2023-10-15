@@ -1,0 +1,584 @@
+# - sessionName: "Welcom Cocktail"
+#   id: [1]
+#   day: 0
+#   subtype: special
+#   location: British Embassy
+#   startTime: "18:00"
+#   endTime: "21:00"
+#   content:
+#     - {
+#         presenter: "Claudio Ferraz",
+#         title: "Politics, education and long-term development",
+#         affiliation: "University of British Columbia",
+#       }
+
+- sessionName: "Welcome Cocktai (by invitation only)"
+  id: [1]
+  day: 0
+  subtype: service
+  location: British Embassy
+  startTime: "18:00"
+  endTime: "21:00"
+
+- sessionName: "Participan Registration"
+  id: [2]
+  day: 1
+  subtype: service
+  location: 
+  startTime: "07:30"
+  endTime: "08:30"
+
+- sessionName: "Opening Remarks"
+  id: [3]
+  day: 1
+  subtype: keynote
+  location: 
+  startTime: "08:30"
+  endTime: "08:45"
+
+- sessionName: "Keynote 1"
+  id: [4]
+  day: 1
+  subtype: keynote
+  location: 
+  startTime: "08:45"
+  endTime: "09:45"
+  content:
+    - {
+        presenter: "Claudio Ferraz",
+        title: "Politics, education and long-term development",
+        affiliation: "University of British Columbia",
+      }
+
+- sessionName: "Coffee break"
+  id: [5]
+  day: 1
+  subtype: service
+  location: 
+  startTime: "09:45"
+  endTime: "10:15"
+
+- sessionName: "Parallel Session A1, A2, A3, A4"
+  id: [6]
+  day: 1
+  subtype: parallel
+  location: 
+  startTime: "10:15"
+  endTime: "11:45"
+  sessions: [
+    {
+    title: "A1: Higher Education and Labor Markets",
+    papers: [
+
+        {
+            title: "Unveiling the Efficiency Legacy of Higher Education Institutions in the Labor Market",
+            author: Fabiola Saavedra Caballero,
+            affiliation: UCL
+        },
+        {
+            title: "Impact of the COVID-19 Pandemic on University New Entry, Enrollment, and Graduation on STEM and Non-STEM Majors in Mexico",
+            author: Daniel Prudencio,
+            affiliation: Tecnologico de Monterrey
+        },
+        {
+            title: "Embracing the Hybrid Experience: Uncovering the Emotional Effects of Synchronous Hybrid Education on Undergraduate University Students",
+            author: Pamela Cordova,
+            affiliation: Universidad Privada Boliviana
+        }
+    ]
+    },
+     {
+        title: "A2: Early-life Shocks, Learning, and Intergenerational Effects",
+        papers: [
+
+         {
+            title: "Intergenerational effects of conflict on non-cognitive skills",
+            author: Alessandra Hidalgo,
+            affiliation: "Lancaster University"
+        },
+        {
+            title: "Efectos de la Inmigracion sobre el Aprendizaje de los Nativos: El Caso de la Crisis Venezolana",
+            author: Nicolas Irazoque Sillerico,
+            affiliation: Universidad Nacional de La Plata
+        },
+        {
+            title: "Some people feel the rain; others just get wet: Early-life shocks and personality trait formation in Peru",
+            author: Geral McQuade,
+            affiliation: Lancaster University
+        },
+        
+        ]
+
+    },
+         {
+        title: "A3: Reciprocity, Altruism, and Public Goods",
+        papers: [
+
+         {
+            title: "Proximity Matters: Distance to Administrators and Public Service Delivery in Uganda",
+            author: Marcelo Gantier Mita,
+            affiliation: "Paris School of Economics"
+        },
+        {
+            title: "Reciprocity and Communal Governance: Evidence from Aymara Water Associations in the Bolivian Altiplano",
+            author: Boris Branisa,
+            affiliation: Universidad Católica Boliviana
+        },
+        {
+            title: "Private Provision of Public Goods: Altruism, Government Incentives, and Market Formation",
+            author: Joaquin Morales Belpaire,
+            affiliation: Universidad Privada Boliviana
+        }
+        ]
+
+    },
+             {
+        title: "A4: Development, Mining, and Forced Labor",
+        papers: [
+
+         {
+            title: "Mining Capitalists in Developing Economies. The Big Bad Wolf or the Ugly Duckling? A proposal from the Bolivian case, c. 1850-1950",
+            author: José Peres-Cajías,
+            affiliation: "University of Barcelona"
+        },
+        {
+            title: "Attached once, attached forever: The persistent effects of concertaje in Ecuador",
+            author: Alex Rivadeneira Acosta,
+            affiliation: Banco de México
+        },
+        {
+            title: "Impact of the economic, health and political crises on growth GDP and Inflation in Bolivia (1988-2020)",
+            author: Ernesto Bernal, 
+            affiliation: Universidad Tecnica de Oruro
+        }
+        ]
+
+    }
+  ]
+
+- sessionName: "Invited sessio BID"
+  id: [10]
+  day: 1
+  subtype: invited
+  location: 
+  startTime: "11:45"
+  endTime: "13:05"
+  sessions: [
+    {
+    title: "BID",
+    papers: [
+
+        {
+        author: "Wladimir Zanoni",
+        title: "Actividades extractivas: impactos locales sobre el capital humano",
+        affiliation: "Inter-American Development Bank",
+        }
+    ]
+    },
+     {
+        title: "CAF: Reporte de Economía y Desarrollo",
+        papers: [
+
+         {
+        author: Pablo Brassiolo,
+        title: "Desafíos globales, soluciones regionales, América Latina y el Caribe frente a la crisis climática y de biodiversidad",
+        affiliation: CAF,
+        }
+        ]
+
+    },
+  ]
+  
+
+- sessionName: "Lunch Break / Sebol Assambly"
+  id: [12]
+  day: 1
+  subtype: service
+  location: 
+  startTime: "13:05"
+  endTime: "14:10"
+
+- sessionName: "Plenary session sponsored by Friedrich Ebert Stiftung (FES)"
+  id: [13]
+  day: 1
+  subtype: keynote
+  location: 
+  startTime: "14:10"
+  endTime: "15:30"
+  content:
+    - { presenter: Lykke Andersen , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "SDSN-UPB" }
+    - { presenter: Carola Mejia, title: “Cambio climático y migración de pueblos indígenas en Bolivia” , affiliation: }
+    - { presenter: Roberto Salvatierra, title: “Cambio climático, migración y salud en la región del Madidi” , affiliation: }
+
+- sessionName: "Parallel Session B1, B2, B3, B4"
+  id: [14]
+  day: 1
+  subtype: parallel
+  location: 
+  startTime: "15:30"
+  endTime: "17:00"
+  sessions: [
+    {
+    title: "B1: Covid-19, Labor Markets and Public Debt",
+    papers: [
+
+        {
+            title: "Resiliencia laboral en Bolivia durante la pandemia",
+            author: Manuel Urquidi,
+            affiliation: Banco Interamericano de Desarrollo
+        },
+        {
+            title: "Gender differences in Mexico in the face of the COVID-19 pandemic",
+            author: Reyna Rodríguez Pérez,
+            affiliation: Universidad Autónoma de Coahuila
+        },
+        {
+            title: "Análisis de sostenibilidad de deuda en Bolivia: pronósticos y escenarios post pandemia",
+            author: Diego Peñaranda Molina, 
+            affiliation: Fundación Aru
+        }
+    ]
+    },
+     {
+        title: "B2: Poverty and Inequality",
+        papers: [
+
+         {
+            title: "What is the Ideal Number of Women in Politics? Distributive Preferences, Inequality, and Meritocracy",
+            author: Pablo Selaya,
+            affiliation: "University of Copenhagen"
+        },
+        {
+            title: "Does family size help to understand wealth inequality in Latin America?",
+            author: Choque-Sánchez, 
+            affiliation: Universidad Católica Boliviana
+        },
+        {
+            title: "Grenada: Fiscal System and its Incidence on Poverty and Equity",
+            author: Guillermo Gomez Aliaga,
+            affiliation: Banco Mundial
+        },
+        
+        ]
+
+    },
+         {
+        title: "B3: Informal and Quality Self-employment",
+        papers: [
+
+         {
+            title: "Nudging towards quality self-employment jobs",
+            author: Lorena Heller Vilela, 
+            affiliation: "Universidad Privada Boliviana"
+        },
+        {
+            title: "Are Informal Self-Employment and Informal Employment as Employee Behaviorally Distinct Labor Force States?",
+            author: Luca Flabbi, 
+            affiliation: University of North Carolina Chapel Hill
+        }
+        ]
+
+    },
+             {
+        title: "B4: Forest Fires, Fake News, and Exchange Rates",
+        papers: [
+
+         {
+            title: "Forest Fires in Chile: Assessing the Economic and Environmental Impact on Natural Capital",
+            author: Luis E. Gonzales C., 
+            affiliation: "CLAPES UC Catholic University of Chile"
+        },
+        {
+            title: "Can Correction Messages Stop Fake News? The role of Updates on the Effectiveness of Corrections",
+            author: Diego Escobari, 
+            affiliation: The University of Texas Rio Grande Valley
+        },
+        {
+            title: "Exchange Rate and Current Account Dynamics in an Estimated DSGE Model",
+            author: Pablo Cuba-Borda, 
+            affiliation: Federal Reserve Board
+        }
+        ]
+
+    }
+  ]
+
+- sessionName: "Coffee break"
+  id: [18]
+  day: 1
+  subtype: service
+  location: 
+  startTime: "17:00"
+  endTime: "17:30"
+
+- sessionName: "Keynote 2"
+  id: [19]
+  day: 1
+  subtype: keynote
+  location: 
+  startTime: "17:30"
+  endTime: "18:30"
+  content:
+    - {
+        presenter: Allen Blackman,
+        title: "TBD",
+        affiliation: "Inter-American Development Bank",
+      }
+
+- sessionName: "Conference Dinner (speakers, organizers and sponsors only)"
+  id: [20]
+  day: 1
+  subtype: special
+  location: 
+  startTime: "20:00"
+  endTime: "00:00"
+
+- sessionName: "Keynote 3"
+  id: [21]
+  day: 2
+  subtype: keynote
+  location: 
+  startTime: "08:45"
+  endTime: "09:45"
+  content:
+    - {
+        presenter: Mónica Capra,
+        title: TBD,
+        affiliation: Claremont Graduate University,
+      }
+
+- sessionName: "Coffee break"
+  id: [22]
+  day: 2
+  subtype: service
+  location: 
+  startTime: "09:45"
+  endTime: "10:15"
+
+- sessionName: "Parallel Session C1, C2, C3, C4"
+  id: [23]
+  day: 2
+  subtype: parallel
+  location: 
+  startTime: "10:15"
+  endTime: "11:45"
+  sessions: [
+    {
+    title: "C1: Poverty, Inequality and Local Government Policies",
+    papers: [
+
+        {
+            title: "Local Economic Outcomes of Morales’ Legacy in Bolivia",
+            author: Sina Smid, 
+            affiliation: Copenhagen Business School
+        },
+        {
+            title: "Pobreza Multidimensional en WASH: Un análisis de su relación con la pobreza monetaria para el caso boliviano entre 2015-2021",
+            author: Sergio Mansilla Bustamante, 
+            affiliation: INESAD
+        },
+        {
+            title: "The many forms of poverty: Analyses of deprivation interlinkages in the developing world",
+            author: Ricardo Nogales, 
+            affiliation: Universidad Privada Boliviana
+        }
+    ]
+    },
+     {
+        title: "C2: Commodity Booms, Trade, and Development",
+        papers: [
+
+         {
+            title: "The political economy of Bolivia and Peru in the 21st Century: post-neoliberalism and the commodity boom",
+            author: Daniel Agramont Lechin, 
+            affiliation: "Peace Research Institute Frankfurt"
+        },
+        {
+            title: "Comercio, conflicto y paz: Un enfoque VAR para tres casos de estudio en América del Sur, Europa y Asia",
+            author: Rodrigo Burgoa, 
+            affiliation: Universidad Católica Boliviana
+        },
+        {
+            title: "Roads illuminate development: Using nightlight luminosity to assess the impact of transport infrastructure",
+            author: Osmar Bolivar Rosales,
+            affiliation: 
+        },
+        
+        ]
+
+    },
+         {
+        title: "C3: Markets, Demand Estimation, and Prices",
+        papers: [
+
+         {
+            title: "Market integration and price exuberance: Empirical evidence from Latin American markets",
+            author: Juan Jordán,
+            affiliation: "Universidad Privada Boliviana"
+        },
+        {
+            title: "Using Spatial Variation to Estimate the Price-Elasticity of Cigarette Demand: An Application to Bolivia",
+            author: Joaquín Morales Belpaire,
+            affiliation:  Universidad Privada Boliviana
+        },
+        {
+            title: "Estimación de una Demanda para la Distribución Eléctrica Caso Tarifa Dignidad en Bolivia",
+            author: Lourdes Espinoza, 
+            affiliation: Universidad Católica Boliviana
+        }
+        ]
+
+    },
+             {
+        title: "C4: Child Labor, Unions, and Employment",
+        papers: [
+
+         {
+            title: "Welfare Gains of Joining a Union for Latin America",
+            author: Fabrizio Ardiles Decker, 
+            affiliation: The University of Nottingham
+        },
+        {
+            title: "Prevalencia del Trabajo Infantil en Bolivia a través de la Norma Social",
+            author: Mateo Jiménez, 
+            affiliation: Universidad Privada Boliviana
+        },
+        {
+            title: "Crecimiento inclusivo y empleos dignos por género: el caso de las áreas urbanas de Bolivia",
+            author: Sergio Mansilla Bustamante, 
+            affiliation: INESAD
+        }
+        ]
+
+    }
+  ]
+
+
+- sessionName: "Invited Sessions"
+  id: [27]
+  day: 2
+  subtype: invited
+  location: 
+  startTime: "11:45"
+  endTime: "13:05"
+  sessions: [
+    {
+    title: "BOWEN",
+    papers: [
+
+        {
+            title: "Conversación con Monica Capra",
+            author: Mónica Capra, 
+            affiliation: Claremont Graduate University
+        }
+    ]
+    },
+     {
+        title: "IISEC",
+        papers: [
+
+         {
+            title: "Presentación Revista LAJED Nro 40",
+            author: Juan Antonio Morales, 
+            affiliation: "ABCE"
+        }
+        ]
+
+    },
+  ]
+
+
+- sessionName: "Lunch break"
+  id: [29]
+  day: 2
+  subtype: service
+  location: 
+  startTime: "13:05"
+  endTime: "14:25"
+
+- sessionName: "Invited Sessions"
+  id: [30]
+  day: 2
+  subtype: invited
+  location: 
+  startTime: "14:25"
+  endTime: "15:45"
+  sessions: [
+    {
+    title: "BID",
+    papers: [
+
+        {
+            title: "Evaluaciones de impacto",
+            author: TBD, 
+            affiliation: BID
+        }
+    ]
+    },
+     {
+        title: "INESAD",
+        papers: [
+
+         {
+            title: "La Protección Social en Bolivia",
+            author: TBD, 
+            affiliation: "INESAD"
+        }
+        ]
+
+    },
+  ]
+
+
+- sessionName: "Policy Panel"
+  id: [32]
+  day: 2
+  subtype: keynote
+  location: 
+  startTime: "15:45"
+  endTime: "17:15"
+  content:
+    - { presenter: Andres Neumeyer, title: " Exchange Rate and Dollarization: Lessons for Bolivia", affiliation: Universidad Torcuato di Tella }
+  panelists:  
+    - {
+    presenter: Joaquin Vial,
+    affiliation: CLAPES - Universidad Católica de Chile
+    }
+    - {
+        presenter: "Juan Antonio Morales",
+        affiliation: ABCE
+    }
+    - {
+    presenter: Carlos Gustavo Machicado,
+    affiliation: UCB
+  }
+
+- sessionName: "Coffee break"
+  id: [33]
+  day: 2
+  subtype: service
+  location: 
+  startTime: "17:15"
+  endTime: "17:45"
+
+- sessionName: "Plenary Session Sponsored by Inter-American Development Bank"
+  id: [34]
+  day: 2
+  subtype: keynote
+  location: 
+  startTime: "17:45"
+  endTime: "18:45"
+  content: 
+  - {
+    presenter: Manuel Urquidi,
+    title:  2022 Labor Market Survey in Bolivia,
+    affiliation: Inter-American Development Bank
+  }
+
+- sessionName: "Farewell Cocktail"
+  id: [35]
+  day: 2
+  subtype: service
+  location: 
+  startTime: "18:45"
+  endTime: "19:30"

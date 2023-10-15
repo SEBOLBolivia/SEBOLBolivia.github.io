@@ -83,10 +83,10 @@ BCDEnavigationLinksOLD:
 
 BCDEnavigationLinks:
  - {permalink: "", text: "Home"}
- - {permalink: "callforpapers/", text: "Call for papers"}
+#  - {permalink: "callforpapers/", text: "Call for papers"}
  - {permalink: "registration/", text: "Registration"}
-#  - {permalink: "program/", text: "Program"}
-#  - {permalink: "travel/", text: "Travel Info"}
+ - {permalink: "program/", text: "Program"}
+ - {permalink: "travel/", text: "Travel Info"}
 #  - {permalink: "bus/", text: "Getting to UPB"}
 #  - {permalink: "explore/", text: "Explore"}
  - {permalink: "../conferencias/", text: "Past Conferences"}
@@ -145,8 +145,10 @@ aboutBCDE2022:
 # - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde2021/program"> here.</a>' }
 
 aboutBCDE14:
-- {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is closed. <a href="/bcde14/callforpapers/">Link.</a>' }
+# - {title: "Call for Papers", image: "callforpapers.jpg", text: 'Call for papers is closed. <a href="/bcde14/callforpapers/">Link.</a>' }
 - {title: "Registration", image: "registration.jpg", text: 'Conference Registration. <a href="/bcde14/registration/">Link.</a>' }
+- {title: "Hotels", image: "hotelslpb.jpg", text: 'Lodging information is <a href="/bcde14/travel/"> here.</a>' }
+- {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde14/program/"> here.</a>' }
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
@@ -167,6 +169,12 @@ bcde2022stats:
 - {count: "90", specialCharacter: "+", info: "researchers", detail: "From local and international universities, research institutes and international organizations."}
 - {count: "100", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
 - {count: "40", specialCharacter: "+", info: "parallel sessions", detail: "Covering topics on education, inequality, labor markets, trade, health, macroeconomics, political economy, natural resources, environmental economics, entrepreneurship and productivity."}
+
+
+bcde14stats:
+- {count: "200", specialCharacter: "+", info: "attendees", detail: " Including undergraduate and graduate students, professionals, policy makers and private sector participants."}
+- {count: "50", specialCharacter: "+", info: "researchers", detail: "From local and international universities, research institutes and international organizations."}
+- {count: "60", specialCharacter: "+", info: "papers", detail: "Including plenary sessions with policy reports and academic presentations of cutting edge research. "}
 
 # Latest News Block
 latestNewsTitle: "Noticias recientes"
