@@ -206,9 +206,10 @@
   startTime: "14:10"
   endTime: "15:30"
   content:
-    - { presenter: Lykke Andersen , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "SDSN-UPB" }
-    - { presenter: Carola Mejia, title: “Cambio climático y migración de pueblos indígenas en Bolivia” , affiliation: }
-    - { presenter: Roberto Salvatierra, title: “Cambio climático, migración y salud en la región del Madidi” , affiliation: }
+    - { presenter: "Lykke Andersen" , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "SDSN-UPB" }
+    - { presenter: "Carola Mejia", title: "Cambio climático y migración de pueblos indígenas en Bolivia" , affiliation: "" }
+    - { presenter: "Leandra Diaz", title: "Santa Cruz de la Sierra: Desafíos hídricos ante el cambio climático y la migración" , affiliation: "" }
+    - { presenter: "Roberto Salvatierra", title: "Cambio climático, migración y salud en la región del Madidi" , affiliation: "" }
 
 - sessionName: "Parallel Session B1, B2, B3, B4"
   id: [14]
@@ -575,7 +576,7 @@
     affiliation: Inter-American Development Bank
   }
 
-- sessionName: "Farewell Cocktail"
+- sessionName: "Farewell Cocktail -  sponsored by IADB"
   id: [35]
   day: 2
   subtype: service
