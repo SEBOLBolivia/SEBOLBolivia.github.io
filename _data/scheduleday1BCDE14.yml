@@ -12,7 +12,7 @@
 #         affiliation: "University of British Columbia",
 #       }
 
-- sessionName: "Welcome Cocktai (by invitation only)"
+- sessionName: "Welcome Cocktail (by invitation only)"
   id: [1]
   day: 0
   subtype: service
@@ -20,7 +20,7 @@
   startTime: "18:00"
   endTime: "21:00"
 
-- sessionName: "Participan Registration"
+- sessionName: "Participant Registration"
   id: [2]
   day: 1
   subtype: service
@@ -156,7 +156,7 @@
     }
   ]
 
-- sessionName: "Invited sessio BID"
+- sessionName: "Invited Sessions"
   id: [10]
   day: 1
   subtype: invited
