@@ -9,7 +9,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, 0.8);
   width: 100%;
   padding: 0 45px;
   @media (min-width: 768px) and (max-width: 991px) {
-    padding: 13px 0 0 34px;
+    padding: 50px 0 0 34px;
   }
   &.after-scroll {
     padding-top: 0;
@@ -165,7 +165,7 @@ nav {
   }
 }
 .menu-trigger {
-  float: right;
+  float: left;
   transform: translateY(20px);
   right: 45px;
   transition: $base-transition;

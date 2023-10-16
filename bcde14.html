@@ -18,7 +18,6 @@ modal: all
     <!-- <div class="overlay gradient-overlay"></div> -->
 
     
-
 <!-- Navigation -->
 	<header id="top-header" class="top-header">
 	    <div class="overlay white-solid"></div>
@@ -88,7 +87,7 @@ modal: all
                         BCDE2022 is planned to be held as an <b style="color:#F5A00F;font-weight:bold">in-person event</b>. Please visit this website for future updates about the conference. -->
 
                     </br>
-                        The conference is possible thanks to the generous support of <i style="font-weight: 400">Banco Interamericano de Desarrollo, CAF Banco de Desarrollo para América Latina y el Cariba, Embajada Británica en Bolivia, Swiss Contact, Friedrich Ebert Stiftung</i>
+                        The conference is possible thanks to the generous support of <i style="font-weight: 400">Banco Interamericano de Desarrollo, CAF Banco de Desarrollo para América Latina y el Caribe, Embajada Británica en Bolivia, Swiss Contact, Friedrich Ebert Stiftung</i>
             </div>
                     
                 </h6>
@@ -224,11 +223,11 @@ modal: all
 
 
 						{% for about in site.aboutBCDE14 %}
-						{% assign colWidth = 12 | divided_by: 2 %}
-						<div class="col-md-{{ colWidth }} col-xs-6">
+						{% assign colWidth = 12 | divided_by: 3 %}
+						<div class="col-lg-{{ colWidth }} col-md-6 col-xs-12">
 								<div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
 										<h5>{{ about.title }}</h5>
-										<img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+										<img class="img-circle" src="{{ site.baseurl }}/img/about-section/{{ about.image }}" height="100" width="100" alt="{{ about.title }}">
 										<p>{{ about.text }}</p>
 								</div>
 						</div>
