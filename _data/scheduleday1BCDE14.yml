@@ -541,7 +541,7 @@
   ]
 
 
-- sessionName: "Policy Panel"
+- sessionName: "Policy Panel: Exchange Rate and Dollarization: Lessons for Bolivia"
   id: [32]
   day: 2
   subtype: keynote
@@ -549,7 +549,7 @@
   startTime: "15:45"
   endTime: "17:15"
   content:
-    - { presenter: Andres Neumeyer, title: " Exchange Rate and Dollarization: Lessons for Bolivia", affiliation: Universidad Torcuato di Tella }
+    - { presenter: , title: "", affiliation:  }
   panelists:  
     - {
     presenter: Joaquin Vial,

@@ -32,17 +32,17 @@
   keynoteUrl: ""
   rockstar: true
 
-- id: 4
-  name: "Pablo Andrés"
-  surname: "Neumeyer"
-  company: "Universidad Torcuato Di Tella"
-  title: "Keynote Speaker"
-  bio: ""
-  thumbnailUrl: Neumeyer.jpeg
-  keynoteUrl: ""
-  rockstar: true
+# - id: 4
+#   name: "Pablo Andrés"
+#   surname: "Neumeyer"
+#   company: "Universidad Torcuato Di Tella"
+#   title: "Keynote Speaker"
+#   bio: ""
+#   thumbnailUrl: Neumeyer.jpeg
+#   keynoteUrl: ""
+#   rockstar: true
 
-- id: 5
+- id: 4
   name: "Joaquín"
   surname: "Vial"
   company: "Clapes UC"
