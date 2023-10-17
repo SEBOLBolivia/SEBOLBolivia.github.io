@@ -322,7 +322,7 @@
   content:
     - {
         presenter: Allen Blackman,
-        title: "TBD",
+        title: "Using remote sensing data to shed light on the economics of forest loss and degradation in Latin America",
         affiliation: "Inter-American Development Bank",
       }
 
@@ -344,7 +344,7 @@
   content:
     - {
         presenter: Mónica Capra,
-        title: TBD,
+        title: "Behavioral Experiments with Intelligent Technologies",
         affiliation: Claremont Graduate University,
       }
 
@@ -419,7 +419,7 @@
         },
         {
             title: "Using Spatial Variation to Estimate the Price-Elasticity of Cigarette Demand: An Application to Bolivia",
-            author: Joaquín Morales Belpaire,
+            author: Sara Santander,
             affiliation:  Universidad Privada Boliviana
         },
         {
@@ -506,24 +506,34 @@
   endTime: "15:45"
   sessions: [
     {
-    title: "BID",
+    title: "BID 2: Impact Evaluation in Latin America (Sponsored by IADB's Natural Resources Division)",
     papers: [
 
         {
-            title: "Evaluaciones de impacto",
-            author: TBD, 
-            affiliation: BID
+            title: "Evaluacion de impacto del programa CRIAR",
+            author: Sebastián Bernal, 
+            affiliation: Universidad Nacional de Colombia
+        },
+        {
+          title: "Understanding the Dynamics and Effects of Land Regularization in Latin America",
+          author: Magaly Sáenz,
+          affiliation: BID
+        },
+        {
+          title: "Agricultural production and poverty reduction: Evidence from an irrigation intervention in Bolivia",
+          author: Cesar Augusto Lopez,
+          affiliation: Stanford Doerr School of Sustainability
         }
     ]
     },
      {
-        title: "INESAD",
+        title: "INESAD: La Protección Social en Bolivia",
         papers: [
 
          {
-            title: "La Protección Social en Bolivia",
+            title: "TBD",
             author: TBD, 
-            affiliation: "INESAD"
+            affiliation: "TBD"
         }
         ]
 
