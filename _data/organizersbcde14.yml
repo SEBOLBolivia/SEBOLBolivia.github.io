@@ -73,7 +73,11 @@
         width: "500px",
       }
     - { name: "Swiss Contact", imageUrl: "swisscontact.png", width: "500px" }
-    - { name: "Friedrich Ebert Stiftung", imageUrl: "FES.svg", width: "300px" }
+    - {
+        name: "Friedrich Ebert Stiftung",
+        imageUrl: "fes-logo.png",
+        width: "300px",
+      }
 # -
 #   group: "Local partners"
 #   elements:
