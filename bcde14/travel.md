@@ -27,33 +27,77 @@ La Paz is the most visited city because of its colonial and republican architect
 
 <!-- ![image-title-here](/img/posts/mapLaPaz.jpg){:class="img-responsive"} -->
 
-##### Airport
+##### AIRPORT
 
 El Alto airport is the main international airport near the city of La Paz. It is located 30 minutes from the historic center of La Paz. Transportation options include cabs, with an approximate price of 15-18 USD.
 
-##### Currency
+##### CURRENCY
 
 The national currency is Bolivianos, and the exchange rate (to October 2023) is of 6,91 BOB/USD.
 
-##### Hotels
+##### HOTELS
 
-We recommend **The Camino Real Suites** located at 369 Av. Ballivián, in the south district of La Paz. The hotel is located 45 minutes from El Alto International Airport (by car) and about 15 minutes from the conference venue by public transportation.
+The hotels closest to the Campus of the Universidad Católica Boliviana San Pablo, La Paz, with which we have a preferential rate are:
 
-- Hotel Camino Real - Sur [https://www.caminoreal.com.bo/hotel-la-paz](https://www.caminoreal.com.bo/hotel-la-paz)
+**Northern District**
 
-<!-- ![image-title-here](/img/posts/maphotels2022.png){:class="img-responsive"} -->
+Madero Hotel &amp; Suites [link](https://www.online-reservations.com/?hotelid=9454051&gclid=EAIaIQobChMI2cWF24n9gQMVkBqtBh0ivAb9EAAYASAAEgI6MvD_BwE)
 
-Other hotels in the area are:
+**Souther District**
 
-- Hotel Casa Grande - [https://www.casa-grande.com.bo/](https://www.casa-grande.com.bo/)
-- Hotel Calacoto - [https://www.hotelcalacoto.com/](https://www.hotelcalacoto.com/)
-- Hotel Rennova - [https://hotelrennova.com/en/hotel-rennova-2/](https://hotelrennova.com/en/hotel-rennova-2/)
+- Hotel Mitru Sur, Fuerza Naval Ave. Corner. 3rd St. Calacoto, +591 22790765 [link](http://hotelmitrusur.com/)
 
-##### Transportation
+- Camino Real Suites, Ballivian Ave. 369, +591 76765709 [link](https://www.caminoreal.com.bo/en?gclid=EAIaIQobChMItoe3_on9gQMVCjmtBh1s5AVFEAAYASAAEgLywPD_BwE&gclsrc=aw.ds)
 
-The transportation system of UPB will be available to and from the conference venue from Plaza Humboldt (highlighted in orange) which is about 20 minutes distance, before and after each parallel session.
+**Additional Hotels**
 
-##### Campus location
+- Ritz Apart Hotel, Plaza Isabel la Católica 2478, +591 2433131
+
+- Stannum Boutique Hotel &amp; Spa, Arce Ave. 2631, +591 22148393
+
+- Casa Grande Hoteles, 16th St. between Julio Patiño Street and Sanchez Bustamante Street 8009, +591 62478000
+
+- MET Hotel, Fuerza Naval Ave. 1626, +591 77786600
+
+##### PUBLIC TRANSPORTATION
+
+In La Paz there are two suggested forms of transportation, **PumaKatari
+buses** and **cable car (Teleferico)**, which have stops referenced according to the area.
+
+For buses, the Achumani - San Pedro and San Pedro - Achumani lines are the relevant ones:
+
+**Norther Zone:**
+
+- Start of the event: Initial stop, Plaza Avaroa Vuelta, Sánchez Lima Street,
+  between Pedro Salazar and Belisario Salinas. Final stop, 2nd St. of
+  Obrajes and Hernando Siles Avenue.
+
+- Return to the hotel: Initial stop, 2nd St. of Obrajes one way, Hernando
+  Siles Ave. between 1st St. of Obrajes and 2nd St. of Obrajes. Final Stop,
+  Plaza Isabel la Católica.
+
+**Souther Zone**
+o Going to the Event: Initial Stop, 10th St. of Calacoto and Ballivian Ave.
+Final Stop, and 2nd St. of Obrajes Hernando Siles Ave.
+o Return to the hotel: Initial stop, 2nd St. of Obrajes and Ormachea Ave.
+Final Stop, 13th St. of Calacoto.
+
+**Cable Car**
+
+- **Souther Zone:** From Irpavi Station (Green Line), Rafael Pabón Avenue to
+  Curva de Holguín Station (Green Line). The return to the hotel is the
+  same, but in the reverse order.
+
+- **Northern Zone** From Poeta Station (Celeste Line), Av. Arce and C. Campos,
+  to Curva de Holguín Station (Celeste Line). The return to the hotel is the
+  same, but in the reverse order.
+
+##### TAXI SERVICE
+
+We recommend downloading the **Yango - Taxi Service** application for a ride-sharing
+transportation service analogous to UBER.
+
+##### CAMPUS LOCATION
 
 The campus of the Universidad Católica Boliviana "San Pablo" is located on Avenida 14 de septiembre on the intersection with Calle 2 de obrajes. Campus is located 10 minutes from Suites Camino Real (by car)
 

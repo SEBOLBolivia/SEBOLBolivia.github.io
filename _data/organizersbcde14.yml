@@ -72,6 +72,8 @@
         imageUrl: "EmbajadaBritanica.jpg",
         width: "500px",
       }
+    - { name: "Swiss Contact", imageUrl: "swisscontact.png", width: "500px" }
+    - { name: "Friedrich Ebert Stiftung", imageUrl: "FES.svg", width: "300px" }
 # -
 #   group: "Local partners"
 #   elements:

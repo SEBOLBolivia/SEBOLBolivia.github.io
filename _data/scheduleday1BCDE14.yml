@@ -165,7 +165,7 @@
   endTime: "13:05"
   sessions: [
     {
-    title: "BID",
+    title: "BID Sponsored Session",
     papers: [
 
         {
@@ -176,12 +176,12 @@
     ]
     },
      {
-        title: "CAF: Reporte de Economía y Desarrollo",
+        title: "CAF Sponsored Session (Virtual)",
         papers: [
 
          {
-        author: Pablo Brassiolo,
-        title: "Desafíos globales, soluciones regionales, América Latina y el Caribe frente a la crisis climática y de biodiversidad",
+        author: Adrian Arreaza and Richard Condor,
+        title: "Desastres Naturales en América Latina y el Caribe; el rol de las inversiones en infraestructura resiliente y políticas de adaptación",
         affiliation: CAF,
         }
         ]
