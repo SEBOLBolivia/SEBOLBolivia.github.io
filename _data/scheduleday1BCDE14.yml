@@ -28,7 +28,7 @@
   startTime: "07:30"
   endTime: "08:30"
 
-- sessionName: "Opening Ceremony: Remarks by Conference Organizers"
+- sessionName: "Opening Ceremony: Welcome Remarks by Conference Organizers"
   id: [3]
   day: 1
   subtype: keynote
@@ -190,7 +190,7 @@
         papers: [
 
          {
-        author: Adrian Arreaza and Richard Condor,
+        author: Adriana Arreaza and Richard Condor,
         title: "Desastres Naturales en América Latina y el Caribe; el rol de las inversiones en infraestructura resiliente y políticas de adaptación",
         affiliation: CAF,
         }
