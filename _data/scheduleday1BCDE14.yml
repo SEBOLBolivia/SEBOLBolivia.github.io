@@ -24,15 +24,15 @@
   id: [2]
   day: 1
   subtype: service
-  location: 
+  location: "Coliseum"
   startTime: "07:30"
   endTime: "08:30"
 
-- sessionName: "Opening Ceremony: Welcome Remarks by Conference Organizers"
+- sessionName: "Opening Ceremony: Remarks by Conference Organizers"
   id: [3]
   day: 1
   subtype: keynote
-  location: 
+  location: "Coliseum"
   startTime: "08:30"
   endTime: "08:45"
 
@@ -40,7 +40,7 @@
   id: [4]
   day: 1
   subtype: keynote
-  location: 
+  location: "Coliseum"
   startTime: "08:45"
   endTime: "09:45"
   chair: "Carlos G. Machicado (UCB)"
@@ -55,7 +55,7 @@
   id: [5]
   day: 1
   subtype: service
-  location: 
+  location: 2nd and 3th floor of D Building
   startTime: "09:45"
   endTime: "10:15"
 
@@ -70,6 +70,7 @@
     {
     title: "A1: Higher Education and Labor Markets",
     chair: "Fabiola Saavedra Caballero (Universite Catholique de Louvain)",
+    location: "Auditorium 3, 3th floor of D Building",
     papers: [
 
         {
@@ -92,6 +93,7 @@
      {
         title: "A2: Early-life Shocks, Learning, and Intergenerational Effects",
         chair: "Alessandra Hidalgo (Lancaster University)",
+        location: "Auditorium 2, 2nd floor of D Building",
         papers: [
 
          {
@@ -116,6 +118,7 @@
          {
         title: "A3: Reciprocity, Altruism, and Public Goods",
         chair: "Marcelo Gantier Mita (Paris School of Economics)",
+        location: "Principal Auditorium, 2nd floor of G Building", 
         papers: [
 
          {
@@ -139,6 +142,7 @@
              {
         title: "A4: Development, Mining, and Forced Labor",
         chair: "José Peres-Cajías (University of Barcelona)",
+        location: "Aditorium 4, 4th floor of D Building",
         papers: [
 
          {
@@ -165,12 +169,12 @@
   id: [10]
   day: 1
   subtype: invited
-  location: 
   startTime: "11:45"
   endTime: "13:05"
   sessions: [
     {
     title: "BID Sponsored Session",
+    location: "Auditorium 4, 4th floor of D Building",
     papers: [
 
         {
@@ -182,6 +186,7 @@
     },
      {
         title: "CAF Sponsored Session (Virtual)",
+        location: "Principal Auditorium, 2nd floor og G Building",
         papers: [
 
          {
@@ -199,7 +204,7 @@
   id: [12]
   day: 1
   subtype: service
-  location: 
+  location: "University Auditorium, 5th floor of D Building"
   startTime: "13:05"
   endTime: "14:10"
 
@@ -207,7 +212,7 @@
   id: [13]
   day: 1
   subtype: keynote
-  location: 
+  location: "Coliseum"
   startTime: "14:10"
   endTime: "15:30"
   chair: "Daniel Agramont (FES)"
@@ -228,6 +233,7 @@
     {
     title: "B1: Covid-19, Labor Markets and Public Debt",
     chair: "Manuel Urquidi (Banco Interamericano de Desarrollo)",
+    location: "Principal Auditorium, 2nd floor of G Building",
     papers: [
 
         {
@@ -250,6 +256,7 @@
      {
         title: "B2: Poverty and Inequality",
         chair: "Session Chair: Pablo Selaya (University of Copenhagen)",
+        location: "Auditorium 3, 3th floor of D Building",
         papers: [
 
          {
@@ -274,6 +281,7 @@
          {
         title: "B3: Informal and Quality Self-employment",
         chair: "Lorena Heller Vilela (Universidad Privada Boliviana)",
+        location: "Aditorium 2, 2nd floor of D Building",
         papers: [
 
          {
@@ -297,6 +305,7 @@
              {
         title: "B4: Forest Fires, Fake News, and Exchange Rates",
         chair: "Luis E. Gonzales C. (CLAPES UC Catholic University of Chile)",
+        location: "Auditorium 4, 4th floor of D Building",
         papers: [
 
          {
@@ -323,7 +332,7 @@
   id: [18]
   day: 1
   subtype: service
-  location: 
+  location: "2nd and 3th floor of D Building"
   startTime: "17:00"
   endTime: "17:30"
 
@@ -331,7 +340,7 @@
   id: [19]
   day: 1
   subtype: keynote
-  location: 
+  location: "Coliseum"
   startTime: "17:30"
   endTime: "18:30"
   chair: "Diego Escobari (The University of Texas Rio Grande Valley)"
@@ -346,7 +355,7 @@
   id: [20]
   day: 1
   subtype: special
-  location: 
+  location: "La Suisse, Green Tower"
   startTime: "20:00"
   endTime: "00:00"
 
@@ -354,7 +363,7 @@
   id: [21]
   day: 2
   subtype: keynote
-  location: 
+  location: Coliseum 
   startTime: "08:45"
   endTime: "09:45"
   chair: "Chair: Fabiola Saavedra (Universite Catholique de Louvain)"
@@ -369,7 +378,7 @@
   id: [22]
   day: 2
   subtype: service
-  location: 
+  location: "2nd and 3th floor of D Building"
   startTime: "09:45"
   endTime: "10:15"
 
@@ -384,6 +393,7 @@
     {
     title: "C1: Poverty, Inequality and Local Government Policies",
     chair: "Sina Smid (Copenhagen Business School)",
+    location: "Auditorium 4, 4th floor of D Building",
     papers: [
 
         {
@@ -406,6 +416,7 @@
      {
         title: "C2: Commodity Booms, Trade, and Development",
         chair: "Daniel Agramont Lechin (Peace Research Institute Frankfurt)",
+        location: "Auditorium 3, 3th floor of D Building",
         papers: [
 
          {
@@ -430,6 +441,7 @@
          {
         title: "C3: Markets, Demand Estimation, and Prices",
         chair: "Lourdes Espinoza (Universidad Catolica Boliviana)",
+        location: "Auditorium 2, 2nd floor of D Building",
         papers: [
 
          {
@@ -453,6 +465,7 @@
              {
         title: "C4: Child Labor, Unions, and Employment",
         chair: "Fabrizio Ardiles Decker (The University of Nottingham)",
+        location: "Principal Auditorium, 2nd floor of G Building",
         papers: [
 
          {
@@ -482,6 +495,7 @@
     {
     title: "BOWEN Invited Session",
     chair: "Valeria Salinas (BOWEN) and Erika Soliz (BOWEN)",
+    location: "Auditorium 4, 4th floor of D Building",
     papers: [
 
         {
@@ -493,6 +507,7 @@
     },
      {
         title: "IISEC Invited Session",
+        location: "Principal Auditorium, 2nd floor of G Building",
         papers: [
 
          {
@@ -510,7 +525,7 @@
   id: [29]
   day: 2
   subtype: service
-  location: 
+  location: "University Auditorium, 5th floor of D Building"
   startTime: "13:05"
   endTime: "14:25"
 
@@ -524,6 +539,7 @@
   sessions: [
     {
     title: "BID 2: Impact Evaluation in Latin America (Sponsored by IADB's Natural Resources Division)",
+    location: "Auditorium 4, 4th floor of D Building",
     papers: [
 
         {
@@ -545,6 +561,7 @@
     },
      {
         title: "INESAD: La Protección Social en Bolivia",
+        location: "Auditorium 2, 4nd floor of D Building",
         papers: [
 
          {
@@ -562,7 +579,7 @@
   id: [32]
   day: 2
   subtype: keynote
-  location: 
+  location: "Coliseum"
   startTime: "15:45"
   endTime: "17:15"
   chair: "Beatriz Muriel (INESAD)"
@@ -594,7 +611,7 @@
   id: [34]
   day: 2
   subtype: keynote
-  location: 
+  location: Coliseum
   startTime: "17:45"
   endTime: "18:45"
   content: 
@@ -608,6 +625,6 @@
   id: [35]
   day: 2
   subtype: service
-  location: 
+  location: Coliseum
   startTime: "18:45"
   endTime: "19:30"
