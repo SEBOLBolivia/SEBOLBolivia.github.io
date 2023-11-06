@@ -16,7 +16,7 @@
   id: [1]
   day: 0
   subtype: service
-  location: British Embassy
+  location: British Embassy Residency
   startTime: "18:00"
   endTime: "21:00"
 
@@ -175,6 +175,7 @@
     {
     title: "BID Sponsored Session",
     location: "Auditorium 4, 4th floor of D Building",
+    chair: "José Peres-Cajías (University of Barcelona)",
     papers: [
 
         {
@@ -187,6 +188,7 @@
      {
         title: "CAF Sponsored Session (Virtual)",
         location: "Principal Auditorium, 2nd floor og G Building",
+        chair: "Luis Gonzales (CLAPES UC Catholic University of Chile)",
         papers: [
 
          {
@@ -217,7 +219,7 @@
   endTime: "15:30"
   chair: "Daniel Agramont (FES)"
   content:
-    - { presenter: "Lykke Andersen" , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "SDSN-UPB" }
+    - { presenter: "Guillermo Guzman" , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "" }
     - { presenter: "Carola Mejia", title: "Cambio climático y migración de pueblos indígenas en Bolivia" , affiliation: "" }
     - { presenter: "Leandra Diaz", title: "Santa Cruz de la Sierra: Desafíos hídricos ante el cambio climático y la migración" , affiliation: "" }
     - { presenter: "Roberto Salvatierra", title: "Cambio climático, migración y salud en la región del Madidi" , affiliation: "" }
@@ -347,7 +349,7 @@
   content:
     - {
         presenter: Allen Blackman,
-        title: "Using remote sensing data to shed light on the economics of forest loss and degradation in Latin America",
+        title: "Efficacy of Forest Conservation Interventions: Evolution of the Evidence",
         affiliation: "Inter-American Development Bank",
       }
 
@@ -366,7 +368,7 @@
   location: Coliseum 
   startTime: "08:45"
   endTime: "09:45"
-  chair: "Chair: Fabiola Saavedra (Universite Catholique de Louvain)"
+  chair: "Pablo Cuba (Federal Reserve Board))"
   content:
     - {
         presenter: Mónica Capra,
@@ -403,7 +405,7 @@
         },
         {
             title: "Pobreza Multidimensional en WASH: Un análisis de su relación con la pobreza monetaria para el caso boliviano entre 2015-2021",
-            author: Sergio Mansilla Bustamante, 
+            author: Erika Soliz, 
             affiliation: INESAD
         },
         {
@@ -540,6 +542,7 @@
     {
     title: "BID 2: Impact Evaluation in Latin America (Sponsored by IADB's Natural Resources Division)",
     location: "Auditorium 4, 4th floor of D Building",
+    chair: "Joaquin Morales (UPB)",
     papers: [
 
         {
@@ -562,12 +565,23 @@
      {
         title: "INESAD: La Protección Social en Bolivia",
         location: "Auditorium 2, 4nd floor of D Building",
+        chair: "Ximena Coronado (INESAD)",
         papers: [
 
          {
-            title: "TBD",
-            author: TBD, 
-            affiliation: "TBD"
+            title: "Determinantes del Acceso Efectivo al Sistema de Pensiones en Bolivia",
+            author: "Beatriz Muriel", 
+            affiliation: "(INESAD)"
+        },
+        {
+            title: "Resultados de Línea de Base sobre Conocimientos Financieros y Ahorro a Largo Plazo en Comunidades Productoras de Quinua en el Altiplano Sur",
+            author: "Alejandro Herrera", 
+            affiliation: "(INESAD)"
+        },
+        {
+            title: "Acceso a Servicios de Salud en Comunidades Productoras de Quinua: Adultos y Mujeres",
+            author: "Ximena Coronado", 
+            affiliation: "(INESAD)"
         }
         ]
 
