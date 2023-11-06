@@ -322,7 +322,7 @@
         },
         {
             title: "Exchange Rate and Current Account Dynamics in an Estimated DSGE Model",
-            author: Pablo Cuba-Borda, 
+            author: Pablo Cuba Borda, 
             affiliation: Federal Reserve Board
         }
         ]
@@ -368,7 +368,7 @@
   location: Coliseum 
   startTime: "08:45"
   endTime: "09:45"
-  chair: "Pablo Cuba (Federal Reserve Board))"
+  chair: "Pablo Cuba Borda (Federal Reserve Board)"
   content:
     - {
         presenter: Mónica Capra,
@@ -571,17 +571,17 @@
          {
             title: "Determinantes del Acceso Efectivo al Sistema de Pensiones en Bolivia",
             author: "Beatriz Muriel", 
-            affiliation: "(INESAD)"
+            affiliation: "INESAD"
         },
         {
             title: "Resultados de Línea de Base sobre Conocimientos Financieros y Ahorro a Largo Plazo en Comunidades Productoras de Quinua en el Altiplano Sur",
             author: "Alejandro Herrera", 
-            affiliation: "(INESAD)"
+            affiliation: "INESAD"
         },
         {
             title: "Acceso a Servicios de Salud en Comunidades Productoras de Quinua: Adultos y Mujeres",
             author: "Ximena Coronado", 
-            affiliation: "(INESAD)"
+            affiliation: "INESAD"
         }
         ]
 
