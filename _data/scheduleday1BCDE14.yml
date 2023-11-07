@@ -298,7 +298,7 @@
         },
         {
           title: "Crecimiento inclusivo y empleos dignos por género: el caso de las áreas urbanas de Bolivia",
-          author: Sergio Mansilla Bustamante,
+          author: Beatriz Muriel,
           affiliation: INESAD
         }
         ]
@@ -589,7 +589,7 @@
   ]
 
 
-- sessionName: "ABCE Policy Panel - Exchange rate regime and macroeconomic fundamentals"
+- sessionName: "ABCE-SEBOL Policy Panel - Exchange rate regime and macroeconomic fundamentals"
   id: [32]
   day: 2
   subtype: keynote
@@ -598,12 +598,16 @@
   endTime: "17:15"
   chair: "Beatriz Muriel (INESAD)"
   content:
-    - { presenter: , title: "", affiliation:  }
+    - { presenter: "", title: "", affiliation:  }
   panelists:  
     - {
     presenter: Joaquin Vial,
     affiliation: CLAPES - Universidad Católica de Chile
     }
+    - {
+    presenter: Luis Carlos Jemio,
+    affiliation: INESAD
+      } 
     - {
         presenter: "Juan Antonio Morales",
         affiliation: ABCE
