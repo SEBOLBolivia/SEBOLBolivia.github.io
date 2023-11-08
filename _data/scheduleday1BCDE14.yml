@@ -222,7 +222,7 @@
     - { presenter: "Guillermo Guzman" , title: "Migración inconclusa y pobreza estructural en Bolivia", affiliation: "" }
     - { presenter: "Carola Mejia", title: "Cambio climático y migración de pueblos indígenas en Bolivia" , affiliation: "" }
     - { presenter: "Leandra Diaz", title: "Santa Cruz de la Sierra: Desafíos hídricos ante el cambio climático y la migración" , affiliation: "" }
-    - { presenter: "Roberto Salvatierra", title: "Cambio climático, migración y salud en la región del Madidi" , affiliation: "" }
+    - { presenter: "Vicente Aguilera", title: "Cambio climático, migración y salud en la región del Madidi" , affiliation: "" }
 
 - sessionName: "Parallel Session B1, B2, B3, B4"
   id: [14]
@@ -479,6 +479,10 @@
             title: "Prevalencia del Trabajo Infantil en Bolivia a través de la Norma Social",
             author: Mateo Jiménez, 
             affiliation: Universidad Privada Boliviana
+        },{
+          title: "Regional luminosity through the lens of the spatial Solow model: Evidence from Java, Indonesia",
+          author: "Carlos Mendez",
+          affiliation: "Universidad de Nagoya"
         }
         ]
 
