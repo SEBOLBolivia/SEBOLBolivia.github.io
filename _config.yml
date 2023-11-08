@@ -149,6 +149,8 @@ aboutBCDE14:
 - {title: "Registration", image: "registration.jpg", text: 'Conference Registration. <a href="/bcde14/registration/">Link.</a>' }
 - {title: "Hotels", image: "hotelslpb.jpg", text: 'Lodging information is <a href="/bcde14/travel/"> here.</a>' }
 - {title: "Conference Program", image: "program.jpg", text: 'Available <a href="/bcde14/program/"> here.</a>' }
+- {title: "Conference Guide (ENG)", image: "registration.jpg", text: 'Available <a href="/bcde14/GuiaENG.pdf" target="_blank"> here.</a>' }
+- {title: "Conference Guide (ESP)", image: "registration.jpg", text: 'Available <a href="/bcde14/GuiaESP.pdf" target="_blank"> here.</a>' }
 
 # Statistic Block
 # statisticBlockImage: "hero_abstract_4.jpg"
