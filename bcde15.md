@@ -1,6 +1,6 @@
 ---
 layout: post-bcde
-title: Call for papers BCDE204
+title: Call for papers BCDE2024
 image: backgroundBCDE15.png
 isStaticPost: true
 tags: "/bcde15/"
