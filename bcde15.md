@@ -1,6 +1,6 @@
 ---
 layout: post-bcde
-title: Call for papers BCDE2024
+title: Call for papers BCDE15
 image: backgroundBCDE15.png
 isStaticPost: true
 tags: "/bcde15/"
@@ -11,12 +11,12 @@ tags: "/bcde15/"
 <center><h5 style="color:#3C327C;"> Tarija, Bolivia, 7-8 November 2024
 </h5></center>
 
-We are delighted to invite the submission of papers for the 2024 Bolivian Conference on Development Economics (BCDE2024). The conference will take place in-person from Thursday 7th to Friday 8th November 2024 and will be hosted by Universidad Católica Boliviana (UCB) in Tarija, Bolivia.
+We are delighted to invite the submission of papers for the **15th Bolivian Conference on Development Economics (BCDE15)**. The conference will take place in-person from Thursday 7th to Friday 8th November 2024 and will be hosted by **Universidad Católica Boliviana (UCB)** in **Tarija, Bolivia**.
 
 <h4 style="color:#3C327C;"> ABOUT THE CONFERENCE</h4>
 
 The Bolivian Conference on Development Economics aims to bring together local and international scholars to exchange ideas and discuss recent research on all areas related to economic development. We welcome submissions of theoretical and applied research, and we particularly encourage Bolivian scholars at an early stage in their careers to submit their work.
-The conference is organized by the Society of Bolivian Economists (SEBOL), with the support from Universidad Católica Boliviana (UCB), the Bolivian Academy of Economic Sciences (ABCE), the Institute for Advanced Development Studies (INESAD), and the Sustainable Development Solutions Network – Bolivia (SDSN).
+The conference is organized by the **Society of Bolivian Economists (SEBOL)**, with the support from **Universidad Católica Boliviana (UCB)**, the **Bolivian Academy of Economic Sciences (ABCE)**, the **Institute for Advanced Development Studies (INESAD)**, and the **Sustainable Development Solutions Network – Bolivia (SDSN)**.
 
 <h4 style="color:#3C327C;"> CONFIRMED KEYNOTE SPEAKERS</h4>
 
@@ -26,7 +26,7 @@ The conference is organized by the Society of Bolivian Economists (SEBOL), with 
 
 <h4 style="color:#3C327C;"> SUBMISSIONS</h4>
 
-BCDE2024 invites individual submission of research papers to be presented in parallel contributed sessions. Submissions in all research areas related to development economics are welcome. We also encourage submissions of work at the intersection of different fields and disciplines, in particular those that provide novel insights related to development economics.
+BCDE15 invites individual submission of research papers to be presented in parallel contributed sessions. Submissions in all research areas related to development economics are welcome. We also encourage submissions of work at the intersection of different fields and disciplines, in particular those that provide novel insights related to development economics.
 
 All submitted papers will be reviewed prior to acceptance for presentation, and all applicants will be notified of the outcome by email.
 
@@ -42,4 +42,4 @@ Proposals for an entire thematic session are also welcome. For this, please subm
 
 <h4 style="color:#3C327C;"> CONTACT</h4>
 
-For any question, please contact us at: [bcde2024@sebol.org](mailto:bcde2024@sebol.org)
+For any question, please contact us at: [admin@sebol.org](mailto:admin@sebol.org)
