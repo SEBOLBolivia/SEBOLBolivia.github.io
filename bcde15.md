@@ -30,7 +30,7 @@ BCDE15 invites individual submission of research papers to be presented in paral
 
 All submitted papers will be reviewed prior to acceptance for presentation, and all applicants will be notified of the outcome by email.
 
-Please submit your papers using this link: [https://editorialexpress.com/conference/BCDE2024/](https://editorialexpress.com/conference/BCDE2024/)
+Please submit your papers using this link: [https://editorialexpress.com/conference/BCDE15/](https://editorialexpress.com/conference/BCDE15/)
 
 Proposals for an entire thematic session are also welcome. For this, please submit three (3) papers individually using the link above and email the conference organizers to alert them about your proposed thematic session. Please note that all papers submitted as part of a thematic session will be reviewed individually. A thematic session will be formed if all papers are accepted. Otherwise, individually accepted papers will be allocated to parallel contributed sessions.
 
