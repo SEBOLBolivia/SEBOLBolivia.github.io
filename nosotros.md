@@ -26,7 +26,7 @@ Fomentar los estudios e investigaciones, tanto de carácter teórico como empír
 
 - Establecer y mantener relaciones con entidades nacionales y extranjeras que desarrollen actividades de análoga naturaleza.
 
-#### Directorio 2022-2023
+#### Directorio 2024-2025
 
 Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los estatutos y el reglamento de SEBOL:
 
