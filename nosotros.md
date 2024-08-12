@@ -33,7 +33,7 @@ Nuestro directorio esta compuesto por nueve miembros elegidos de acuerdo a los e
 - **Presidente:** <a href="https://jsmoralesb.wixsite.com/personal" target="_blank"> Joaquin Morales</a> (Universidad Privada Boliviana)
 - **Vicepresidente:** <a href="https://www.linkedin.com/in/ricardo-nogales-carvajal-73471036/?originalSubdomain=uk" target="_blank"> Ricardo Nogales</a> (Universidad Privada Boliviana)
 - **Secretario General:** <a href="http://www.pcubaborda.net" target="_blank">Pablo Cuba Borda</a> (Federal Reserve Board)
-- **Tesorero:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Universidad de CLAPES-UC)
+- **Tesorero:** <a href="https://www.lugoca.net" target="_blank"> Luis Gonzales Carrasco</a> (Banco Central de Chile)
 - **Director:** <a href="https://scholar.google.com/citations?user=npzRj74AAAAJ&hl=es" target="_blank"> Lykke Andersen</a> (SDSN Bolivia)
 - **Director:** <a href="https://faculty.utrgv.edu/diego.escobari/" target="_blank"> Diego Escobari</a> (Universidad de Texas RGV)
 - **Director:** <a href="https://sites.google.com/view/m-gantier-mita/home" target="_blank"> Marcelo Gantier-Mita</a> (Paris School of Economics)
