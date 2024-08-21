@@ -6,6 +6,9 @@ isStaticPost: true
 tags: "/bcde15/"
 ---
 
+<meta http-equiv="refresh" content="0; url=https://bcde15.sebol.org">
+
+<!--
 <center><h4 style="color:#3C327C;"> <b>Call For Papers</b> </h4></center>
 <center><h4 style="color:#3C327C;"> <b>BOLIVIAN CONFERENCE ON DEVELOPMENT ECONOMICS 2024.</b></h4></center>
 <center><h5 style="color:#3C327C;"> Tarija, Bolivia, 7-8 November 2024
@@ -35,11 +38,10 @@ Please submit your papers using this link: [https://editorialexpress.com/confere
 Proposals for an entire thematic session are also welcome. For this, please submit three (3) papers individually using the link above and email the conference organizers to alert them about your proposed thematic session. Please note that all papers submitted as part of a thematic session will be reviewed individually. A thematic session will be formed if all papers are accepted. Otherwise, individually accepted papers will be allocated to parallel contributed sessions.
 
 <h4 style="color:#3C327C;"> IMPORTANT DATES</h4>
-<!-- <h5 style="color:#FF0000;"> *DEADLINE EXTENDED*</h5> -->
 * Paper submissions deadline: __August 15th, 2024.__
 * Paper status notification: __September 1st, 2024.__
 * Registration deadline for accepted papers:  __September 31st, 2024.__
 
 <h4 style="color:#3C327C;"> CONTACT</h4>
 
-For any question, please contact us at: [admin@sebol.org](mailto:admin@sebol.org)
+For any question, please contact us at: [admin@sebol.org](mailto:admin@sebol.org) -->
