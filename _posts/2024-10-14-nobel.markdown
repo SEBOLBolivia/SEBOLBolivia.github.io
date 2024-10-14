@@ -9,6 +9,6 @@ isStaticPost: false
 
 ##### Felicitamos a los ganadores del Premio Nobel de Economía 2024
 
-**Daron Acemoglu, Simon Johnson y James Robinson** fueron galardonados con el Premio de Ciencias Económicas del Banco de Suecia en Memoria de Alfred Nobel por su contribución al estudio sobre como las instituciones se forman y son conducentes al desarrollo económico. Saludamos especialmente a James Robinson, quien fue nuestro expositor especial en la Conferencia Boliviana en Desarrollo Económico en dos oportunidades: en 2011 y en 2020. Conozca más detalles sobre las investigaciones de los autores [acá](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/)
+**Daron Acemoglu, Simon Johnson y James Robinson** fueron galardonados con el Premio de Ciencias Económicas del Banco de Suecia en Memoria de Alfred Nobel por su contribución al estudio sobre como las instituciones se forman y son conducentes al desarrollo económico. Saludamos especialmente a James Robinson, quien fue nuestro expositor plenario en la Conferencia Boliviana en Desarrollo Económico en dos oportunidades: en 2011 y en 2020. Conozca más detalles sobre las investigaciones de los autores [acá](https://www.nobelprize.org/prizes/economic-sciences/2024/summary/)
 
 **Vea la exposición plenaria de James Robinson en la BCDE 2020:** [en español](https://www.youtube.com/watch?v=7yzGXzgOwKQ), [en inglés](https://www.youtube.com/watch?v=IBJz9kRGlDk)
