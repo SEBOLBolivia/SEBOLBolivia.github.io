@@ -7,6 +7,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Premio Nobel de Economía 2024</title>
+        <description>&lt;h5 id=&quot;felicitamos-a-los-ganadores-del-premio-nobel-de-economía-2024&quot;&gt;Felicitamos a los ganadores del Premio Nobel de Economía 2024&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Daron Acemoglu, Simon Johnson y James Robinson&lt;/strong&gt; fueron galardonados con el Premio de Ciencias Económicas del Banco de Suecia en Memoria de Alfred Nobel por su contribución al estudio sobre como las instituciones se forman y son conducentes al desarrollo económico. Saludamos especialmente a James Robinson, quien fue nuestro expositor especial en la Conferencia Boliviana en Desarrollo Económico en dos oportunidades: en 2011 y en 2020. Conozca más detalles sobre las investigaciones de los autores &lt;a href=&quot;https://www.nobelprize.org/prizes/economic-sciences/2024/summary/&quot;&gt;acá&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vea la exposición plenaria de James Robinson en la BCDE 2020:&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=7yzGXzgOwKQ&quot;&gt;en español&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=IBJz9kRGlDk&quot;&gt;en inglés&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Oct 2024 03:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2024/10/14/nobel/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/10/14/nobel/</guid>
+      </item>
+    
+      <item>
         <title>IEA Call for Papers</title>
         <description>&lt;h5 id=&quot;iea-world-congress-2023&quot;&gt;IEA World Congress 2023&lt;/h5&gt;
 
@@ -191,7 +204,7 @@ A working paper version of the paper is available here:
 
 &lt;h4 id=&quot;important-information&quot;&gt;Important Information&lt;/h4&gt;
 
-&lt;!-- * **Attendance**: we're expecting over 200 attendees. --&gt;
+&lt;!-- * **Attendance**: we&apos;re expecting over 200 attendees. --&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Conference Date&lt;/strong&gt;: November 14-15, 2019.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Call for papers and sessions&lt;/strong&gt;: TBA&lt;/li&gt;
@@ -267,7 +280,7 @@ A working paper version of the paper is available here:
 
 &lt;h4 id=&quot;important-information&quot;&gt;Important Information&lt;/h4&gt;
 
-&lt;!-- * **Attendance**: we're expecting over 200 attendees. --&gt;
+&lt;!-- * **Attendance**: we&apos;re expecting over 200 attendees. --&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 29-30 of November.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Call for papers and sessions&lt;/strong&gt;: TBA&lt;/li&gt;
@@ -295,53 +308,6 @@ A working paper version of the paper is available here:
         <pubDate>Thu, 15 Mar 2018 05:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/03/15/hello/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/03/15/hello/</guid>
-      </item>
-    
-      <item>
-        <title>Convocatoria para documentos de trabajo</title>
-        <description>&lt;p&gt;Estamos encantados de anunciar que la 8va Conferencia en Desarrollo Económico (BCDE8) se llevará a cabo en Cochabamba, Bolivia el jueves 26 y viernes 27 de octubre de 2017. La conferencia es organizada por el Instituto de Estudios Avanzados para el Desarrollo (INESAD), la Sociedad de Economistas de Bolivia (SEBOL), la Universidad Privada Boliviana (UPB) y la Academia Boliviana de Ciencias Económicas (ABCE).&lt;/p&gt;
-
-&lt;p&gt;La conferencia reunirá a académicos nacionales e internacionales para intercambiar y discutir avances recientes en la investigación teórica y aplicada en temas de desarrollo económico. En particular invitamos a jóvenes investigadores y a mujeres investigadoras  a enviar documentos de investigación en todos los temas relacionados al campo del desarrollo económico.&lt;/p&gt;
-
-&lt;p&gt;Este año tenemos el agrado de contar con dos disertaciones magistrales a cargo de Sara Farley (Global Knowledge Initiative) y Carlos Végh (Banco Mundial).&lt;/p&gt;
-
-&lt;h4 id=&quot;lugar&quot;&gt;Lugar&lt;/h4&gt;
-&lt;p&gt;La BCDE8 se llevará a cabo en el campus de la Universidad Privada Boliviana (UPB) en Cochabamba, Bolivia. Mayor información sobre la ciudad y detalles de logística están disponibles &lt;a href=&quot;/logistics&quot;&gt;acá&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;expositores-principales&quot;&gt;Expositores Principales&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Sara Farley (M.Sc. Stanford University) es directora ejecutiva de operaciones (Chief Operating Officer) y cofundadora de la Iniciativa de Conocimiento Global (GKI), una organización que sirve a más de 60 países. Ha sido distinguida por la Fundación Rockefeller como una de los “100 Mejores Innovadores Sociales del Próximo Siglo”. Las actividades de GKI incluyen entrenamiento en innovación colaborativa, optimización de programas de redes y estrategias de cooperación colaborativa junto a otras instituciones que como el Banco Mundial, Comunidad del Este del África, Banco de Desarrollo Africano, entre otras.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Carlos Végh (Ph.D. University of Chicago) es el economista jefe del Banco Mundial para América Latina y el Caribe. Antes de asumir este cargo, Végh fue el profesor Fred H. Sanderson de Economía Internacional en la Escuela de Estudios Internacionales Avanzados (SAIS) de la Universidad John Hopkins e investigador asociado en la Oficina Nacional de Investigación Económica (NBER). También se desempeñó como profesor de economía en la Universidad de California, Los Ángeles (UCLA) y como profesor de economía en la Universidad de Maryland. Tiene numerosas publicaciones en revistas académicas especializadas en temas de política monetaria y fiscal en países emergentes y en desarrollo. Es coeditor de un volumen en honor a Guillermo Calvo (MIT Press) y ha publicado un libro de texto de nivel doctoral sobre macroeconomía de economías abiertas en países en desarrollo (MIT Press). Adicionalmente ha sido consultor para el Fondo Monetario Internacional (FMI), Banco Mundial, Banco Interamericano de Desarrollo (BID) y varios Bancos Centrales del mundo.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;sobre-la-conferencia&quot;&gt;Sobre la conferencia&lt;/h4&gt;
-
-&lt;p&gt;La BCDE8 es la continuación de otras conferencias organizadas en las ciudades de La Paz, Cochabamba y Santa Cruz que atrajeron académicos e investigadores de alto nivel, entre los que se incluye como principales oradores a Norman Loayza (Banco Mundial), Miguel Urquiola (Columbia), Beatriz Armendáriz (Harvard), Máximo Torero (IFPRI), Santiago Levy (BID), James Robinson (Chicago), Rodrigo Soares (Columbia), Eduardo Lora (Harvard Kennedy School of Government), Roberto Rigobon (MIT), Eduardo Engel (Yale), David Bishai (Johns Hopkins), y Francisco H. G. Ferreira (Banco Mundial).&lt;/p&gt;
-
-&lt;h4 id=&quot;viaje-y-estadía&quot;&gt;Viaje y estadía&lt;/h4&gt;
-
-&lt;p&gt;Todos los participantes deben cubrir sus propios gastos de viajes y estadía. Sin embargo, los organizadores negociarán tasas preferenciales en varios hoteles de Cochabamba durante los días de la conferencia. Para más información visita: &lt;a href=&quot;http://www.bcde8.org/logistics&quot;&gt;www.bcde8.org/logistics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Becas de ayuda de hasta 700 dólares americanos se ofrecerán para algunos de los participantes que viven fuera de Bolivia y cuyos documentos de investigación hayan sido aceptados en base a criterios de calidad académica. Los interesados en ser considerados para estos fondos deberán enviar un correo electrónico a &lt;a href=&quot;mailto:rnogales@sebol.org&quot;&gt;rnogales@sebol.org&lt;/a&gt; luego de enviar sus documentos.&lt;/p&gt;
-
-&lt;h4 id=&quot;documentos-de-investigación&quot;&gt;Documentos de investigación&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Fecha límite:&lt;/strong&gt; viernes 11 de agosto de 2017&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recepción de documentos:&lt;/strong&gt; &lt;a href=&quot;http://bit.ly/2r6pkd0&quot;&gt;http://bit.ly/2r6pkd0&lt;/a&gt;. &lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Todos los documentos recibidos serán revisados por un comité antes ser aceptados en la conferencia. El proceso de revisión terminará hasta el viernes 1ro de septiembre y los organizadores comunicaran los resultados del proceso de selección vía correo electrónico. El programa detallado estará disponible en el sitio web de la conferencia posteriormente.
-&lt;br /&gt;&lt;/p&gt;
-&lt;h4 id=&quot;consultas&quot;&gt;Consultas&lt;/h4&gt;
-&lt;p&gt;En caso de consultas sobre el envío de documentos y el programa, por favor contactar a los organizadores a la siguiente dirección: &lt;a href=&quot;mailto:rnogales@sebol.org&quot;&gt;rnogales@sebol.org&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Jun 2017 05:00:00 -0400</pubDate>
-        <link>http://localhost:4000/2017/06/23/call-for-papers-es/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/06/23/call-for-papers-es/</guid>
       </item>
     
   </channel>
