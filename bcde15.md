@@ -6,7 +6,7 @@ isStaticPost: true
 tags: "/bcde15/"
 ---
 
-<meta http-equiv="refresh" content="0; url=https://paysebol.web.app">
+<meta http-equiv="refresh" content="0; url=https://bcde15.sebol.org">
 
 <!--
 <center><h4 style="color:#3C327C;"> <b>Call For Papers</b> </h4></center>
