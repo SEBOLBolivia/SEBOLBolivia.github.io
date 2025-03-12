@@ -18,7 +18,8 @@ We are delighted to invite the submission of papers for the **16th Bolivian Conf
 <h4 style="color:#3C327C;"> ABOUT THE CONFERENCE</h4>
 
 The Bolivian Conference on Development Economics aims to bring together local and international scholars to exchange ideas and discuss recent research on all areas related to economic development. We welcome submissions of theoretical and applied research, and we particularly encourage Bolivian scholars at an early stage in their careers to submit their work.
-The conference is organized by the **Society of Bolivian Economists (SEBOL)**, with the support from **Universidad Católica Boliviana (UCB)**, the **Bolivian Academy of Economic Sciences (ABCE)**, the **Institute for Advanced Development Studies (INESAD)**, and the **Sustainable Development Solutions Network – Bolivia (SDSN)**.
+
+The conference is organized by the Society of Bolivian Economists (SEBOL), with the support from Universidad Privada Boliviana (UPB), the Bolivian Academy of Economic Sciences (ABCE), the Institute for Advanced Development Studies (INESAD), and the Sustainable Development Solutions Network – Bolivia (SDSN).
 
 <h4 style="color:#3C327C;"> CONFIRMED KEYNOTE SPEAKERS</h4>
 
