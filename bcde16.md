@@ -1,7 +1,7 @@
 ---
 layout: post-bcde
 title: Call for papers - BCDE 2025
-image: backgroundBCDE15.png
+image: hero_sebol2.png
 isStaticPost: true
 tags: "/bcde16/"
 ---
