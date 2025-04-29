@@ -6,9 +6,9 @@ isStaticPost: true
 tags: "/bcde16/"
 ---
 
-<!-- <meta http-equiv="refresh" content="0; url=https://bcde15.sebol.org"> -->
+<meta http-equiv="refresh" content="0; url=https://bcde2025.sebol.org">
 
-<center><h4 style="color:#3C327C;"> <b>Call For Papers</b> </h4></center>
+<!-- <center><h4 style="color:#3C327C;"> <b>Call For Papers</b> </h4></center>
 <center><h4 style="color:#3C327C;"> <b>16th BOLIVIAN CONFERENCE ON DEVELOPMENT ECONOMICS 2025.</b></h4></center>
 <center><h5 style="color:#3C327C;"> Santa Cruz, Bolivia, July 30 - August 1, 2025
 </h5></center>
@@ -46,4 +46,4 @@ Proposals for an entire thematic session are also welcome. For this, please subm
 
 <h4 style="color:#3C327C;"> CONTACT</h4>
 
-For any question, please contact us at: [admin@sebol.org](mailto:admin@sebol.org)
+For any question, please contact us at: [admin@sebol.org](mailto:admin@sebol.org) -->
